@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Why Twilio Segment moved from microservices back to a monolith",
+      "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "pubDate": "Sat, 13 Dec 2025 20:30:34 +0000",
+      "isoDate": "2025-12-13T20:30:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices\">https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46257714\">https://news.ycombinator.com/item?id=46257714</a></p>\n<p>Points: 184</p>\n<p># Comments: 138</p>\n",
+      "contentSnippet": "Article URL: https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices\nComments URL: https://news.ycombinator.com/item?id=46257714\nPoints: 184\n# Comments: 138",
+      "creator": "birdculture",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "VPN location claims don't match real traffic exits",
+      "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "pubDate": "Sat, 13 Dec 2025 19:46:19 +0000",
+      "isoDate": "2025-12-13T19:46:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ipinfo.io/blog/vpn-location-mismatch-report\">https://ipinfo.io/blog/vpn-location-mismatch-report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46257339\">https://news.ycombinator.com/item?id=46257339</a></p>\n<p>Points: 266</p>\n<p># Comments: 159</p>\n",
+      "contentSnippet": "Article URL: https://ipinfo.io/blog/vpn-location-mismatch-report\nComments URL: https://news.ycombinator.com/item?id=46257339\nPoints: 266\n# Comments: 159",
+      "creator": "mmaia",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I tried Gleam for Advent of Code",
+      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "pubDate": "Sat, 13 Dec 2025 17:00:14 +0000",
+      "isoDate": "2025-12-13T17:00:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.tymscar.com/posts/gleamaoc2025/\">https://blog.tymscar.com/posts/gleamaoc2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255991\">https://news.ycombinator.com/item?id=46255991</a></p>\n<p>Points: 242</p>\n<p># Comments: 134</p>\n",
+      "contentSnippet": "Article URL: https://blog.tymscar.com/posts/gleamaoc2025/\nComments URL: https://news.ycombinator.com/item?id=46255991\nPoints: 242\n# Comments: 134",
+      "creator": "tymscar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "LG TV's new software update installed MS Copilot, which cannot be deleted",
+      "link": "https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/",
+      "pubDate": "Sat, 13 Dec 2025 15:41:24 +0000",
+      "isoDate": "2025-12-13T15:41:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/\">https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255335\">https://news.ycombinator.com/item?id=46255335</a></p>\n<p>Points: 169</p>\n<p># Comments: 143</p>\n",
+      "contentSnippet": "Article URL: https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/\nComments URL: https://news.ycombinator.com/item?id=46255335\nPoints: 169\n# Comments: 143",
+      "creator": "bj-rn",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ask HN: How can I get better at using AI for programming?",
+      "link": "https://news.ycombinator.com/item?id=46255285",
+      "pubDate": "Sat, 13 Dec 2025 15:37:16 +0000",
+      "isoDate": "2025-12-13T15:37:16.000Z",
+      "content": "\n<p>I've been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-spamming, not wrapping divs in divs in divs, and replacing bootstrap with minimal tailwind. It also includes some logic refactors, to maintain the original functionality but rewritten to avoid years of code debt. Things like replacing templates using boolean flags for multiple views with composable Svelte components.<p>I've had a fairly steady process for doing this: look at each route defined in Django, build out my `+page.server.ts`, and then split each major section of the page into a Svelte component with a matching Storybook story. It takes a lot of time to do this, since I have to ensure I'm not just copying the template but rather recreating it in a more idiomatic style.<p>This kind of work seems like a great use case for AI assisted programming, but I've failed to use it effectively. At most, I can only get Claude Code to recreate some slightly less spaghetti code in Svelte. Simple prompting just isn't able to get AI's code quality within 90% of what I'd write by hand. Ideally, AI could get it's code to something I could review manually in 15-20 minutes, which would massively speed up the time spent on this project (right now it takes me 1-2 hours to properly translate a route).<p>Do you guys have tips or suggestions on how to improve my efficiency and code quality with AI?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255285\">https://news.ycombinator.com/item?id=46255285</a></p>\n<p>Points: 241</p>\n<p># Comments: 273</p>\n",
+      "contentSnippet": "I've been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-spamming, not wrapping divs in divs in divs, and replacing bootstrap with minimal tailwind. It also includes some logic refactors, to maintain the original functionality but rewritten to avoid years of code debt. Things like replacing templates using boolean flags for multiple views with composable Svelte components.\nI've had a fairly steady process for doing this: look at each route defined in Django, build out my `+page.server.ts`, and then split each major section of the page into a Svelte component with a matching Storybook story. It takes a lot of time to do this, since I have to ensure I'm not just copying the template but rather recreating it in a more idiomatic style.\nThis kind of work seems like a great use case for AI assisted programming, but I've failed to use it effectively. At most, I can only get Claude Code to recreate some slightly less spaghetti code in Svelte. Simple prompting just isn't able to get AI's code quality within 90% of what I'd write by hand. Ideally, AI could get it's code to something I could review manually in 15-20 minutes, which would massively speed up the time spent on this project (right now it takes me 1-2 hours to properly translate a route).\nDo you guys have tips or suggestions on how to improve my efficiency and code quality with AI?\nComments URL: https://news.ycombinator.com/item?id=46255285\nPoints: 241\n# Comments: 273",
+      "creator": "lemonlime227",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "YouTube's CEO limits his kids' social media use – other tech bosses do the same",
+      "link": "https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html",
+      "pubDate": "Sat, 13 Dec 2025 12:03:51 +0000",
+      "isoDate": "2025-12-13T12:03:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html\">https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46253985\">https://news.ycombinator.com/item?id=46253985</a></p>\n<p>Points: 185</p>\n<p># Comments: 173</p>\n",
+      "contentSnippet": "Article URL: https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html\nComments URL: https://news.ycombinator.com/item?id=46253985\nPoints: 185\n# Comments: 173",
+      "creator": "pseudolus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Computer animator and Amiga fanatic Dick van Dyke turns 100",
+      "link": "https://news.ycombinator.com/item?id=46252993",
+      "pubDate": "Sat, 13 Dec 2025 08:15:48 +0000",
+      "isoDate": "2025-12-13T08:15:48.000Z",
+      "content": "\n<p>Here's a video from 2004 <a href=\"https://www.youtube.com/watch?v=Y1J9kfDCAmU\" rel=\"nofollow\">https://www.youtube.com/watch?v=Y1J9kfDCAmU</a><p>It's his 100th birthday today.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252993\">https://news.ycombinator.com/item?id=46252993</a></p>\n<p>Points: 233</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Here's a video from 2004 https://www.youtube.com/watch?v=Y1J9kfDCAmU\nIt's his 100th birthday today.\nComments URL: https://news.ycombinator.com/item?id=46252993\nPoints: 233\n# Comments: 83",
+      "creator": "ggm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "link": "https://hey.paris/posts/appleid/",
+      "pubDate": "Sat, 13 Dec 2025 04:55:59 +0000",
+      "isoDate": "2025-12-13T04:55:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hey.paris/posts/appleid/\">https://hey.paris/posts/appleid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252114\">https://news.ycombinator.com/item?id=46252114</a></p>\n<p>Points: 1502</p>\n<p># Comments: 917</p>\n",
+      "contentSnippet": "Article URL: https://hey.paris/posts/appleid/\nComments URL: https://news.ycombinator.com/item?id=46252114\nPoints: 1502\n# Comments: 917",
+      "creator": "parisidau",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google removes Sci-Hub domains from U.S. search results due to dated court order",
+      "link": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "pubDate": "Sat, 13 Dec 2025 03:21:32 +0000",
+      "isoDate": "2025-12-13T03:21:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/\">https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251684\">https://news.ycombinator.com/item?id=46251684</a></p>\n<p>Points: 262</p>\n<p># Comments: 45</p>\n",
+      "contentSnippet": "Article URL: https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/\nComments URL: https://news.ycombinator.com/item?id=46251684\nPoints: 262\n# Comments: 45",
+      "creator": "t-3",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
+      "link": "https://www.ghibli.jp/info/013772/",
+      "pubDate": "Sat, 13 Dec 2025 02:56:49 +0000",
+      "isoDate": "2025-12-13T02:56:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ghibli.jp/info/013772/\">https://www.ghibli.jp/info/013772/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251582\">https://news.ycombinator.com/item?id=46251582</a></p>\n<p>Points: 210</p>\n<p># Comments: 86</p>\n",
+      "contentSnippet": "Article URL: https://www.ghibli.jp/info/013772/\nComments URL: https://news.ycombinator.com/item?id=46251582\nPoints: 210\n# Comments: 86",
+      "creator": "vinhnx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "pubDate": "Fri, 12 Dec 2025 23:30:19 +0000",
+      "isoDate": "2025-12-12T23:30:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2025/Dec/12/openai-skills/\">https://simonwillison.net/2025/Dec/12/openai-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46250332\">https://news.ycombinator.com/item?id=46250332</a></p>\n<p>Points: 543</p>\n<p># Comments: 309</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2025/Dec/12/openai-skills/\nComments URL: https://news.ycombinator.com/item?id=46250332\nPoints: 543\n# Comments: 309",
+      "creator": "simonw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "pubDate": "Fri, 12 Dec 2025 22:02:14 +0000",
+      "isoDate": "2025-12-12T22:02:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ringtailsoftware/uvm32\">https://github.com/ringtailsoftware/uvm32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46249538\">https://news.ycombinator.com/item?id=46249538</a></p>\n<p>Points: 187</p>\n<p># Comments: 12</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ringtailsoftware/uvm32\nComments URL: https://news.ycombinator.com/item?id=46249538\nPoints: 187\n# Comments: 12",
+      "creator": "trj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "pubDate": "Fri, 12 Dec 2025 20:57:34 +0000",
+      "isoDate": "2025-12-12T20:57:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unifoundry.com/unifont/index.html\">https://unifoundry.com/unifont/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248859\">https://news.ycombinator.com/item?id=46248859</a></p>\n<p>Points: 327</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://unifoundry.com/unifont/index.html\nComments URL: https://news.ycombinator.com/item?id=46248859\nPoints: 327\n# Comments: 73",
+      "creator": "remywang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "pubDate": "Fri, 12 Dec 2025 20:41:38 +0000",
+      "isoDate": "2025-12-12T20:41:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\">https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248644\">https://news.ycombinator.com/item?id=46248644</a></p>\n<p>Points: 517</p>\n<p># Comments: 275</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\nComments URL: https://news.ycombinator.com/item?id=46248644\nPoints: 517\n# Comments: 275",
+      "creator": "guiand",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Rats Play DOOM",
+      "link": "https://ratsplaydoom.com/",
+      "pubDate": "Fri, 12 Dec 2025 20:15:58 +0000",
+      "isoDate": "2025-12-12T20:15:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ratsplaydoom.com/\">https://ratsplaydoom.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248323\">https://news.ycombinator.com/item?id=46248323</a></p>\n<p>Points: 394</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://ratsplaydoom.com/\nComments URL: https://news.ycombinator.com/item?id=46248323\nPoints: 394\n# Comments: 146",
+      "creator": "ano-ther",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Benn Jordan’s flock camera jammer will send you to jail in Florida now [video]",
+      "link": "https://www.youtube.com/watch?v=qEllWdK4l_A",
+      "pubDate": "Fri, 12 Dec 2025 18:58:43 +0000",
+      "isoDate": "2025-12-12T18:58:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qEllWdK4l_A\">https://www.youtube.com/watch?v=qEllWdK4l_A</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46247415\">https://news.ycombinator.com/item?id=46247415</a></p>\n<p>Points: 172</p>\n<p># Comments: 168</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=qEllWdK4l_A\nComments URL: https://news.ycombinator.com/item?id=46247415\nPoints: 172\n# Comments: 168",
+      "creator": "givemeethekeys",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
+      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+      "pubDate": "Fri, 12 Dec 2025 18:23:21 +0000",
+      "isoDate": "2025-12-12T18:23:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46247000\">https://news.ycombinator.com/item?id=46247000</a></p>\n<p>Points: 265</p>\n<p># Comments: 154</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\nComments URL: https://news.ycombinator.com/item?id=46247000\nPoints: 265\n# Comments: 154",
+      "creator": "kernelrocks",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Id Software devs form \"wall-to-wall\" union",
+      "link": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour",
+      "pubDate": "Fri, 12 Dec 2025 18:11:23 +0000",
+      "isoDate": "2025-12-12T18:11:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour\">https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246845\">https://news.ycombinator.com/item?id=46246845</a></p>\n<p>Points: 324</p>\n<p># Comments: 354</p>\n",
+      "contentSnippet": "Article URL: https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour\nComments URL: https://news.ycombinator.com/item?id=46246845\nPoints: 324\n# Comments: 354",
+      "creator": "simjue",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google releases its new Google Sans Flex font as open source",
+      "link": "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu",
+      "pubDate": "Fri, 12 Dec 2025 18:07:57 +0000",
+      "isoDate": "2025-12-12T18:07:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu\">https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246802\">https://news.ycombinator.com/item?id=46246802</a></p>\n<p>Points: 227</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu\nComments URL: https://news.ycombinator.com/item?id=46246802\nPoints: 227\n# Comments: 109",
+      "creator": "CharlesW",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Japan law opening phone app stores to go into effect",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/",
+      "pubDate": "Fri, 12 Dec 2025 16:59:04 +0000",
+      "isoDate": "2025-12-12T16:59:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/\">https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246006\">https://news.ycombinator.com/item?id=46246006</a></p>\n<p>Points: 170</p>\n<p># Comments: 33</p>\n",
+      "contentSnippet": "Article URL: https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/\nComments URL: https://news.ycombinator.com/item?id=46246006\nPoints: 170\n# Comments: 33",
+      "creator": "shlip",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "String theory inspires a brilliant, baffling new math proof",
+      "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+      "pubDate": "Fri, 12 Dec 2025 16:23:10 +0000",
+      "isoDate": "2025-12-12T16:23:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/\">https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245622\">https://news.ycombinator.com/item?id=46245622</a></p>\n<p>Points: 176</p>\n<p># Comments: 161</p>\n",
+      "contentSnippet": "Article URL: https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/\nComments URL: https://news.ycombinator.com/item?id=46245622\nPoints: 176\n# Comments: 161",
+      "creator": "ArmageddonIt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "pubDate": "Fri, 12 Dec 2025 16:04:16 +0000",
+      "isoDate": "2025-12-12T16:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/\">https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245398\">https://news.ycombinator.com/item?id=46245398</a></p>\n<p>Points: 419</p>\n<p># Comments: 322</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/\nComments URL: https://news.ycombinator.com/item?id=46245398\nPoints: 419\n# Comments: 322",
+      "creator": "nobody9999",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
+      "link": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory",
+      "pubDate": "Fri, 12 Dec 2025 15:58:10 +0000",
+      "isoDate": "2025-12-12T15:58:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.phoronix.com/news/Framework-50p-DDR5-Memory\">https://www.phoronix.com/news/Framework-50p-DDR5-Memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245331\">https://news.ycombinator.com/item?id=46245331</a></p>\n<p>Points: 232</p>\n<p># Comments: 214</p>\n",
+      "contentSnippet": "Article URL: https://www.phoronix.com/news/Framework-50p-DDR5-Memory\nComments URL: https://news.ycombinator.com/item?id=46245331\nPoints: 232\n# Comments: 214",
+      "creator": "mikece",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CM0 – A new Raspberry Pi you can't buy",
+      "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+      "pubDate": "Fri, 12 Dec 2025 15:19:19 +0000",
+      "isoDate": "2025-12-12T15:19:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy\">https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46244922\">https://news.ycombinator.com/item?id=46244922</a></p>\n<p>Points: 203</p>\n<p># Comments: 56</p>\n",
+      "contentSnippet": "Article URL: https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy\nComments URL: https://news.ycombinator.com/item?id=46244922\nPoints: 203\n# Comments: 56",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SQLite JSON at full index speed using generated columns",
+      "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+      "pubDate": "Fri, 12 Dec 2025 13:25:19 +0000",
+      "isoDate": "2025-12-12T13:25:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing\">https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243904\">https://news.ycombinator.com/item?id=46243904</a></p>\n<p>Points: 363</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing\nComments URL: https://news.ycombinator.com/item?id=46243904\nPoints: 363\n# Comments: 108",
+      "creator": "upmostly",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Sick of smart TVs? Here are your best options",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "pubDate": "Fri, 12 Dec 2025 12:51:40 +0000",
+      "isoDate": "2025-12-12T12:51:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/\">https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243655\">https://news.ycombinator.com/item?id=46243655</a></p>\n<p>Points: 570</p>\n<p># Comments: 467</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/\nComments URL: https://news.ycombinator.com/item?id=46243655\nPoints: 570\n# Comments: 467",
+      "creator": "fleahunter",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Tor Project is switching to Rust",
+      "link": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
+      "pubDate": "Fri, 12 Dec 2025 12:35:57 +0000",
+      "isoDate": "2025-12-12T12:35:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://itsfoss.com/news/tor-rust-rewrite-progress/\">https://itsfoss.com/news/tor-rust-rewrite-progress/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243543\">https://news.ycombinator.com/item?id=46243543</a></p>\n<p>Points: 345</p>\n<p># Comments: 254</p>\n",
+      "contentSnippet": "Article URL: https://itsfoss.com/news/tor-rust-rewrite-progress/\nComments URL: https://news.ycombinator.com/item?id=46243543\nPoints: 345\n# Comments: 254",
+      "creator": "giuliomagnifico",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Koralm Railway",
+      "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
+      "pubDate": "Fri, 12 Dec 2025 10:50:22 +0000",
+      "isoDate": "2025-12-12T10:50:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\">https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46242871\">https://news.ycombinator.com/item?id=46242871</a></p>\n<p>Points: 311</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\nComments URL: https://news.ycombinator.com/item?id=46242871\nPoints: 311\n# Comments: 191",
+      "creator": "fzeindl",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Guarding My Git Forge Against AI Scrapers",
+      "link": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
+      "pubDate": "Fri, 12 Dec 2025 07:51:04 +0000",
+      "isoDate": "2025-12-12T07:51:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/\">https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241849\">https://news.ycombinator.com/item?id=46241849</a></p>\n<p>Points: 169</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "Article URL: https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/\nComments URL: https://news.ycombinator.com/item?id=46241849\nPoints: 169\n# Comments: 120",
+      "creator": "todsacerdoti",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The tiniest yet real telescope I've built",
+      "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
+      "pubDate": "Fri, 12 Dec 2025 07:35:49 +0000",
+      "isoDate": "2025-12-12T07:35:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lucassifoni.info/blog/miniscope-tiny-telescope/\">https://lucassifoni.info/blog/miniscope-tiny-telescope/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241763\">https://news.ycombinator.com/item?id=46241763</a></p>\n<p>Points: 261</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://lucassifoni.info/blog/miniscope-tiny-telescope/\nComments URL: https://news.ycombinator.com/item?id=46241763\nPoints: 261\n# Comments: 68",
+      "creator": "chantepierre",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2025-12-14T03:54:42.300Z"
+}

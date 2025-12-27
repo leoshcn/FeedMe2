@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Real-World Agent Examples with Gemini 3",
+      "link": "https://developers.googleblog.com/en/real-world-agent-examples-with-gemini-3/",
+      "pubDate": "Thu, 18 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-18T16:00:00.000Z",
+      "content": "Gemini 3 is powering the next generation of reliable, production-ready AI agents. This post highlights 6 open-source framework collaborations (ADK, Agno, Browser Use, Eigent, Letta, mem0), demonstrating practical agentic workflows for tasks like deep search, multi-agent systems, browser and enterprise automation, and stateful agents with advanced memory. Clone the examples and start building today.",
+      "contentSnippet": "Gemini 3 is powering the next generation of reliable, production-ready AI agents. This post highlights 6 open-source framework collaborations (ADK, Agno, Browser Use, Eigent, Letta, mem0), demonstrating practical agentic workflows for tasks like deep search, multi-agent systems, browser and enterprise automation, and stateful agents with advanced memory. Clone the examples and start building today.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Conductor: Introducing context-driven development for Gemini CLI",
+      "link": "https://developers.googleblog.com/en/conductor-introducing-context-driven-development-for-gemini-cli/",
+      "pubDate": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-16T16:00:00.000Z",
+      "content": "Conductor is a new Gemini CLI extension that promotes context-driven development. It shifts project context from chat logs to persistent Markdown files for formal specs and plans, ensuring AI agents adhere to project goals, style, and tech stack. This structured workflow is great for \"brownfield\" projects and teams, allowing for safe iteration and consistent code contributions while keeping the human developer in control.",
+      "contentSnippet": "Conductor is a new Gemini CLI extension that promotes context-driven development. It shifts project context from chat logs to persistent Markdown files for formal specs and plans, ensuring AI agents adhere to project goals, style, and tech stack. This structured workflow is great for \"brownfield\" projects and teams, allowing for safe iteration and consistent code contributions while keeping the human developer in control.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini 3 Flash is now available in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/gemini-3-flash-is-now-available-in-gemini-cli/",
+      "pubDate": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-16T16:00:00.000Z",
+      "content": "Gemini 3 Flash is now available in Gemini CLI. It delivers Pro-grade coding performance with low latency and a lower cost, matching Gemini 3 Pro's SWE-bench Verified score of 76%. It significantly outperforms 2.5 Pro, improving auto-routing and agentic coding. It's ideal for high-frequency development tasks, handling complex code generation, large context windows (like processing 1,000 comment pull requests), and generating load-testing scripts quickly and reliably.",
+      "contentSnippet": "Gemini 3 Flash is now available in Gemini CLI. It delivers Pro-grade coding performance with low latency and a lower cost, matching Gemini 3 Pro's SWE-bench Verified score of 76%. It significantly outperforms 2.5 Pro, improving auto-routing and agentic coding. It's ideal for high-frequency development tasks, handling complex code generation, large context windows (like processing 1,000 comment pull requests), and generating load-testing scripts quickly and reliably.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing Agent Development Kit for TypeScript: Build AI Agents with the Power of a Code-First Approach",
+      "link": "https://developers.googleblog.com/en/introducing-agent-development-kit-for-typescript-build-ai-agents-with-the-power-of-a-code-first-approach/",
+      "pubDate": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-16T16:00:00.000Z",
+      "content": "Introducing the Agent Development Kit (ADK) for TypeScript, an open-source framework for building complex, multi-agent AI systems with a code-first approach. Developers can define agent logic in TypeScript, applying traditional software development best practices (version control, testing). ADK offers end-to-end type safety, modularity, and deployment-agnostic functionality, leveraging the familiar TypeScript/JavaScript ecosystem.",
+      "contentSnippet": "Introducing the Agent Development Kit (ADK) for TypeScript, an open-source framework for building complex, multi-agent AI systems with a code-first approach. Developers can define agent logic in TypeScript, applying traditional software development best practices (version control, testing). ADK offers end-to-end type safety, modularity, and deployment-agnostic functionality, leveraging the familiar TypeScript/JavaScript ecosystem.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Developer’s guide to multi-agent patterns in ADK",
+      "link": "https://developers.googleblog.com/en/developers-guide-to-multi-agent-patterns-in-adk/",
+      "pubDate": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-15T16:00:00.000Z",
+      "content": "Learn how to build modular and reliable agentic applications using 8 effective multi-agent design patterns with the Agent Development Kit (ADK).",
+      "contentSnippet": "Learn how to build modular and reliable agentic applications using 8 effective multi-agent design patterns with the Agent Development Kit (ADK).",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing A2UI: An open project for agent-driven interfaces",
+      "link": "https://developers.googleblog.com/en/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
+      "pubDate": "Sun, 14 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-14T16:00:00.000Z",
+      "content": "A2UI is an open-source project for agent-driven, cross-platform, and generative UI. It provides a secure, declarative data format for agents to compose bespoke interfaces from a trusted component catalog, allowing for native styling and incremental updates. Designed for the multi-agent mesh (A2A), it offers a framework-agnostic solution to safely render remote agent UIs, with integrations in AG UI, Flutter's GenUI SDK, Opal, and Gemini Enterprise.",
+      "contentSnippet": "A2UI is an open-source project for agent-driven, cross-platform, and generative UI. It provides a secure, declarative data format for agents to compose bespoke interfaces from a trusted component catalog, allowing for native styling and incremental updates. Designed for the multi-agent mesh (A2A), it offers a framework-agnostic solution to safely render remote agent UIs, with integrations in AG UI, Flutter's GenUI SDK, Opal, and Gemini Enterprise.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Building agents with the ADK and the new Interactions API",
+      "link": "https://developers.googleblog.com/en/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "pubDate": "Wed, 10 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-10T16:00:00.000Z",
+      "content": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "contentSnippet": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pick up exactly where you left off with Session Management in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/pick-up-exactly-where-you-left-off-with-session-management-in-gemini-cli/",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-09T16:00:00.000Z",
+      "content": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "contentSnippet": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Don't Trust, Verify: Building End-to-End Confidential Applications on Google Cloud",
+      "link": "https://developers.googleblog.com/en/dont-trust-verify-building-end-to-end-confidential-applications-on-google-cloud/",
+      "pubDate": "Mon, 08 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-08T16:00:00.000Z",
+      "content": "Google Cloud enables end-to-end confidential applications, protecting sensitive data 'in-use' with hardware isolation. The solution combines Confidential Space (TEE/attestation), Oak Functions (private sandbox), and Oak Session (attested end-to-end encryption for scale). This framework anchors user trust in open-source components, proving confidentiality for sensitive workloads like proprietary GenAI models, even when running behind untrusted load balancers.",
+      "contentSnippet": "Google Cloud enables end-to-end confidential applications, protecting sensitive data 'in-use' with hardware isolation. The solution combines Confidential Space (TEE/attestation), Oak Functions (private sandbox), and Oak Session (attested end-to-end encryption for scale). This framework anchors user trust in open-source components, proving confidentiality for sensitive workloads like proprietary GenAI models, even when running behind untrusted load balancers.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MediaTek NPU and LiteRT: Powering the next generation of on-device AI",
+      "link": "https://developers.googleblog.com/en/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "pubDate": "Sun, 07 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-07T16:00:00.000Z",
+      "content": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "contentSnippet": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2025-12-27T15:09:04.566Z"
+}

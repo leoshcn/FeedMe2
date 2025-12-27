@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "exo-explore/exo",
+      "link": "https://github.com/exo-explore/exo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a6ae009e2ca6691a6d88860b402228e82b894695dc9da8f99c5a2f3c9e88fb27/exo-explore/exo\" referrerpolicy=\"no-referrer\"><br>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ <br><br>Language: Python <br>Stars: 38519 <br>Forks: 2586",
+      "contentSnippet": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ \nLanguage: Python \nStars: 38519 \nForks: 2586",
+      "creator": "exo-explore",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b8c2aed1447c375757524634e14c6bc7eaa8ab37959dbd53ccd696b9dbd332ea/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills <br><br>Language: Python <br>Stars: 27780 <br>Forks: 2537",
+      "contentSnippet": "Public repository for Agent Skills \nLanguage: Python \nStars: 27780 \nForks: 2537",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3f82c3728552d2c7d4d19a3beeb0fef365f1972b1ab69e42ae58e63e13532e27/davila7/claude-code-templates\" referrerpolicy=\"no-referrer\"><br>CLI tool for configuring and monitoring Claude Code <br><br>Language: Python <br>Stars: 13879 <br>Forks: 1203",
+      "contentSnippet": "CLI tool for configuring and monitoring Claude Code \nLanguage: Python \nStars: 13879 \nForks: 1203",
+      "creator": "davila7",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/A2UI",
+      "link": "https://github.com/google/A2UI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1f43740ff91cb4f03ed0e3c789380c3725a1468419a4ee9049fd8420ee3cf371/google/A2UI\" referrerpolicy=\"no-referrer\"><br>null <br><br>Language: TypeScript <br>Stars: 7709 <br>Forks: 505",
+      "contentSnippet": "null \nLanguage: TypeScript \nStars: 7709 \nForks: 505",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cocoindex-io/cocoindex",
+      "link": "https://github.com/cocoindex-io/cocoindex",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/be93b770a5ed3dd07c11de4b39905dd877aee3417e833f7ad165cd3a8e0b5a08/cocoindex-io/cocoindex\" referrerpolicy=\"no-referrer\"><br>Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! <br><br>Language: Rust <br>Stars: 5296 <br>Forks: 397",
+      "contentSnippet": "Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! \nLanguage: Rust \nStars: 5296 \nForks: 397",
+      "creator": "cocoindex-io",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d5bbb0fd8721d88bf0f52eadb5d4178ab50ac1f27b6a49f4597ea553ff4a93d/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. <br><br>Language: Shell <br>Stars: 48971 <br>Forks: 3455",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. \nLanguage: Shell \nStars: 48971 \nForks: 3455",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "sgl-project/mini-sglang",
+      "link": "https://github.com/sgl-project/mini-sglang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d904b512f0873432b537ad917d14bfc9c1ffde8dc229f33ed608ef8f232c9d77/sgl-project/mini-sglang\" referrerpolicy=\"no-referrer\"><br>A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. <br><br>Language: Python <br>Stars: 2496 <br>Forks: 234",
+      "contentSnippet": "A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. \nLanguage: Python \nStars: 2496 \nForks: 234",
+      "creator": "sgl-project",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "resemble-ai/chatterbox",
+      "link": "https://github.com/resemble-ai/chatterbox",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cc10884b6948e3e540ed3f382a41ebf634cb2982d21090b2924f4be638a8ecb4/resemble-ai/chatterbox\" referrerpolicy=\"no-referrer\"><br>SoTA open-source TTS <br><br>Language: Python <br>Stars: 18089 <br>Forks: 2399",
+      "contentSnippet": "SoTA open-source TTS \nLanguage: Python \nStars: 18089 \nForks: 2399",
+      "creator": "resemble-ai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "danielmiessler/Fabric",
+      "link": "https://github.com/danielmiessler/Fabric",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/738733003/5b35460c-2754-4e72-b14f-d8acb8cb7a5c\" referrerpolicy=\"no-referrer\"><br>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. <br><br>Language: Go <br>Stars: 36878 <br>Forks: 3696",
+      "contentSnippet": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. \nLanguage: Go \nStars: 36878 \nForks: 3696",
+      "creator": "danielmiessler",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/langextract",
+      "link": "https://github.com/google/langextract",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/71de018db89d1e052886bc0286e2533eeef257d132c234eb18b3ce62f4fd4215/google/langextract\" referrerpolicy=\"no-referrer\"><br>A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. <br><br>Language: Python <br>Stars: 19464 <br>Forks: 1355",
+      "contentSnippet": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. \nLanguage: Python \nStars: 19464 \nForks: 1355",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1052845083/441e06a7-db51-4113-bc4e-10b463d42950\" referrerpolicy=\"no-referrer\"><br>Personal AI Infrastructure for upgrading humans. <br><br>Language: TypeScript <br>Stars: 2247 <br>Forks: 437",
+      "contentSnippet": "Personal AI Infrastructure for upgrading humans. \nLanguage: TypeScript \nStars: 2247 \nForks: 437",
+      "creator": "danielmiessler",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0670e0330765869631382dea8c9d5f4d5410e70130674f2199eefee8ef67b93d/AUTOMATIC1111/stable-diffusion-webui\" referrerpolicy=\"no-referrer\"><br>Stable Diffusion web UI <br><br>Language: Python <br>Stars: 159361 <br>Forks: 29640",
+      "contentSnippet": "Stable Diffusion web UI \nLanguage: Python \nStars: 159361 \nForks: 29640",
+      "creator": "AUTOMATIC1111",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "swisskyrepo/PayloadsAllTheThings",
+      "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/71220757/c7175e80-dafd-11ea-8e0b-9c42c639ae35\" referrerpolicy=\"no-referrer\"><br>A list of useful payloads and bypass for Web Application Security and Pentest/CTF <br><br>Language: Python <br>Stars: 73904 <br>Forks: 16435",
+      "contentSnippet": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF \nLanguage: Python \nStars: 73904 \nForks: 16435",
+      "creator": "swisskyrepo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "sinelaw/fresh",
+      "link": "https://github.com/sinelaw/fresh",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/907990001/44bf7e88-629c-4a5d-b807-85e6d05fa7a5\" referrerpolicy=\"no-referrer\"><br>Text editor for your terminal: easy, powerful and fast <br><br>Language: Rust <br>Stars: 3365 <br>Forks: 108",
+      "contentSnippet": "Text editor for your terminal: easy, powerful and fast \nLanguage: Rust \nStars: 3365 \nForks: 108",
+      "creator": "sinelaw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GeeeekExplorer/nano-vllm",
+      "link": "https://github.com/GeeeekExplorer/nano-vllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/999030842/e7651af2-b4c1-45f1-a83a-9d37d52ad5b1\" referrerpolicy=\"no-referrer\"><br>Nano vLLM <br><br>Language: Python <br>Stars: 10202 <br>Forks: 1279",
+      "contentSnippet": "Nano vLLM \nLanguage: Python \nStars: 10202 \nForks: 1279",
+      "creator": "GeeeekExplorer",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2025-12-27T15:09:01.908Z"
+}

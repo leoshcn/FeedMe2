@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "NetHack 5.0.0",
+      "link": "https://nethack.org/v500/release.html",
+      "pubDate": "Sat, 02 May 2026 18:03:42 +0000",
+      "isoDate": "2026-05-02T18:03:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nethack.org/v500/release.html\">https://nethack.org/v500/release.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988776\">https://news.ycombinator.com/item?id=47988776</a></p>\n<p>Points: 266</p>\n<p># Comments: 58</p>\n",
+      "contentSnippet": "Article URL: https://nethack.org/v500/release.html\nComments URL: https://news.ycombinator.com/item?id=47988776\nPoints: 266\n# Comments: 58",
+      "creator": "rsaarelm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Dav2d",
+      "link": "https://code.videolan.org/videolan/dav2d",
+      "pubDate": "Sat, 02 May 2026 17:32:29 +0000",
+      "isoDate": "2026-05-02T17:32:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://code.videolan.org/videolan/dav2d\">https://code.videolan.org/videolan/dav2d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988504\">https://news.ycombinator.com/item?id=47988504</a></p>\n<p>Points: 193</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://code.videolan.org/videolan/dav2d\nComments URL: https://news.ycombinator.com/item?id=47988504\nPoints: 193\n# Comments: 74",
+      "creator": "dabinat",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "link": "https://arxiv.org/abs/2509.00462",
+      "pubDate": "Sat, 02 May 2026 15:28:13 +0000",
+      "isoDate": "2026-05-02T15:28:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2509.00462\">https://arxiv.org/abs/2509.00462</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47987256\">https://news.ycombinator.com/item?id=47987256</a></p>\n<p>Points: 311</p>\n<p># Comments: 166</p>\n",
+      "contentSnippet": "Article URL: https://arxiv.org/abs/2509.00462\nComments URL: https://news.ycombinator.com/item?id=47987256\nPoints: 311\n# Comments: 166",
+      "creator": "laurex",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Russia Poisons Wikipedia",
+      "link": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+      "pubDate": "Sat, 02 May 2026 13:07:50 +0000",
+      "isoDate": "2026-05-02T13:07:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bettedangerous.com/p/russia-poisons-wikipedia\">https://www.bettedangerous.com/p/russia-poisons-wikipedia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47986083\">https://news.ycombinator.com/item?id=47986083</a></p>\n<p>Points: 232</p>\n<p># Comments: 177</p>\n",
+      "contentSnippet": "Article URL: https://www.bettedangerous.com/p/russia-poisons-wikipedia\nComments URL: https://news.ycombinator.com/item?id=47986083\nPoints: 232\n# Comments: 177",
+      "creator": "exceptione",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "pubDate": "Sat, 02 May 2026 09:30:49 +0000",
+      "isoDate": "2026-05-02T09:30:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/\">https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984852\">https://news.ycombinator.com/item?id=47984852</a></p>\n<p>Points: 204</p>\n<p># Comments: 77</p>\n",
+      "contentSnippet": "Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/\nComments URL: https://news.ycombinator.com/item?id=47984852\nPoints: 204\n# Comments: 77",
+      "creator": "moosia",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Why does it take so long to release black fan versions?",
+      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "pubDate": "Sat, 02 May 2026 04:38:04 +0000",
+      "isoDate": "2026-05-02T04:38:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\">https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983352\">https://news.ycombinator.com/item?id=47983352</a></p>\n<p>Points: 651</p>\n<p># Comments: 271</p>\n",
+      "contentSnippet": "Article URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\nComments URL: https://news.ycombinator.com/item?id=47983352\nPoints: 651\n# Comments: 271",
+      "creator": "buildbot",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ask.com has closed",
+      "link": "https://www.ask.com/",
+      "pubDate": "Sat, 02 May 2026 04:12:35 +0000",
+      "isoDate": "2026-05-02T04:12:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 421</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://www.ask.com/\nComments URL: https://news.ycombinator.com/item?id=47983226\nPoints: 421\n# Comments: 215",
+      "creator": "supermdguy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "link": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "pubDate": "Sat, 02 May 2026 01:46:24 +0000",
+      "isoDate": "2026-05-02T01:46:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/\">https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47982512\">https://news.ycombinator.com/item?id=47982512</a></p>\n<p>Points: 221</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/\nComments URL: https://news.ycombinator.com/item?id=47982512\nPoints: 221\n# Comments: 136",
+      "creator": "delichon",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Credit cards are vulnerable to brute force kind attacks",
+      "link": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+      "pubDate": "Fri, 01 May 2026 20:26:24 +0000",
+      "isoDate": "2026-05-01T20:26:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html\">https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979839\">https://news.ycombinator.com/item?id=47979839</a></p>\n<p>Points: 233</p>\n<p># Comments: 187</p>\n",
+      "contentSnippet": "Article URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html\nComments URL: https://news.ycombinator.com/item?id=47979839\nPoints: 233\n# Comments: 187",
+      "creator": "kodbraker",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ti-84 Evo",
+      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "pubDate": "Fri, 01 May 2026 20:06:59 +0000",
+      "isoDate": "2026-05-01T20:06:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 565</p>\n<p># Comments: 454</p>\n",
+      "contentSnippet": "Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\nComments URL: https://news.ycombinator.com/item?id=47979583\nPoints: 565\n# Comments: 454",
+      "creator": "thatxliner",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "pubDate": "Fri, 01 May 2026 18:37:47 +0000",
+      "isoDate": "2026-05-01T18:37:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\">https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978370\">https://news.ycombinator.com/item?id=47978370</a></p>\n<p>Points: 448</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "Article URL: https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\nComments URL: https://news.ycombinator.com/item?id=47978370\nPoints: 448\n# Comments: 120",
+      "creator": "joshcsimmons",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "pubDate": "Fri, 01 May 2026 17:47:42 +0000",
+      "isoDate": "2026-05-01T17:47:42.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 431</p>\n<p># Comments: 254</p>\n",
+      "contentSnippet": "https://archive.ph/6wKhx\nComments URL: https://news.ycombinator.com/item?id=47977748\nPoints: 431\n# Comments: 254",
+      "creator": "XzetaU8",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The X-Files has made me nostalgic for a time I never experienced",
+      "link": "https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic",
+      "pubDate": "Fri, 01 May 2026 17:34:49 +0000",
+      "isoDate": "2026-05-01T17:34:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic\">https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977583\">https://news.ycombinator.com/item?id=47977583</a></p>\n<p>Points: 195</p>\n<p># Comments: 207</p>\n",
+      "contentSnippet": "Article URL: https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic\nComments URL: https://news.ycombinator.com/item?id=47977583\nPoints: 195\n# Comments: 207",
+      "creator": "Teever",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+      "link": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+      "pubDate": "Fri, 01 May 2026 17:25:36 +0000",
+      "isoDate": "2026-05-01T17:25:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=nHwxV0Sd9V8\">https://www.youtube.com/watch?v=nHwxV0Sd9V8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977450\">https://news.ycombinator.com/item?id=47977450</a></p>\n<p>Points: 188</p>\n<p># Comments: 143</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=nHwxV0Sd9V8\nComments URL: https://news.ycombinator.com/item?id=47977450\nPoints: 188\n# Comments: 143",
+      "creator": "johnbarron",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI uses less water than the public thinks",
+      "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+      "pubDate": "Fri, 01 May 2026 17:18:58 +0000",
+      "isoDate": "2026-05-01T17:18:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/\">https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977383\">https://news.ycombinator.com/item?id=47977383</a></p>\n<p>Points: 395</p>\n<p># Comments: 373</p>\n",
+      "contentSnippet": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/\nComments URL: https://news.ycombinator.com/item?id=47977383\nPoints: 395\n# Comments: 373",
+      "creator": "hirpslop",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The gay jailbreak technique (2025)",
+      "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "pubDate": "Fri, 01 May 2026 16:59:35 +0000",
+      "isoDate": "2026-05-01T16:59:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\">https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977134\">https://news.ycombinator.com/item?id=47977134</a></p>\n<p>Points: 612</p>\n<p># Comments: 244</p>\n",
+      "contentSnippet": "Article URL: https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\nComments URL: https://news.ycombinator.com/item?id=47977134\nPoints: 612\n# Comments: 244",
+      "creator": "bobsmooth",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DeepSeek V4—almost on the frontier",
+      "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "pubDate": "Fri, 01 May 2026 16:52:43 +0000",
+      "isoDate": "2026-05-01T16:52:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/24/deepseek-v4/\">https://simonwillison.net/2026/Apr/24/deepseek-v4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977026\">https://news.ycombinator.com/item?id=47977026</a></p>\n<p>Points: 442</p>\n<p># Comments: 285</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2026/Apr/24/deepseek-v4/\nComments URL: https://news.ycombinator.com/item?id=47977026\nPoints: 442\n# Comments: 285",
+      "creator": "indigodaddy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "link": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+      "pubDate": "Fri, 01 May 2026 16:42:41 +0000",
+      "isoDate": "2026-05-01T16:42:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5yerr4m1yno\">https://www.bbc.com/news/articles/c5yerr4m1yno</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976856\">https://news.ycombinator.com/item?id=47976856</a></p>\n<p>Points: 265</p>\n<p># Comments: 296</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno\nComments URL: https://news.ycombinator.com/item?id=47976856\nPoints: 265\n# Comments: 296",
+      "creator": "reconnecting",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apocalypse Early Warning System",
+      "link": "https://ews.kylemcdonald.net/",
+      "pubDate": "Fri, 01 May 2026 16:21:23 +0000",
+      "isoDate": "2026-05-01T16:21:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ews.kylemcdonald.net/\">https://ews.kylemcdonald.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976566\">https://news.ycombinator.com/item?id=47976566</a></p>\n<p>Points: 239</p>\n<p># Comments: 117</p>\n",
+      "contentSnippet": "Article URL: https://ews.kylemcdonald.net/\nComments URL: https://news.ycombinator.com/item?id=47976566\nPoints: 239\n# Comments: 117",
+      "creator": "carlsborg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
+      "link": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
+      "pubDate": "Fri, 01 May 2026 16:17:55 +0000",
+      "isoDate": "2026-05-01T16:17:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/\">https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976529\">https://news.ycombinator.com/item?id=47976529</a></p>\n<p>Points: 258</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/\nComments URL: https://news.ycombinator.com/item?id=47976529\nPoints: 258\n# Comments: 107",
+      "creator": "loteck",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "pubDate": "Fri, 01 May 2026 16:08:53 +0000",
+      "isoDate": "2026-05-01T16:08:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\">https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976415\">https://news.ycombinator.com/item?id=47976415</a></p>\n<p>Points: 395</p>\n<p># Comments: 467</p>\n",
+      "contentSnippet": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/\nComments URL: https://news.ycombinator.com/item?id=47976415\nPoints: 395\n# Comments: 467",
+      "creator": "lwhsiao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "An open letter asking NHS England to keep its code open",
+      "link": "https://keepthingsopen.com",
+      "pubDate": "Fri, 01 May 2026 15:15:36 +0000",
+      "isoDate": "2026-05-01T15:15:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://keepthingsopen.com\">https://keepthingsopen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47975785\">https://news.ycombinator.com/item?id=47975785</a></p>\n<p>Points: 246</p>\n<p># Comments: 13</p>\n",
+      "contentSnippet": "Article URL: https://keepthingsopen.com\nComments URL: https://news.ycombinator.com/item?id=47975785\nPoints: 246\n# Comments: 13",
+      "creator": "tvararu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "link": "https://news.ycombinator.com/item?id=47975571",
+      "pubDate": "Fri, 01 May 2026 15:00:07 +0000",
+      "isoDate": "2026-05-01T15:00:07.000Z",
+      "content": "\n<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>, <a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>,\n<a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:\n<a href=\"https://chromewebstore.google.com/detail/hn-hiring-pro/mpfaljjblphnlloddaplgicpkinikjlp\" rel=\"nofollow\">https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal...</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=47975570\">https://news.ycombinator.com/item?id=47975570</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47975571\">https://news.ycombinator.com/item?id=47975571</a></p>\n<p>Points: 281</p>\n<p># Comments: 310</p>\n",
+      "contentSnippet": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.\nPlease only post if you are actively filling a position and are committed\nto replying to applicants.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://nthesis.ai/public/hn-who-is-hiring, https://dheerajck.github.io/hnwhoishiring/, http://nchelluri.github.io/hnjobs/,\nhttps://hnjobs.emilburzo.com, or this (unofficial) Chrome extension:\nhttps://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....\nDon't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=47975570\nComments URL: https://news.ycombinator.com/item?id=47975571\nPoints: 281\n# Comments: 310",
+      "creator": "whoishiring",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "link": "https://x.com/aaronp613/status/2049986504617820551",
+      "pubDate": "Fri, 01 May 2026 11:08:32 +0000",
+      "isoDate": "2026-05-01T11:08:32.000Z",
+      "content": "\n<p><a href=\"https://xcancel.com/aaronp613/status/2049986504617820551\" rel=\"nofollow\">https://xcancel.com/aaronp613/status/2049986504617820551</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973378\">https://news.ycombinator.com/item?id=47973378</a></p>\n<p>Points: 376</p>\n<p># Comments: 315</p>\n",
+      "contentSnippet": "https://xcancel.com/aaronp613/status/2049986504617820551\nComments URL: https://news.ycombinator.com/item?id=47973378\nPoints: 376\n# Comments: 315",
+      "creator": "andruby",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Your website is not for you",
+      "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "pubDate": "Fri, 01 May 2026 11:08:20 +0000",
+      "isoDate": "2026-05-01T11:08:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://websmith.studio/blog/your-website-is-not-for-you/\">https://websmith.studio/blog/your-website-is-not-for-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47973376\">https://news.ycombinator.com/item?id=47973376</a></p>\n<p>Points: 258</p>\n<p># Comments: 181</p>\n",
+      "contentSnippet": "Article URL: https://websmith.studio/blog/your-website-is-not-for-you/\nComments URL: https://news.ycombinator.com/item?id=47973376\nPoints: 258\n# Comments: 181",
+      "creator": "pumbaa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "link": "https://github.com/darrylmorley/whatcable",
+      "pubDate": "Fri, 01 May 2026 08:43:45 +0000",
+      "isoDate": "2026-05-01T08:43:45.000Z",
+      "content": "\n<p>USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.<p>WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.<p>Built in Swift/SwiftUI. Open source, free, no tracking.<p>GitHub: <a href=\"https://github.com/darrylmorley/whatcable\" rel=\"nofollow\">https://github.com/darrylmorley/whatcable</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972511\">https://news.ycombinator.com/item?id=47972511</a></p>\n<p>Points: 525</p>\n<p># Comments: 158</p>\n",
+      "contentSnippet": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.\nWhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.\nBuilt in Swift/SwiftUI. Open source, free, no tracking.\nGitHub: https://github.com/darrylmorley/whatcable\nComments URL: https://news.ycombinator.com/item?id=47972511\nPoints: 525\n# Comments: 158",
+      "creator": "sleepingNomad",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Grok 4.3",
+      "link": "https://docs.x.ai/developers/models/grok-4.3",
+      "pubDate": "Fri, 01 May 2026 08:29:31 +0000",
+      "isoDate": "2026-05-01T08:29:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 391</p>\n<p># Comments: 530</p>\n",
+      "contentSnippet": "Article URL: https://docs.x.ai/developers/models/grok-4.3\nComments URL: https://news.ycombinator.com/item?id=47972447\nPoints: 391\n# Comments: 530",
+      "creator": "simianwords",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Canonical/Ubuntu have been under DDoS",
+      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+      "pubDate": "Fri, 01 May 2026 07:44:17 +0000",
+      "isoDate": "2026-05-01T07:44:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==\">https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972213\">https://news.ycombinator.com/item?id=47972213</a></p>\n<p>Points: 196</p>\n<p># Comments: 67</p>\n",
+      "contentSnippet": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==\nComments URL: https://news.ycombinator.com/item?id=47972213\nPoints: 196\n# Comments: 67",
+      "creator": "jtlebigot",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenWarp",
+      "link": "https://openwarp.zerx.dev",
+      "pubDate": "Fri, 01 May 2026 02:10:46 +0000",
+      "isoDate": "2026-05-01T02:10:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openwarp.zerx.dev\">https://openwarp.zerx.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970622\">https://news.ycombinator.com/item?id=47970622</a></p>\n<p>Points: 201</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 201\n# Comments: 147",
+      "creator": "zero-lab",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Can I disable all data collection from my vehicle?",
+      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "pubDate": "Thu, 30 Apr 2026 20:27:22 +0000",
+      "isoDate": "2026-04-30T20:27:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\">https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967786\">https://news.ycombinator.com/item?id=47967786</a></p>\n<p>Points: 744</p>\n<p># Comments: 339</p>\n",
+      "contentSnippet": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\nComments URL: https://news.ycombinator.com/item?id=47967786\nPoints: 744\n# Comments: 339",
+      "creator": "Cider9986",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-02T21:28:38.728Z"
+}

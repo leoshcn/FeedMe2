@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/824c6a95a0990e81d4537caae4243f16a94bf34b03661df904adefa6b2939f84/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 54862<br>Forks: 4619",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 54862\nForks: 4619",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23fdd0d02884f5edeadf0c4e3b705e357e5b13680303a1d9792e270718fad7da/Alishahryar1/free-claude-code\" referrerpolicy=\"no-referrer\"><br>Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)<br><br>Language: Python<br>Stars: 20183<br>Forks: 2884",
+      "contentSnippet": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)\nLanguage: Python\nStars: 20183\nForks: 2884",
+      "creator": "Alishahryar1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 62279<br>Forks: 12029",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 62279\nForks: 12029",
+      "creator": "TauricResearch",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Z4nzu/hackingtool",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/254832799/05316380-baf8-11ea-95d8-813b0e4100a3\" referrerpolicy=\"no-referrer\"><br>ALL IN ONE Hacking Tool For Hackers<br><br>Language: Python<br>Stars: 70373<br>Forks: 7930",
+      "contentSnippet": "ALL IN ONE Hacking Tool For Hackers\nLanguage: Python\nStars: 70373\nForks: 7930",
+      "creator": "Z4nzu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a8000f0c7a1a50a002184f2d45f9d550f39322d2f7be9902b49d5b11cae7227b/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.<br><br>Language: Go<br>Stars: 3162<br>Forks: 824",
+      "contentSnippet": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.\nLanguage: Go\nStars: 3162\nForks: 824",
+      "creator": "CJackHwang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/db0ed79751c8c0961fd73f1dcd22f92349b8db311f89233f39436a18c5203d54/forrestchang/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 106390<br>Forks: 10561",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 106390\nForks: 10561",
+      "creator": "forrestchang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "soxoj/maigret",
+      "link": "https://github.com/soxoj/maigret",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/275386910/d6d7e536-6597-40dc-a204-391431ce57db\" referrerpolicy=\"no-referrer\"><br>🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites<br><br>Language: Python<br>Stars: 22546<br>Forks: 1587",
+      "contentSnippet": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\nLanguage: Python\nStars: 22546\nForks: 1587",
+      "creator": "soxoj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/81a17d18205bb8aa47c28ad38801563aa43d840b12768e5f80f5f2e57e0fafd8/abhigyanpatwari/GitNexus\" referrerpolicy=\"no-referrer\"><br>GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration<br><br>Language: TypeScript<br>Stars: 34593<br>Forks: 3925",
+      "contentSnippet": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration\nLanguage: TypeScript\nStars: 34593\nForks: 3925",
+      "creator": "abhigyanpatwari",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d35674e253599350ad73acfb49d0af770d2d1877365fedfd606aff75894a4cb1/AIDC-AI/Pixelle-Video\" referrerpolicy=\"no-referrer\"><br>🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine<br><br>Language: Python<br>Stars: 9135<br>Forks: 1445",
+      "contentSnippet": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\nLanguage: Python\nStars: 9135\nForks: 1445",
+      "creator": "AIDC-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-02T21:28:46.764Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
+      "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "pubDate": "Sat, 16 May 2026 00:36:02 +0000",
+      "isoDate": "2026-05-16T00:36:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://kevinpatel.xyz/posts/no-way-to-prevent-this/\">https://kevinpatel.xyz/posts/no-way-to-prevent-this/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48155690\">https://news.ycombinator.com/item?id=48155690</a></p>\n<p>Points: 384</p>\n<p># Comments: 182</p>\n",
+      "contentSnippet": "Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/\nComments URL: https://news.ycombinator.com/item?id=48155690\nPoints: 384\n# Comments: 182",
+      "creator": "alligatorplum",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SQL patterns I use to catch transaction fraud",
+      "link": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "pubDate": "Fri, 15 May 2026 23:22:30 +0000",
+      "isoDate": "2026-05-15T23:22:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://analytics.fixelsmith.com/posts/sql-fraud-patterns/\">https://analytics.fixelsmith.com/posts/sql-fraud-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48155212\">https://news.ycombinator.com/item?id=48155212</a></p>\n<p>Points: 284</p>\n<p># Comments: 112</p>\n",
+      "contentSnippet": "Article URL: https://analytics.fixelsmith.com/posts/sql-fraud-patterns/\nComments URL: https://news.ycombinator.com/item?id=48155212\nPoints: 284\n# Comments: 112",
+      "creator": "redbell",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "link": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "pubDate": "Fri, 15 May 2026 20:26:47 +0000",
+      "isoDate": "2026-05-15T20:26:47.000Z",
+      "content": "\n<p><a href=\"https://xcancel.com/mitchellh/status/2055380239711457578\" rel=\"nofollow\">https://xcancel.com/mitchellh/status/2055380239711457578</a><p><a href=\"https://hachyderm.io/@mitchellh/116580433508108130\" rel=\"nofollow\">https://hachyderm.io/@mitchellh/116580433508108130</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48153379\">https://news.ycombinator.com/item?id=48153379</a></p>\n<p>Points: 1583</p>\n<p># Comments: 815</p>\n",
+      "contentSnippet": "https://xcancel.com/mitchellh/status/2055380239711457578\nhttps://hachyderm.io/@mitchellh/116580433508108130\nComments URL: https://news.ycombinator.com/item?id=48153379\nPoints: 1583\n# Comments: 815",
+      "creator": "reasonableklout",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Bill to block publishers from killing online games advances in California",
+      "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "pubDate": "Fri, 15 May 2026 19:48:48 +0000",
+      "isoDate": "2026-05-15T19:48:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/\">https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48152994\">https://news.ycombinator.com/item?id=48152994</a></p>\n<p>Points: 536</p>\n<p># Comments: 353</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/\nComments URL: https://news.ycombinator.com/item?id=48152994\nPoints: 536\n# Comments: 353",
+      "creator": "Lihh27",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ABC News has taken all FiveThirtyEight articles offline",
+      "link": "https://twitter.com/baseballot/status/2055309076209492208",
+      "pubDate": "Fri, 15 May 2026 19:07:08 +0000",
+      "isoDate": "2026-05-15T19:07:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/baseballot/status/2055309076209492208\">https://twitter.com/baseballot/status/2055309076209492208</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48152553\">https://news.ycombinator.com/item?id=48152553</a></p>\n<p>Points: 348</p>\n<p># Comments: 157</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/baseballot/status/2055309076209492208\nComments URL: https://news.ycombinator.com/item?id=48152553\nPoints: 348\n# Comments: 157",
+      "creator": "cmsparks",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Zulip Foundation",
+      "link": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "pubDate": "Fri, 15 May 2026 18:37:01 +0000",
+      "isoDate": "2026-05-15T18:37:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/\">https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48152168\">https://news.ycombinator.com/item?id=48152168</a></p>\n<p>Points: 285</p>\n<p># Comments: 76</p>\n",
+      "contentSnippet": "Article URL: https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/\nComments URL: https://news.ycombinator.com/item?id=48152168\nPoints: 285\n# Comments: 76",
+      "creator": "boramalper",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "pubDate": "Fri, 15 May 2026 17:28:24 +0000",
+      "isoDate": "2026-05-15T17:28:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/\">https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48151383\">https://news.ycombinator.com/item?id=48151383</a></p>\n<p>Points: 441</p>\n<p># Comments: 311</p>\n",
+      "contentSnippet": "Article URL: https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/\nComments URL: https://news.ycombinator.com/item?id=48151383\nPoints: 441\n# Comments: 311",
+      "creator": "tencentshill",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "link": "https://github.com/oven-sh/bun/issues/30719",
+      "pubDate": "Fri, 15 May 2026 16:51:25 +0000",
+      "isoDate": "2026-05-15T16:51:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/oven-sh/bun/issues/30719\">https://github.com/oven-sh/bun/issues/30719</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48150900\">https://news.ycombinator.com/item?id=48150900</a></p>\n<p>Points: 438</p>\n<p># Comments: 309</p>\n",
+      "contentSnippet": "Article URL: https://github.com/oven-sh/bun/issues/30719\nComments URL: https://news.ycombinator.com/item?id=48150900\nPoints: 438\n# Comments: 309",
+      "creator": "ndiddy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Project Gutenberg – keeps getting better",
+      "link": "https://www.gutenberg.org/",
+      "pubDate": "Fri, 15 May 2026 16:15:36 +0000",
+      "isoDate": "2026-05-15T16:15:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.gutenberg.org/\">https://www.gutenberg.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48150431\">https://news.ycombinator.com/item?id=48150431</a></p>\n<p>Points: 1047</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Article URL: https://www.gutenberg.org/\nComments URL: https://news.ycombinator.com/item?id=48150431\nPoints: 1047\n# Comments: 216",
+      "creator": "JSeiko",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "pubDate": "Fri, 15 May 2026 13:39:54 +0000",
+      "isoDate": "2026-05-15T13:39:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://projectzero.google/2026/05/pixel-10-exploit.html\">https://projectzero.google/2026/05/pixel-10-exploit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48148460\">https://news.ycombinator.com/item?id=48148460</a></p>\n<p>Points: 402</p>\n<p># Comments: 220</p>\n",
+      "contentSnippet": "Article URL: https://projectzero.google/2026/05/pixel-10-exploit.html\nComments URL: https://news.ycombinator.com/item?id=48148460\nPoints: 402\n# Comments: 220",
+      "creator": "happyhardcore",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "We are retiring our bug bounty program",
+      "link": "https://turso.tech/blog/the-wonders-of-ai",
+      "pubDate": "Fri, 15 May 2026 13:33:15 +0000",
+      "isoDate": "2026-05-15T13:33:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://turso.tech/blog/the-wonders-of-ai\">https://turso.tech/blog/the-wonders-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48148391\">https://news.ycombinator.com/item?id=48148391</a></p>\n<p>Points: 352</p>\n<p># Comments: 279</p>\n",
+      "contentSnippet": "Article URL: https://turso.tech/blog/the-wonders-of-ai\nComments URL: https://news.ycombinator.com/item?id=48148391\nPoints: 352\n# Comments: 279",
+      "creator": "tjek",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "pubDate": "Fri, 15 May 2026 13:28:55 +0000",
+      "isoDate": "2026-05-15T13:28:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks\">https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48148337\">https://news.ycombinator.com/item?id=48148337</a></p>\n<p>Points: 368</p>\n<p># Comments: 403</p>\n",
+      "contentSnippet": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks\nComments URL: https://news.ycombinator.com/item?id=48148337\nPoints: 368\n# Comments: 403",
+      "creator": "hackernj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "link": "https://radicle.dev/",
+      "pubDate": "Fri, 15 May 2026 12:07:55 +0000",
+      "isoDate": "2026-05-15T12:07:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://radicle.dev/\">https://radicle.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48147603\">https://news.ycombinator.com/item?id=48147603</a></p>\n<p>Points: 248</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://radicle.dev/\nComments URL: https://news.ycombinator.com/item?id=48147603\nPoints: 248\n# Comments: 87",
+      "creator": "KolmogorovComp",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "link": "https://github.com/Andyyyy64/whichllm",
+      "pubDate": "Fri, 15 May 2026 09:19:24 +0000",
+      "isoDate": "2026-05-15T09:19:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/Andyyyy64/whichllm\">https://github.com/Andyyyy64/whichllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48146369\">https://news.ycombinator.com/item?id=48146369</a></p>\n<p>Points: 282</p>\n<p># Comments: 65</p>\n",
+      "contentSnippet": "Article URL: https://github.com/Andyyyy64/whichllm\nComments URL: https://news.ycombinator.com/item?id=48146369\nPoints: 282\n# Comments: 65",
+      "creator": "andyyyy64",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "link": "https://explorer.samismith.com/",
+      "pubDate": "Fri, 15 May 2026 08:45:36 +0000",
+      "isoDate": "2026-05-15T08:45:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://explorer.samismith.com/\">https://explorer.samismith.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48146129\">https://news.ycombinator.com/item?id=48146129</a></p>\n<p>Points: 520</p>\n<p># Comments: 116</p>\n",
+      "contentSnippet": "Article URL: https://explorer.samismith.com/\nComments URL: https://news.ycombinator.com/item?id=48146129\nPoints: 520\n# Comments: 116",
+      "creator": "smusamashah",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "pubDate": "Fri, 15 May 2026 03:56:14 +0000",
+      "isoDate": "2026-05-15T03:56:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.tristandc.com/government/news-2026-05-11-airdrop.php\">https://www.tristandc.com/government/news-2026-05-11-airdrop.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48144380\">https://news.ycombinator.com/item?id=48144380</a></p>\n<p>Points: 261</p>\n<p># Comments: 102</p>\n",
+      "contentSnippet": "Article URL: https://www.tristandc.com/government/news-2026-05-11-airdrop.php\nComments URL: https://news.ycombinator.com/item?id=48144380\nPoints: 261\n# Comments: 102",
+      "creator": "kspacewalk2",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "pubDate": "Fri, 15 May 2026 02:35:35 +0000",
+      "isoDate": "2026-05-15T02:35:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\">https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143880\">https://news.ycombinator.com/item?id=48143880</a></p>\n<p>Points: 584</p>\n<p># Comments: 367</p>\n",
+      "contentSnippet": "Article URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\nComments URL: https://news.ycombinator.com/item?id=48143880\nPoints: 584\n# Comments: 367",
+      "creator": "RGBCube",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "UK government replaces Palantir software with internally-built refugee system",
+      "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+      "pubDate": "Thu, 14 May 2026 22:44:16 +0000",
+      "isoDate": "2026-05-14T22:44:16.000Z",
+      "content": "\n<p><a href=\"https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/\" rel=\"nofollow\">https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-pal...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142251\">https://news.ycombinator.com/item?id=48142251</a></p>\n<p>Points: 510</p>\n<p># Comments: 199</p>\n",
+      "contentSnippet": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-pal...\nComments URL: https://news.ycombinator.com/item?id=48142251\nPoints: 510\n# Comments: 199",
+      "creator": "cdrnsf",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "pubDate": "Thu, 14 May 2026 22:38:18 +0000",
+      "isoDate": "2026-05-14T22:38:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\">https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142193\">https://news.ycombinator.com/item?id=48142193</a></p>\n<p>Points: 246</p>\n<p># Comments: 98</p>\n",
+      "contentSnippet": "Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\nComments URL: https://news.ycombinator.com/item?id=48142193\nPoints: 246\n# Comments: 98",
+      "creator": "littlexsparkee",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "pubDate": "Thu, 14 May 2026 22:37:40 +0000",
+      "isoDate": "2026-05-14T22:37:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\">https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142188\">https://news.ycombinator.com/item?id=48142188</a></p>\n<p>Points: 305</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\nComments URL: https://news.ycombinator.com/item?id=48142188\nPoints: 305\n# Comments: 136",
+      "creator": "sohkamyung",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A few words on DS4",
+      "link": "https://antirez.com/news/165",
+      "pubDate": "Thu, 14 May 2026 22:29:12 +0000",
+      "isoDate": "2026-05-14T22:29:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://antirez.com/news/165\">https://antirez.com/news/165</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142108\">https://news.ycombinator.com/item?id=48142108</a></p>\n<p>Points: 427</p>\n<p># Comments: 180</p>\n",
+      "contentSnippet": "Article URL: https://antirez.com/news/165\nComments URL: https://news.ycombinator.com/item?id=48142108\nPoints: 427\n# Comments: 180",
+      "creator": "caust1c",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "pubDate": "Thu, 14 May 2026 20:39:12 +0000",
+      "isoDate": "2026-05-14T20:39:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/tdietterich/status/2055000956144935055\">https://twitter.com/tdietterich/status/2055000956144935055</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140922\">https://news.ycombinator.com/item?id=48140922</a></p>\n<p>Points: 631</p>\n<p># Comments: 224</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/tdietterich/status/2055000956144935055\nComments URL: https://news.ycombinator.com/item?id=48140922\nPoints: 631\n# Comments: 224",
+      "creator": "gjuggler",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Codex is now in the ChatGPT mobile app",
+      "link": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "pubDate": "Thu, 14 May 2026 20:06:14 +0000",
+      "isoDate": "2026-05-14T20:06:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/work-with-codex-from-anywhere/\">https://openai.com/index/work-with-codex-from-anywhere/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140529\">https://news.ycombinator.com/item?id=48140529</a></p>\n<p>Points: 477</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: https://openai.com/index/work-with-codex-from-anywhere/\nComments URL: https://news.ycombinator.com/item?id=48140529\nPoints: 477\n# Comments: 246",
+      "creator": "mikeevans",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "pubDate": "Thu, 14 May 2026 18:25:09 +0000",
+      "isoDate": "2026-05-14T18:25:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">https://blog.calif.io/p/first-public-kernel-memory-corruption</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48139219\">https://news.ycombinator.com/item?id=48139219</a></p>\n<p>Points: 450</p>\n<p># Comments: 127</p>\n",
+      "contentSnippet": "Article URL: https://blog.calif.io/p/first-public-kernel-memory-corruption\nComments URL: https://news.ycombinator.com/item?id=48139219\nPoints: 450\n# Comments: 127",
+      "creator": "quadrige",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI is making me dumb",
+      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "pubDate": "Thu, 14 May 2026 18:19:28 +0000",
+      "isoDate": "2026-05-14T18:19:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jpain.io/god-damn-ai-is-making-me-dumb/\">https://jpain.io/god-damn-ai-is-making-me-dumb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48139148\">https://news.ycombinator.com/item?id=48139148</a></p>\n<p>Points: 541</p>\n<p># Comments: 302</p>\n",
+      "contentSnippet": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 541\n# Comments: 302",
+      "creator": "Eighth",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "New Nginx Exploit",
+      "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "pubDate": "Thu, 14 May 2026 17:17:48 +0000",
+      "isoDate": "2026-05-14T17:17:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/DepthFirstDisclosures/Nginx-Rift\">https://github.com/DepthFirstDisclosures/Nginx-Rift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48138268\">https://news.ycombinator.com/item?id=48138268</a></p>\n<p>Points: 440</p>\n<p># Comments: 99</p>\n",
+      "contentSnippet": "Article URL: https://github.com/DepthFirstDisclosures/Nginx-Rift\nComments URL: https://news.ycombinator.com/item?id=48138268\nPoints: 440\n# Comments: 99",
+      "creator": "hetsaraiya",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "pubDate": "Thu, 14 May 2026 17:08:00 +0000",
+      "isoDate": "2026-05-14T17:08:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/\">https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48138136\">https://news.ycombinator.com/item?id=48138136</a></p>\n<p>Points: 1063</p>\n<p># Comments: 573</p>\n",
+      "contentSnippet": "Article URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/\nComments URL: https://news.ycombinator.com/item?id=48138136\nPoints: 1063\n# Comments: 573",
+      "creator": "arkadiyt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "pubDate": "Thu, 14 May 2026 15:47:31 +0000",
+      "isoDate": "2026-05-14T15:47:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/\">https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48137145\">https://news.ycombinator.com/item?id=48137145</a></p>\n<p>Points: 685</p>\n<p># Comments: 176</p>\n",
+      "contentSnippet": "Article URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/\nComments URL: https://news.ycombinator.com/item?id=48137145\nPoints: 685\n# Comments: 176",
+      "creator": "allenleee",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
+      "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "pubDate": "Thu, 14 May 2026 14:51:14 +0000",
+      "isoDate": "2026-05-14T14:51:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline\">https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48136262\">https://news.ycombinator.com/item?id=48136262</a></p>\n<p>Points: 616</p>\n<p># Comments: 698</p>\n",
+      "contentSnippet": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline\nComments URL: https://news.ycombinator.com/item?id=48136262\nPoints: 616\n# Comments: 698",
+      "creator": "dmayo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Bitcoin trader recovers wallet with help of Claude",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "pubDate": "Thu, 14 May 2026 14:49:48 +0000",
+      "isoDate": "2026-05-14T14:49:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup\">https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48136240\">https://news.ycombinator.com/item?id=48136240</a></p>\n<p>Points: 331</p>\n<p># Comments: 173</p>\n",
+      "contentSnippet": "Article URL: https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup\nComments URL: https://news.ycombinator.com/item?id=48136240\nPoints: 331\n# Comments: 173",
+      "creator": "cednore",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-16T15:44:32.517Z"
+}

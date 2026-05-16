@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Accelerating on-device AI: A look at Arm and Google AI Edge optimization",
+      "link": "https://developers.googleblog.com/en/accelerating-on-device-ai-a-look-at-arm-and-google-ai-edge-optimization/",
+      "pubDate": "Wed, 13 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-13T16:00:00.000Z",
+      "content": "Integration of Arm Scalable Matrix Extension 2 (SME2) and the Google AI Edge software stack enables high-performance, on-device generative AI by turning the CPU into a powerful matrix-compute accelerator. Using Stability AI’s \"stable-audio-open-small\" model as a case study, it outlines a streamlined \"Convert, Optimize, and Deploy\" pipeline that utilizes LiteRT, XNNPACK, and KleidiAI to automate hardware acceleration. The resulting implementation achieves over a 2x speedup in audio generation and a 4x reduction in memory usage while maintaining high audio quality on Arm-powered mobile devices and laptops.",
+      "contentSnippet": "Integration of Arm Scalable Matrix Extension 2 (SME2) and the Google AI Edge software stack enables high-performance, on-device generative AI by turning the CPU into a powerful matrix-compute accelerator. Using Stability AI’s \"stable-audio-open-small\" model as a case study, it outlines a streamlined \"Convert, Optimize, and Deploy\" pipeline that utilizes LiteRT, XNNPACK, and KleidiAI to automate hardware acceleration. The resulting implementation achieves over a 2x speedup in audio generation and a 4x reduction in memory usage while maintaining high audio quality on Arm-powered mobile devices and laptops.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Announcing Genkit Middleware: Intercept, extend, and harden your agentic apps",
+      "link": "https://developers.googleblog.com/en/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+      "pubDate": "Wed, 13 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-13T16:00:00.000Z",
+      "content": "Genkit is an open-source framework designed to help developers build production-ready, agentic AI applications using TypeScript, Go, Dart, and Python. The framework utilizes a powerful middleware system that intercepts generation calls to inject custom behaviors like retries, model fallbacks, and human-in-the-loop tool approvals. By attaching hooks at the generate, model, and tool layers, developers can ensure high reliability and deterministic control over model outputs. Furthermore, Genkit allows for the creation and stacking of custom middleware, all of which can be inspected and debugged through a dedicated Developer UI.",
+      "contentSnippet": "Genkit is an open-source framework designed to help developers build production-ready, agentic AI applications using TypeScript, Go, Dart, and Python. The framework utilizes a powerful middleware system that intercepts generation calls to inject custom behaviors like retries, model fallbacks, and human-in-the-loop tool approvals. By attaching hooks at the generate, model, and tool layers, developers can ensure high reliability and deterministic control over model outputs. Furthermore, Genkit allows for the creation and stacking of custom middleware, all of which can be inspected and debugged through a dedicated Developer UI.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Build Long-running AI agents that pause, resume, and never lose context with ADK",
+      "link": "https://developers.googleblog.com/en/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+      "pubDate": "Mon, 11 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-11T16:00:00.000Z",
+      "content": "How to transition from stateless chatbots to production-grade agents capable of managing long-running enterprise workflows, such as HR onboarding, that span days or weeks. It introduces the Agent Development Kit (ADK) and its architectural shifts, specifically using durable state machines and persistent session storage to ensure an agent never loses context during \"idle time\" or server restarts. By leveraging event-driven webhooks and multi-agent delegation, the tutorial demonstrates how to build resilient systems that \"sleep\" during pauses and wake up to resume complex tasks with high reasoning accuracy.",
+      "contentSnippet": "How to transition from stateless chatbots to production-grade agents capable of managing long-running enterprise workflows, such as HR onboarding, that span days or weeks. It introduces the Agent Development Kit (ADK) and its architectural shifts, specifically using durable state machines and persistent session storage to ensure an agent never loses context during \"idle time\" or server restarts. By leveraging event-driven webhooks and multi-agent delegation, the tutorial demonstrates how to build resilient systems that \"sleep\" during pauses and wake up to resume complex tasks with high reasoning accuracy.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Supercharging LLM inference on Google TPUs: Achieving 3X speedups with diffusion-style speculative decoding",
+      "link": "https://developers.googleblog.com/en/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/",
+      "pubDate": "Sun, 03 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-03T16:00:00.000Z",
+      "content": "Researchers at UCSD have successfully implemented DFlash, a block-diffusion speculative decoding method, on Google TPUs to bypass the sequential bottlenecks of traditional autoregressive drafting. By \"painting\" entire blocks of candidate tokens in a single forward pass rather than predicting them one-by-one, the system achieved average speedups of 3.13x, with peak performance nearly doubling that of existing methods like EAGLE-3. This open-source integration into the vLLM ecosystem optimizes TPU hardware by leveraging \"free\" parallel verification and high-quality draft predictions for complex reasoning tasks.",
+      "contentSnippet": "Researchers at UCSD have successfully implemented DFlash, a block-diffusion speculative decoding method, on Google TPUs to bypass the sequential bottlenecks of traditional autoregressive drafting. By \"painting\" entire blocks of candidate tokens in a single forward pass rather than predicting them one-by-one, the system achieved average speedups of 3.13x, with peak performance nearly doubling that of existing methods like EAGLE-3. This open-source integration into the vLLM ecosystem optimizes TPU hardware by leveraging \"free\" parallel verification and high-quality draft predictions for complex reasoning tasks.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Building with Gemini Embedding 2: Agentic multimodal RAG and beyond",
+      "link": "https://developers.googleblog.com/en/building-with-gemini-embedding-2/",
+      "pubDate": "Wed, 29 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-29T16:00:00.000Z",
+      "content": "Google has announced the general availability of Gemini Embedding 2, a unified model that maps text, images, video, audio, and documents into a single semantic space. This model allows developers to process interleaved multimodal inputs in a single request, significantly improving performance for tasks like agentic RAG, visual search, and content moderation. By supporting over 100 languages and offering features like task-specific prefixes and Matryoshka dimensionality reduction, the model provides a highly efficient and accurate foundation for building complex AI agents.",
+      "contentSnippet": "Google has announced the general availability of Gemini Embedding 2, a unified model that maps text, images, video, audio, and documents into a single semantic space. This model allows developers to process interleaved multimodal inputs in a single request, significantly improving performance for tasks like agentic RAG, visual search, and content moderation. By supporting over 100 languages and offering features like task-specific prefixes and Matryoshka dimensionality reduction, the model provides a highly efficient and accurate foundation for building complex AI agents.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Speeding Up AI: Bringing Google Colossus to PyTorch via GCSFS and Rapid Bucket",
+      "link": "https://developers.googleblog.com/en/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
+      "pubDate": "Tue, 28 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-28T16:00:00.000Z",
+      "content": "Google Cloud has introduced a high-performance integration that connects Rapid Storage directly to PyTorch via the fsspec interface to eliminate AI training bottlenecks. By utilizing Google’s Colossus architecture and bidirectional gRPC streaming, the solution offers up to 15 TiB/s aggregate throughput and significant reductions in latency. These improvements allow developers to speed up total training time by 23% with zero code changes required beyond updating the storage bucket type.",
+      "contentSnippet": "Google Cloud has introduced a high-performance integration that connects Rapid Storage directly to PyTorch via the fsspec interface to eliminate AI training bottlenecks. By utilizing Google’s Colossus architecture and bidirectional gRPC streaming, the solution offers up to 15 TiB/s aggregate throughput and significant reductions in latency. These improvements allow developers to speed up total training time by 23% with zero code changes required beyond updating the storage bucket type.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Building real-world on-device AI with LiteRT and NPU",
+      "link": "https://developers.googleblog.com/en/building-real-world-on-device-ai-with-litert-and-npu/",
+      "pubDate": "Wed, 22 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-22T16:00:00.000Z",
+      "content": "LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.",
+      "contentSnippet": "LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Agents CLI in Agent Platform: create to production in one CLI",
+      "link": "https://developers.googleblog.com/en/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "pubDate": "Tue, 21 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-21T16:00:00.000Z",
+      "content": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "contentSnippet": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Production-Ready AI Agents: 5 Lessons from Refactoring a Monolith",
+      "link": "https://developers.googleblog.com/en/production-ready-ai-agents-5-lessons-from-refactoring-a-monolith/",
+      "pubDate": "Mon, 20 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-20T16:00:00.000Z",
+      "content": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google’s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
+      "contentSnippet": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google’s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A2UI v0.9: The New Standard for Portable, Framework-Agnostic Generative UI",
+      "link": "https://developers.googleblog.com/en/a2ui-v0-9-generative-ui/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "A2UI v0.9 introduces a framework-agnostic standard designed to help AI agents generate real-time, tailored UI widgets using a company’s existing design system. This update simplifies the developer experience with a new Agent SDK for Python, a shared web-core library, and official support for renderers like React, Flutter, and Angular. By decoupling UI intent from specific platforms, the release enables seamless, low-latency streaming of generative interfaces across web and mobile applications. Integrating with broader ecosystems like AG2 and Vercel, A2UI v0.9 aims to move generative UI from experimental demos to production-ready digital products.",
+      "contentSnippet": "A2UI v0.9 introduces a framework-agnostic standard designed to help AI agents generate real-time, tailored UI widgets using a company’s existing design system. This update simplifies the developer experience with a new Agent SDK for Python, a shared web-core library, and official support for renderers like React, Flutter, and Angular. By decoupling UI intent from specific platforms, the release enables seamless, low-latency streaming of generative interfaces across web and mobile applications. Integrating with broader ecosystems like AG2 and Vercel, A2UI v0.9 aims to move generative UI from experimental demos to production-ready digital products.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-16T15:44:54.532Z"
+}

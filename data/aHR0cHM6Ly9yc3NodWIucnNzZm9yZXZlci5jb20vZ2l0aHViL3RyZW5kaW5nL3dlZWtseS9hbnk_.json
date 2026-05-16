@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "CloakHQ/CloakBrowser",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dbaf727fa4cb1cbece6557a4cb887f1a6313799b5503bdee835df2c25d4f072f/CloakHQ/CloakBrowser\" referrerpolicy=\"no-referrer\"><br>Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.<br><br>Language: Python<br>Stars: 12347<br>Forks: 951",
+      "contentSnippet": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.\nLanguage: Python\nStars: 12347\nForks: 951",
+      "creator": "CloakHQ",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "yikart/AiToEarn",
+      "link": "https://github.com/yikart/AiToEarn",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e59c89ac88431424f7f3167269fba2cb4538c8fac881d8d390b340cc2023787c/yikart/AiToEarn\" referrerpolicy=\"no-referrer\"><br>Let's use AI to Earn!<br><br>Language: TypeScript<br>Stars: 14220<br>Forks: 2392",
+      "contentSnippet": "Let's use AI to Earn!\nLanguage: TypeScript\nStars: 14220\nForks: 2392",
+      "creator": "yikart",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "rohitg00/agentmemory",
+      "link": "https://github.com/rohitg00/agentmemory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dfff2d1769bce8cd67669d5503ca911a7842faf206330a1cd08cfb215a5ba4ed/rohitg00/agentmemory\" referrerpolicy=\"no-referrer\"><br>#1 Persistent memory for AI coding agents based on real-world benchmarks<br><br>Language: TypeScript<br>Stars: 10051<br>Forks: 836",
+      "contentSnippet": "#1 Persistent memory for AI coding agents based on real-world benchmarks\nLanguage: TypeScript\nStars: 10051\nForks: 836",
+      "creator": "rohitg00",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/financial-services",
+      "link": "https://github.com/anthropics/financial-services",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/961f21c5ccbb8ad3d7773886f6226bdfbe78a82f819727d54ade808cd62a4b28/anthropics/financial-services\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 23680<br>Forks: 3263",
+      "contentSnippet": "Language: Python\nStars: 23680\nForks: 3263",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "bytedance/UI-TARS-desktop",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ea78dbcdb8df01d3d4e35c3b8d2f350b321d1a618d186936a9dc9ee10cc4919/bytedance/UI-TARS-desktop\" referrerpolicy=\"no-referrer\"><br>The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra<br><br>Language: TypeScript<br>Stars: 34192<br>Forks: 3407",
+      "contentSnippet": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra\nLanguage: TypeScript\nStars: 34192\nForks: 3407",
+      "creator": "bytedance",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "decolua/9router",
+      "link": "https://github.com/decolua/9router",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/10bc5ee181e8ad752b079ff735505cc08381e424b331c3f4615fde19aabeeb9e/decolua/9router\" referrerpolicy=\"no-referrer\"><br>Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.<br><br>Language: JavaScript<br>Stars: 10997<br>Forks: 1690",
+      "contentSnippet": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.\nLanguage: JavaScript\nStars: 10997\nForks: 1690",
+      "creator": "decolua",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Imbad0202/academic-research-skills",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6d3de3b0810edaf0d414f59bee9ac242614ff71bedc5be276abdb583ec9dc96f/Imbad0202/academic-research-skills\" referrerpolicy=\"no-referrer\"><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize<br><br>Language: Python<br>Stars: 7933<br>Forks: 890",
+      "contentSnippet": "Academic Research Skills for Claude Code: research → write → review → revise → finalize\nLanguage: Python\nStars: 7933\nForks: 890",
+      "creator": "Imbad0202",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "oven-sh/bun",
+      "link": "https://github.com/oven-sh/bun",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/184fa01f7c8e83aa055b10317e6c250d4fb1fb94191f56e7c86841f39cea7587/oven-sh/bun\" referrerpolicy=\"no-referrer\"><br>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one<br><br>Language: Rust<br>Stars: 90945<br>Forks: 4527",
+      "contentSnippet": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one\nLanguage: Rust\nStars: 90945\nForks: 4527",
+      "creator": "oven-sh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/853be4d317d45b68de291a9beef9f0296c386de5fb6217119fbe37f83f31da44/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 86343<br>Forks: 7504",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 86343\nForks: 7504",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hmbown/DeepSeek-TUI",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5d7ea5ee04478eb7c7761172df58ac8227e11181a872dff3d3eb1ecfbb18b41a/Hmbown/DeepSeek-TUI\" referrerpolicy=\"no-referrer\"><br>Coding agent for DeepSeek models that runs in your terminal<br><br>Language: Rust<br>Stars: 30349<br>Forks: 2545",
+      "contentSnippet": "Coding agent for DeepSeek models that runs in your terminal\nLanguage: Rust\nStars: 30349\nForks: 2545",
+      "creator": "Hmbown",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HKUDS/AI-Trader",
+      "link": "https://github.com/HKUDS/AI-Trader",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8876816497195406c1d647a5d222db103a03d70825c4eeedabbbd49fd9876bdc/HKUDS/AI-Trader\" referrerpolicy=\"no-referrer\"><br>\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  <br><br>Language: Python<br>Stars: 17500<br>Forks: 2695",
+      "contentSnippet": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  \nLanguage: Python\nStars: 17500\nForks: 2695",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf\" referrerpolicy=\"no-referrer\"><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.<br><br>Language: Rust<br>Stars: 58032<br>Forks: 7587",
+      "contentSnippet": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.\nLanguage: Rust\nStars: 58032\nForks: 7587",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "apernet/hysteria",
+      "link": "https://github.com/apernet/hysteria",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b41bfa01c7452789712af84466efc79125a55e67ce486b34f25d3431a3be4aa9/apernet/hysteria\" referrerpolicy=\"no-referrer\"><br>Hysteria is a powerful, lightning fast and censorship resistant proxy.<br><br>Language: Go<br>Stars: 20922<br>Forks: 2153",
+      "contentSnippet": "Hysteria is a powerful, lightning fast and censorship resistant proxy.\nLanguage: Go\nStars: 20922\nForks: 2153",
+      "creator": "apernet",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "millionco/react-doctor",
+      "link": "https://github.com/millionco/react-doctor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/853be4d317d45b68de291a9beef9f0296c386de5fb6217119fbe37f83f31da44/millionco/react-doctor\" referrerpolicy=\"no-referrer\"><br>Your agent writes bad React. This catches it<br><br>Language: TypeScript<br>Stars: 9724<br>Forks: 303",
+      "contentSnippet": "Your agent writes bad React. This catches it\nLanguage: TypeScript\nStars: 9724\nForks: 303",
+      "creator": "millionco",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "playcanvas/supersplat",
+      "link": "https://github.com/playcanvas/supersplat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/707265118/54aff978-9167-44e5-8a64-7fe9c7d682e3\" referrerpolicy=\"no-referrer\"><br>3D Gaussian Splat Editor<br><br>Language: TypeScript<br>Stars: 8124<br>Forks: 877",
+      "contentSnippet": "3D Gaussian Splat Editor\nLanguage: TypeScript\nStars: 8124\nForks: 877",
+      "creator": "playcanvas",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-16T15:44:48.019Z"
+}

@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "iptv-org/iptv",
+      "link": "https://github.com/iptv-org/iptv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/79e840ff7480e4f0c4c63e432768767bbbd9c7b9db9616607e4dd373097b79cd/iptv-org/iptv\" referrerpolicy=\"no-referrer\"><br>Collection of publicly available IPTV channels from all over the world<br><br>Language: TypeScript<br>Stars: 118986<br>Forks: 6362",
+      "contentSnippet": "Collection of publicly available IPTV channels from all over the world\nLanguage: TypeScript\nStars: 118986\nForks: 6362",
+      "creator": "iptv-org",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4e79e96acb8a39ba31bfeeafa84f7fd3d8f66538881f4337670d36fee94679a/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: Shell<br>Stars: 58250<br>Forks: 6289",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: Shell\nStars: 58250\nForks: 6289",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "chatwoot/chatwoot",
+      "link": "https://github.com/chatwoot/chatwoot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/202291859/bd7a45e0-9a03-4a0b-8ab9-146e55911702\" referrerpolicy=\"no-referrer\"><br>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬<br><br>Language: Ruby<br>Stars: 30819<br>Forks: 7552",
+      "contentSnippet": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬\nLanguage: Ruby\nStars: 30819\nForks: 7552",
+      "creator": "chatwoot",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dc8495006c719e98ad6bca1d0351804afea43ec38426d0a3925f048c73b3dc51/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 226871<br>Forks: 20172",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 226871\nForks: 20172",
+      "creator": "obra",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "apple/container",
+      "link": "https://github.com/apple/container",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15\" referrerpolicy=\"no-referrer\"><br>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. <br><br>Language: Swift<br>Stars: 36227<br>Forks: 1031",
+      "contentSnippet": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. \nLanguage: Swift\nStars: 36227\nForks: 1031",
+      "creator": "apple",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "music-assistant/server",
+      "link": "https://github.com/music-assistant/server",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/78c986fd832d7f98e97a71e4d552b5ff62fd01c5af3228ab5be1099b54cbbbf1/music-assistant/server\" referrerpolicy=\"no-referrer\"><br>Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.<br><br>Language: Python<br>Stars: 1987<br>Forks: 429",
+      "contentSnippet": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.\nLanguage: Python\nStars: 1987\nForks: 429",
+      "creator": "music-assistant",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "kenn-io/agentsview",
+      "link": "https://github.com/kenn-io/agentsview",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28ea43eef092d14578ca02922e16ccec7ca8ac06cffe1c7585f47eb06a36f145/kenn-io/agentsview\" referrerpolicy=\"no-referrer\"><br>Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!<br><br>Language: Go<br>Stars: 2328<br>Forks: 214",
+      "contentSnippet": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!\nLanguage: Go\nStars: 2328\nForks: 214",
+      "creator": "kenn-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LMCache/LMCache",
+      "link": "https://github.com/LMCache/LMCache",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ec7cd906e1da78935ecf5e97ffe350476d2a7bbec48f8c58f8c6b3192fc8c0b5/LMCache/LMCache\" referrerpolicy=\"no-referrer\"><br>LMCache: Supercharge Your LLM with the Fastest KV Cache Layer<br><br>Language: Python<br>Stars: 8861<br>Forks: 1303",
+      "contentSnippet": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer\nLanguage: Python\nStars: 8861\nForks: 1303",
+      "creator": "LMCache",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "microsoft/PowerToys",
+      "link": "https://github.com/microsoft/PowerToys",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/184456251/6fa0e600-b17f-11ea-9360-1f79417d8a69\" referrerpolicy=\"no-referrer\"><br>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br><br>Language: C<br>Stars: 134646<br>Forks: 8078",
+      "contentSnippet": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows\nLanguage: C\nStars: 134646\nForks: 8078",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "andrewyng/aisuite",
+      "link": "https://github.com/andrewyng/aisuite",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/518324bc5c2c353bfb5c686a95d47432258e687c0c65aa57fd6b567ec47be2fc/andrewyng/aisuite\" referrerpolicy=\"no-referrer\"><br>Simple, unified interface to multiple Generative AI providers <br><br>Language: Python<br>Stars: 14080<br>Forks: 1487",
+      "contentSnippet": "Simple, unified interface to multiple Generative AI providers \nLanguage: Python\nStars: 14080\nForks: 1487",
+      "creator": "andrewyng",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NVIDIA/SkillSpector",
+      "link": "https://github.com/NVIDIA/SkillSpector",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2bd82c753be73fbea46f2ec2698a1ee8947f80d3c04e87bd6c937aa9639f794a/NVIDIA/SkillSpector\" referrerpolicy=\"no-referrer\"><br>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.<br><br>Language: Python<br>Stars: 4366<br>Forks: 330",
+      "contentSnippet": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.\nLanguage: Python\nStars: 4366\nForks: 330",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "bannedbook/fanqiang",
+      "link": "https://github.com/bannedbook/fanqiang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5ebab8541d164fb5448da3ecde919afb4830f08ff4555147dcd023c557bfad22/bannedbook/fanqiang\" referrerpolicy=\"no-referrer\"><br>翻墙-科学上网<br><br>Language: Kotlin<br>Stars: 47467<br>Forks: 8079",
+      "contentSnippet": "翻墙-科学上网\nLanguage: Kotlin\nStars: 47467\nForks: 8079",
+      "creator": "bannedbook",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "swc-project/swc",
+      "link": "https://github.com/swc-project/swc",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/13b751a20330397121500e0a35f98d5c83c27e8af8cab7845a3bfbb6fac0c8d5/swc-project/swc\" referrerpolicy=\"no-referrer\"><br>Rust-based platform for the Web<br><br>Language: Rust<br>Stars: 33620<br>Forks: 1398",
+      "contentSnippet": "Rust-based platform for the Web\nLanguage: Rust\nStars: 33620\nForks: 1398",
+      "creator": "swc-project",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2e11e82a8c0f9d2d5e860936ff67819fe1a74d2521850945b2f433772cb0036d/x1xhlol/system-prompts-and-models-of-ai-tools\" referrerpolicy=\"no-referrer\"><br>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models<br><br>Language: Unknown<br>Stars: 140282<br>Forks: 34655",
+      "contentSnippet": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models\nLanguage: Unknown\nStars: 140282\nForks: 34655",
+      "creator": "x1xhlol",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-13T22:19:42.474Z"
+}

@@ -1,0 +1,259 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/14bbbf6f213e27aac4087aa2d243540434025c371ce838f8c0b0673f4bcbb3e8/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 41189<br>Forks: 3332",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 41189\nForks: 3332",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "apple/container",
+      "link": "https://github.com/apple/container",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15\" referrerpolicy=\"no-referrer\"><br>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. <br><br>Language: Swift<br>Stars: 36227<br>Forks: 1031",
+      "contentSnippet": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. \nLanguage: Swift\nStars: 36227\nForks: 1031",
+      "creator": "apple",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "phuryn/pm-skills",
+      "link": "https://github.com/phuryn/pm-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8ab0a0ca884397770c622d8efa7bbb6fe5043e357dbc821d6ed61538c3d053cf/phuryn/pm-skills\" referrerpolicy=\"no-referrer\"><br>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.<br><br>Language: Unknown<br>Stars: 17601<br>Forks: 1812",
+      "contentSnippet": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.\nLanguage: Unknown\nStars: 17601\nForks: 1812",
+      "creator": "phuryn",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "link": "https://github.com/chopratejas/headroom",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3e5526320340cbda8ed9484d046b92a52e6531e0f8b37265b0e49d5e2b785313/chopratejas/headroom\" referrerpolicy=\"no-referrer\"><br>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.<br><br>Language: Python<br>Stars: 26109<br>Forks: 1736",
+      "contentSnippet": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.\nLanguage: Python\nStars: 26109\nForks: 1736",
+      "creator": "chopratejas",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NVIDIA/SkillSpector",
+      "link": "https://github.com/NVIDIA/SkillSpector",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2bd82c753be73fbea46f2ec2698a1ee8947f80d3c04e87bd6c937aa9639f794a/NVIDIA/SkillSpector\" referrerpolicy=\"no-referrer\"><br>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.<br><br>Language: Python<br>Stars: 4366<br>Forks: 330",
+      "contentSnippet": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.\nLanguage: Python\nStars: 4366\nForks: 330",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4e79e96acb8a39ba31bfeeafa84f7fd3d8f66538881f4337670d36fee94679a/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: Shell<br>Stars: 58250<br>Forks: 6289",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: Shell\nStars: 58250\nForks: 6289",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9b6b8ec6112d07446024ece54d79fadd504a31a33176e712025d5b7e3cdf5117/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 27346<br>Forks: 2226",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 27346\nForks: 2226",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f3bf78a2dcc879fb886b4192d4ee464acbdb6411850dace3dc0a15400eee9913/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 2964<br>Forks: 345",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 2964\nForks: 345",
+      "creator": "openai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Leonxlnx/taste-skill",
+      "link": "https://github.com/Leonxlnx/taste-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31\" referrerpolicy=\"no-referrer\"><br>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop <br><br>Language: Shell<br>Stars: 43048<br>Forks: 3001",
+      "contentSnippet": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop \nLanguage: Shell\nStars: 43048\nForks: 3001",
+      "creator": "Leonxlnx",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de24ac5bf30989906642680181c755b960b08f7e614577ff3f5d6579c20530ff/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 152723<br>Forks: 10563",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 152723\nForks: 10563",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "refactoringhq/tolaria",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bcd2bac4b3f178c0ce13eb19c9d61312d887baab1ae6632116195e82898f2498/refactoringhq/tolaria\" referrerpolicy=\"no-referrer\"><br>Desktop app to manage markdown knowledge bases<br><br>Language: TypeScript<br>Stars: 16079<br>Forks: 1093",
+      "contentSnippet": "Desktop app to manage markdown knowledge bases\nLanguage: TypeScript\nStars: 16079\nForks: 1093",
+      "creator": "refactoringhq",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "lfnovo/open-notebook",
+      "link": "https://github.com/lfnovo/open-notebook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/876286167/a086d43b-112b-4c10-91f5-5c3fd71c9af9\" referrerpolicy=\"no-referrer\"><br>An Open Source implementation of Notebook LM with more flexibility and features<br><br>Language: TypeScript<br>Stars: 30103<br>Forks: 3419",
+      "contentSnippet": "An Open Source implementation of Notebook LM with more flexibility and features\nLanguage: TypeScript\nStars: 30103\nForks: 3419",
+      "creator": "lfnovo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "aaif-goose/goose",
+      "link": "https://github.com/aaif-goose/goose",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4d0e539576a6654a2c4d1644e2536b8cd5eb542b5c1b1e96fb354027e1e00cff/aaif-goose/goose\" referrerpolicy=\"no-referrer\"><br>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br><br>Language: Rust<br>Stars: 49223<br>Forks: 5198",
+      "contentSnippet": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM\nLanguage: Rust\nStars: 49223\nForks: 5198",
+      "creator": "aaif-goose",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "opencv/opencv",
+      "link": "https://github.com/opencv/opencv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5c956c205bc8853221f41046c3609f6569965a669e2563521793d37841a1e471/opencv/opencv\" referrerpolicy=\"no-referrer\"><br>Open Source Computer Vision Library<br><br>Language: C++<br>Stars: 89059<br>Forks: 56652",
+      "contentSnippet": "Open Source Computer Vision Library\nLanguage: C++\nStars: 89059\nForks: 56652",
+      "creator": "opencv",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "roboflow/supervision",
+      "link": "https://github.com/roboflow/supervision",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4cbcb39bf9919c9aba8375bba22d5f228437fa2d720114eadef9bae667710d3b/roboflow/supervision\" referrerpolicy=\"no-referrer\"><br>We write your reusable computer vision tools. 💜<br><br>Language: Python<br>Stars: 44077<br>Forks: 3920",
+      "contentSnippet": "We write your reusable computer vision tools. 💜\nLanguage: Python\nStars: 44077\nForks: 3920",
+      "creator": "roboflow",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "CopilotKit/CopilotKit",
+      "link": "https://github.com/CopilotKit/CopilotKit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/655515393/3299a492-753a-4726-ad71-ea5d268c6e79\" referrerpolicy=\"no-referrer\"><br>The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol<br><br>Language: TypeScript<br>Stars: 34996<br>Forks: 4361",
+      "contentSnippet": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol\nLanguage: TypeScript\nStars: 34996\nForks: 4361",
+      "creator": "CopilotKit",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NVIDIA/cosmos",
+      "link": "https://github.com/NVIDIA/cosmos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a3c81a18e794f02760fedc7f5d313d3a98a80185f23ecbc2f17857837f76a7b3/NVIDIA/cosmos\" referrerpolicy=\"no-referrer\"><br>NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.<br><br>Language: Jupyter Notebook<br>Stars: 10145<br>Forks: 658",
+      "contentSnippet": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.\nLanguage: Jupyter Notebook\nStars: 10145\nForks: 658",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "huggingface/OpenEnv",
+      "link": "https://github.com/huggingface/OpenEnv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6b86a87ccaa80757505087d1532952ec8835febec06f5a204a8776f48880fafb/huggingface/OpenEnv\" referrerpolicy=\"no-referrer\"><br>An interface library for RL post training with environments. <br><br>Language: Python<br>Stars: 2165<br>Forks: 392",
+      "contentSnippet": "An interface library for RL post training with environments. \nLanguage: Python\nStars: 2165\nForks: 392",
+      "creator": "huggingface",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-13T22:19:45.058Z"
+}

@@ -1,0 +1,405 @@
+{
+  "sourceUrl": "https://deepmind.google/blog/rss.xml",
+  "title": "Google DeepMind News",
+  "description": "Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research.",
+  "link": "https://deepmind.google/blog/",
+  "items": [
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
+      "isoDate": "2026-06-10T16:24:11.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
+      "isoDate": "2026-06-10T10:21:19.000Z",
+      "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "contentSnippet": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "pubDate": "Tue, 09 Jun 2026 15:16:25 +0000",
+      "isoDate": "2026-06-09T15:16:25.000Z",
+      "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "contentSnippet": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "pubDate": "Tue, 09 Jun 2026 14:10:19 +0000",
+      "isoDate": "2026-06-09T14:10:19.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "pubDate": "Tue, 09 Jun 2026 14:02:33 +0000",
+      "isoDate": "2026-06-09T14:02:33.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "pubDate": "Mon, 08 Jun 2026 13:04:59 +0000",
+      "isoDate": "2026-06-08T13:04:59.000Z",
+      "content": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "contentSnippet": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "pubDate": "Thu, 21 May 2026 19:46:42 +0000",
+      "isoDate": "2026-05-21T19:46:42.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
+      "isoDate": "2026-05-18T18:21:39.000Z",
+      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "contentSnippet": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
+      "isoDate": "2026-05-17T19:53:18.000Z",
+      "content": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "contentSnippet": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "pubDate": "Sun, 17 May 2026 19:50:57 +0000",
+      "isoDate": "2026-05-17T19:50:57.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "pubDate": "Sun, 17 May 2026 19:43:45 +0000",
+      "isoDate": "2026-05-17T19:43:45.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "pubDate": "Sun, 17 May 2026 13:50:34 +0000",
+      "isoDate": "2026-05-17T13:50:34.000Z",
+      "content": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "contentSnippet": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "pubDate": "Sun, 17 May 2026 13:43:50 +0000",
+      "isoDate": "2026-05-17T13:43:50.000Z",
+      "content": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "contentSnippet": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "pubDate": "Sat, 16 May 2026 09:13:34 +0000",
+      "isoDate": "2026-05-16T09:13:34.000Z",
+      "content": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "contentSnippet": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "pubDate": "Sat, 16 May 2026 08:16:06 +0000",
+      "isoDate": "2026-05-16T08:16:06.000Z",
+      "content": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "contentSnippet": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "pubDate": "Sat, 16 May 2026 08:08:44 +0000",
+      "isoDate": "2026-05-16T08:08:44.000Z",
+      "content": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "contentSnippet": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "pubDate": "Sat, 16 May 2026 08:00:15 +0000",
+      "isoDate": "2026-05-16T08:00:15.000Z",
+      "content": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "contentSnippet": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "pubDate": "Sat, 16 May 2026 07:53:11 +0000",
+      "isoDate": "2026-05-16T07:53:11.000Z",
+      "content": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "contentSnippet": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "pubDate": "Sat, 16 May 2026 07:40:27 +0000",
+      "isoDate": "2026-05-16T07:40:27.000Z",
+      "content": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "contentSnippet": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "pubDate": "Sat, 16 May 2026 03:14:17 +0000",
+      "isoDate": "2026-05-16T03:14:17.000Z",
+      "content": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "contentSnippet": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "pubDate": "Fri, 15 May 2026 22:50:12 +0000",
+      "isoDate": "2026-05-15T22:50:12.000Z",
+      "content": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "contentSnippet": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "pubDate": "Tue, 12 May 2026 14:40:07 +0000",
+      "isoDate": "2026-05-12T14:40:07.000Z",
+      "content": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "contentSnippet": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "pubDate": "Wed, 06 May 2026 10:43:49 +0000",
+      "isoDate": "2026-05-06T10:43:49.000Z",
+      "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "contentSnippet": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "link": "https://deepmind.google/blog/ai-co-clinician/",
+      "pubDate": "Thu, 30 Apr 2026 12:14:15 +0000",
+      "isoDate": "2026-04-30T12:14:15.000Z",
+      "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "contentSnippet": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "pubDate": "Mon, 27 Apr 2026 07:00:06 +0000",
+      "isoDate": "2026-04-27T07:00:06.000Z",
+      "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "contentSnippet": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "link": "https://deepmind.google/blog/decoupled-diloco/",
+      "pubDate": "Wed, 22 Apr 2026 10:20:03 +0000",
+      "isoDate": "2026-04-22T10:20:03.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "pubDate": "Tue, 21 Apr 2026 14:54:15 +0000",
+      "isoDate": "2026-04-21T14:54:15.000Z",
+      "content": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "contentSnippet": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "pubDate": "Wed, 15 Apr 2026 16:03:19 +0000",
+      "isoDate": "2026-04-15T16:03:19.000Z",
+      "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "contentSnippet": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "pubDate": "Mon, 13 Apr 2026 15:52:13 +0000",
+      "isoDate": "2026-04-13T15:52:13.000Z",
+      "content": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "contentSnippet": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "pubDate": "Thu, 02 Apr 2026 16:00:49 +0000",
+      "isoDate": "2026-04-02T16:00:49.000Z",
+      "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "contentSnippet": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。AI 模型暂时不可用。"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-06-13T22:19:38.839Z"
+}

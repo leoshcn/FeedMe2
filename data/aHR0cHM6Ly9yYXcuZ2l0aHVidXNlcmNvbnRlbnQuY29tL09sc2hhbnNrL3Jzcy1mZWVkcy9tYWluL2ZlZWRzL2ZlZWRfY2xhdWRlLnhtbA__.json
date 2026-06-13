@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Latest updates from Claude Blog",
+  "link": "https://claude.com/blog",
+  "items": [
+    {
+      "title": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "link": "https://claude.com/blog/building-with-claude-managed-agents",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-10T00:00:00.000Z",
+      "content": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "contentSnippet": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "link": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "contentSnippet": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Observability for developers building connectors",
+      "link": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Observability for developers building connectors",
+      "contentSnippet": "Observability for developers building connectors",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "link": "https://claude.com/blog/claude-for-foundation-models",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "contentSnippet": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "contentSnippet": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Claude Cowork product guide",
+      "link": "https://claude.com/blog/the-claude-cowork-product-guide",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "The Claude Cowork product guide",
+      "contentSnippet": "The Claude Cowork product guide",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Running an AI-native engineering org",
+      "link": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Running an AI-native engineering org",
+      "contentSnippet": "Running an AI-native engineering org",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Best practices for getting started with Claude Cowork",
+      "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Best practices for getting started with Claude Cowork",
+      "contentSnippet": "Best practices for getting started with Claude Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Lessons from building Claude Code: How we use skills",
+      "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Lessons from building Claude Code: How we use skills",
+      "contentSnippet": "Lessons from building Claude Code: How we use skills",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Anthropic enables self-service data analytics with Claude",
+      "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "How Anthropic enables self-service data analytics with Claude",
+      "contentSnippet": "How Anthropic enables self-service data analytics with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A harness for every task: dynamic workflows in Claude Code ",
+      "link": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-02T00:00:00.000Z",
+      "content": "A harness for every task: dynamic workflows in Claude Code ",
+      "contentSnippet": "A harness for every task: dynamic workflows in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing dynamic workflows in Claude Code",
+      "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Introducing dynamic workflows in Claude Code",
+      "contentSnippet": "Introducing dynamic workflows in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Zero Trust for AI agents",
+      "link": "https://claude.com/blog/zero-trust-for-ai-agents",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Zero Trust for AI agents",
+      "contentSnippet": "Zero Trust for AI agents",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How CodeRabbit used Claude to build an agent orchestration system",
+      "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "How CodeRabbit used Claude to build an agent orchestration system",
+      "contentSnippet": "How CodeRabbit used Claude to build an agent orchestration system",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using LLMs to secure source code",
+      "link": "https://claude.com/blog/using-llms-to-secure-source-code",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Using LLMs to secure source code",
+      "contentSnippet": "Using LLMs to secure source code",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Code w/ Claude London 2026: Rethinking how we build",
+      "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
+      "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-26T00:00:00.000Z",
+      "content": "Code w/ Claude London 2026: Rethinking how we build",
+      "contentSnippet": "Code w/ Claude London 2026: Rethinking how we build",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+      "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-22T00:00:00.000Z",
+      "content": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "contentSnippet": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How our partners are putting Opus to work for cybersecurity",
+      "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+      "pubDate": "Thu, 21 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-21T00:00:00.000Z",
+      "content": "How our partners are putting Opus to work for cybersecurity",
+      "contentSnippet": "How our partners are putting Opus to work for cybersecurity",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude now works with more security and compliance tools",
+      "link": "https://claude.com/blog/compliance-api-security-partners",
+      "pubDate": "Thu, 21 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-21T00:00:00.000Z",
+      "content": "Claude now works with more security and compliance tools",
+      "contentSnippet": "Claude now works with more security and compliance tools",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+      "pubDate": "Wed, 20 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-20T00:00:00.000Z",
+      "content": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "contentSnippet": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "pubDate": "Wed, 20 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-20T00:00:00.000Z",
+      "content": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "contentSnippet": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "link": "https://claude.com/blog/claude-managed-agents-updates",
+      "pubDate": "Tue, 19 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-19T00:00:00.000Z",
+      "content": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "contentSnippet": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Deploying Claude across the legal industry",
+      "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+      "pubDate": "Fri, 15 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-15T00:00:00.000Z",
+      "content": "Deploying Claude across the legal industry",
+      "contentSnippet": "Deploying Claude across the legal industry",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Claude Code works in large codebases: Best practices and where to start",
+      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "How Claude Code works in large codebases: Best practices and where to start",
+      "contentSnippet": "How Claude Code works in large codebases: Best practices and where to start",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The founder's playbook: Building an AI-native startup",
+      "link": "https://claude.com/blog/the-founders-playbook",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "The founder's playbook: Building an AI-native startup",
+      "contentSnippet": "The founder's playbook: Building an AI-native startup",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Best practices for computer and browser use with Claude",
+      "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+      "pubDate": "Wed, 13 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-13T00:00:00.000Z",
+      "content": "Best practices for computer and browser use with Claude",
+      "contentSnippet": "Best practices for computer and browser use with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+      "pubDate": "Tue, 12 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-12T00:00:00.000Z",
+      "content": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "contentSnippet": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude for the legal industry",
+      "link": "https://claude.com/blog/claude-for-the-legal-industry",
+      "pubDate": "Tue, 12 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-12T00:00:00.000Z",
+      "content": "Claude for the legal industry",
+      "contentSnippet": "Claude for the legal industry",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential ",
+      "link": "https://claude.com/blog/code-w-claude-sf-2026-sf",
+      "pubDate": "Tue, 12 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-12T00:00:00.000Z",
+      "content": "Code w/ Claude SF 2026 recap: Building on the AI exponential ",
+      "contentSnippet": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing the Claude Platform on AWS",
+      "link": "https://claude.com/blog/claude-platform-on-aws",
+      "pubDate": "Mon, 11 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-11T00:00:00.000Z",
+      "content": "Introducing the Claude Platform on AWS",
+      "contentSnippet": "Introducing the Claude Platform on AWS",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-13T22:19:33.327Z"
+}

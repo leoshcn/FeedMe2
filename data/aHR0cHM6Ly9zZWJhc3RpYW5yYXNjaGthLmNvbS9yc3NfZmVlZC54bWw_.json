@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://sebastianraschka.com/rss_feed.xml",
+  "title": "Sebastian Raschka, PhD",
+  "description": "I'm an LLM Research Engineer with over a decade of experience in artificial intelligence. My work bridges academia and industry, with roles including senior staff at an AI company and a statistics professor. My expertise lies in LLM research and the development of high-performance AI systems, with a deep focus on practical, code-driven implementations.\n",
+  "link": "https://sebastianraschka.com/",
+  "items": [
+    {
+      "title": "OpenAI Astra and Looped Transformers",
+      "link": "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html",
+      "pubDate": "Wed, 02 Sep 2026 03:30:28 -0500",
+      "isoDate": "2026-09-02T08:30:28.000Z",
+      "content": "A short note on OpenAI Astra, recurrent depth, looped transformers, Nanbeige 4.2, and the Mixture-of-Recursions paper.",
+      "contentSnippet": "A short note on OpenAI Astra, recurrent depth, looped transformers, Nanbeige 4.2, and the Mixture-of-Recursions paper.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Reasoning Models From Scratch: Code Setup",
+      "link": "https://sebastianraschka.com/blog/2026/reasoning-models-and-agents-from-scratch.html",
+      "pubDate": "Sun, 30 Aug 2026 08:42:39 -0500",
+      "isoDate": "2026-08-30T13:42:39.000Z",
+      "content": "A short video on how conventional LLMs relate to reasoning models and agents, along with Python and PyTorch setup using uv.",
+      "contentSnippet": "A short video on how conventional LLMs relate to reasoning models and agents, along with Python and PyTorch setup using uv.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Two Live Book Club Q&As on September 3",
+      "link": "https://sebastianraschka.com/blog/2026/reasoning-model-book-club-q-and-a.html",
+      "pubDate": "Sat, 29 Aug 2026 06:55:18 -0500",
+      "isoDate": "2026-08-29T11:55:18.000Z",
+      "content": "Two free live book club Q&A sessions on September 3 about Build a Reasoning Model From Scratch and related reader questions.",
+      "contentSnippet": "Two free live book club Q&A sessions on September 3 about Build a Reasoning Model From Scratch and related reader questions.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GLM-5.3-Flash Architecture Notes",
+      "link": "https://sebastianraschka.com/blog/2026/glm-5-3-flash-architecture-notes.html",
+      "pubDate": "Wed, 26 Aug 2026 05:11:51 -0500",
+      "isoDate": "2026-08-26T10:11:51.000Z",
+      "content": "Architecture note on GLM-5.3-Flash, formerly Ox Alpha, covering its KDA and MLA/DSA hybrid attention, sparse MoE backbone, and four-stream mHC residual path.",
+      "contentSnippet": "Architecture note on GLM-5.3-Flash, formerly Ox Alpha, covering its KDA and MLA/DSA hybrid attention, sparse MoE backbone, and four-stream mHC residual path.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Claude Watermarks AI-Generated Text",
+      "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+      "pubDate": "Sat, 22 Aug 2026 06:11:39 -0500",
+      "isoDate": "2026-08-22T11:11:39.000Z",
+      "content": "A 48-minute video walkthrough of token sampling, watermark detection, and removal",
+      "contentSnippet": "A 48-minute video walkthrough of token sampling, watermark detection, and removal",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building an AI Text Detector From Scratch",
+      "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+      "pubDate": "Sat, 15 Aug 2026 06:54:24 -0500",
+      "isoDate": "2026-08-15T11:54:24.000Z",
+      "content": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR",
+      "contentSnippet": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Claude's Text Watermarking Works",
+      "link": "https://sebastianraschka.com/blog/2026/claude-text-watermarking.html",
+      "pubDate": "Sat, 15 Aug 2026 04:28:41 -0500",
+      "isoDate": "2026-08-15T09:28:41.000Z",
+      "content": "Short illustration of how Claude's text watermarking is supposed to work based on Anthropic's released materials.",
+      "contentSnippet": "Short illustration of how Claude's text watermarking is supposed to work based on Anthropic's released materials.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build a Reasoning Model From Scratch Is Now on Amazon",
+      "link": "https://sebastianraschka.com/blog/2026/build-a-reasoning-model-from-scratch-on-amazon.html",
+      "pubDate": "Wed, 12 Aug 2026 03:25:44 -0500",
+      "isoDate": "2026-08-12T08:25:44.000Z",
+      "content": "Short note on the Amazon availability of Build a Reasoning Model From Scratch and a warning about counterfeit black-and-white copies sold through Amazon India.",
+      "contentSnippet": "Short note on the Amazon availability of Build a Reasoning Model From Scratch and a warning about counterfeit black-and-white copies sold through Amazon India.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Muse Glimmer 30B Architecture Notes",
+      "link": "https://sebastianraschka.com/blog/2026/muse-glimmer-30b-architecture-notes.html",
+      "pubDate": "Tue, 11 Aug 2026 09:15:07 -0500",
+      "isoDate": "2026-08-11T14:15:07.000Z",
+      "content": "Short architecture note on Meta Muse Glimmer 30B, including gated local and global GQA, KV-cache efficiency, and release-time benchmark comparisons.",
+      "contentSnippet": "Short architecture note on Meta Muse Glimmer 30B, including gated local and global GQA, KV-cache efficiency, and release-time benchmark comparisons.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LLMs From Scratch Reaches 100,000 GitHub Stars",
+      "link": "https://sebastianraschka.com/blog/2026/llms-from-scratch-reaches-100000-github-stars.html",
+      "pubDate": "Fri, 07 Aug 2026 04:40:53 -0500",
+      "isoDate": "2026-08-07T09:40:53.000Z",
+      "content": "Short note celebrating the LLMs-from-scratch repository passing 100,000 GitHub stars and summarizing its learning materials.",
+      "contentSnippet": "Short note celebrating the LLMs-from-scratch repository passing 100,000 GitHub stars and summarizing its learning materials.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kimi K3 Architecture Notes",
+      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "pubDate": "Tue, 28 Jul 2026 08:38:20 -0500",
+      "isoDate": "2026-07-28T13:38:20.000Z",
+      "content": "Short architecture note on Kimi K3, including LatentMoE, Kimi Delta Attention, Attention Residuals, NoPE, multimodality, and inference-efficiency choices.",
+      "contentSnippet": "Short architecture note on Kimi K3, including LatentMoE, Kimi Delta Attention, Attention Residuals, NoPE, multimodality, and inference-efficiency choices.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A Few Notable Open-Weight Models This Week",
+      "link": "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html",
+      "pubDate": "Sun, 26 Jul 2026 08:47:44 -0500",
+      "isoDate": "2026-07-26T13:47:44.000Z",
+      "content": "Short note on the architectures of six new open-weight models, including Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B, and BTL-3.",
+      "contentSnippet": "Short note on the architectures of six new open-weight models, including Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B, and BTL-3.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Correction for Listing 6.5 in Build a Reasoning Model From Scratch",
+      "link": "https://sebastianraschka.com/blog/2026/reasoning-model-listing-6-5-correction.html",
+      "pubDate": "Sat, 25 Jul 2026 08:18:12 -0500",
+      "isoDate": "2026-07-25T13:18:12.000Z",
+      "content": "Short correction note for the random seed in Listing 6.5 on page 198 of Build a Reasoning Model From Scratch.",
+      "contentSnippet": "Short correction note for the random seed in Listing 6.5 on page 198 of Build a Reasoning Model From Scratch.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Controlling Reasoning Effort in LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "pubDate": "Sat, 18 Jul 2026 06:16:09 -0500",
+      "isoDate": "2026-07-18T11:16:09.000Z",
+      "content": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+      "contentSnippet": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Inkling: A New Open-Weight 975B MoE with a Few Surprises",
+      "link": "https://sebastianraschka.com/blog/2026/inkling-architecture-benchmark-notes.html",
+      "pubDate": "Thu, 16 Jul 2026 03:50:22 -0500",
+      "isoDate": "2026-07-16T08:50:22.000Z",
+      "content": "Architecture and benchmark notes on Thinking Machines Lab's 975B Inkling MoE, including short convolutions, relative-position bias, training, and effort control.",
+      "contentSnippet": "Architecture and benchmark notes on Thinking Machines Lab's 975B Inkling MoE, including short convolutions, relative-position bias, training, and effort control.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "200,000 Subscribers",
+      "link": "https://sebastianraschka.com/blog/2026/ahead-of-ai-reached-200000-subscribers.html",
+      "pubDate": "Sun, 12 Jul 2026 10:04:37 -0500",
+      "isoDate": "2026-07-12T15:04:37.000Z",
+      "content": "Short note celebrating Ahead of AI reaching 200,000 subscribers.",
+      "contentSnippet": "Short note celebrating Ahead of AI reaching 200,000 subscribers.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GPT 5.6 Has 72 Possible Configurations. What's A Good Default?",
+      "link": "https://sebastianraschka.com/blog/2026/gpt-5-6-configurations.html",
+      "pubDate": "Thu, 09 Jul 2026 17:33:25 -0500",
+      "isoDate": "2026-07-09T22:33:25.000Z",
+      "content": "Short note on how GPT 5.6 model and effort choices map onto training-time and inference-time scaling, producing 72 configurations.",
+      "contentSnippet": "Short note on how GPT 5.6 model and effort choices map onto training-time and inference-time scaling, producing 72 configurations.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build a Reasoning Model From Scratch Is Out",
+      "link": "https://sebastianraschka.com/blog/2026/build-a-reasoning-model-from-scratch-is-out.html",
+      "pubDate": "Tue, 30 Jun 2026 08:16:51 -0500",
+      "isoDate": "2026-06-30T13:16:51.000Z",
+      "content": "Short note announcing the release of Build a Reasoning Model From Scratch and linking the publisher and Amazon pages.",
+      "contentSnippet": "Short note announcing the release of Build a Reasoning Model From Scratch and linking the publisher and Amazon pages.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using Local Coding Agents",
+      "link": "https://sebastianraschka.com/blog/2026/using-local-coding-agents.html",
+      "pubDate": "Mon, 29 Jun 2026 09:01:02 -0500",
+      "isoDate": "2026-06-29T14:01:02.000Z",
+      "content": "Short note linking a new article on setting up local coding agents with open-weight models.",
+      "contentSnippet": "Short note linking a new article on setting up local coding agents with open-weight models.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using Local Coding Agents",
+      "link": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+      "pubDate": "Sat, 27 Jun 2026 06:21:58 -0500",
+      "isoDate": "2026-06-27T11:21:58.000Z",
+      "content": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
+      "contentSnippet": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Local Open-Weight LLMs in Coding Harnesses",
+      "link": "https://sebastianraschka.com/blog/2026/local-open-weight-llms-coding-harnesses.html",
+      "pubDate": "Fri, 26 Jun 2026 09:42:42 -0500",
+      "isoDate": "2026-06-26T14:42:42.000Z",
+      "content": "Short note on trying local open-weight LLMs across Qwen-Code, Codex, and Claude Code harnesses.",
+      "contentSnippet": "Short note on trying local open-weight LLMs across Qwen-Code, Codex, and Claude Code harnesses.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GLM-5.2 and IndexShare for Long-Context Sparse Attention",
+      "link": "https://sebastianraschka.com/blog/2026/glm-5-2-indexshare.html",
+      "pubDate": "Thu, 18 Jun 2026 04:16:05 -0500",
+      "isoDate": "2026-06-18T09:16:05.000Z",
+      "content": "How GLM-5.2 uses IndexShare to reuse sparse-attention token selections across layers and reduce long-context indexer computation.",
+      "contentSnippet": "How GLM-5.2 uses IndexShare to reuse sparse-attention token selections across layers and reduce long-context indexer computation.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "VibeThinker-3B and the Strength of Post-Training",
+      "link": "https://sebastianraschka.com/blog/2026/vibethinker-3b-post-training.html",
+      "pubDate": "Wed, 17 Jun 2026 03:13:15 -0500",
+      "isoDate": "2026-06-17T08:13:15.000Z",
+      "content": "A closer look at VibeThinker-3B, a Qwen2.5-Coder-based model whose reported reasoning gains come from a detailed post-training pipeline.",
+      "contentSnippet": "A closer look at VibeThinker-3B, a Qwen2.5-Coder-based model whose reported reasoning gains come from a detailed post-training pipeline.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "North Mini Code and Agentic Coding Benchmarks",
+      "link": "https://sebastianraschka.com/blog/2026/north-mini-code-agentic-coding.html",
+      "pubDate": "Fri, 12 Jun 2026 13:49:55 -0500",
+      "isoDate": "2026-06-12T18:49:55.000Z",
+      "content": "Architecture and benchmark notes for North Mini Code, Cohere's 30B-A3B MoE trained for repository, terminal, and code-generation tasks.",
+      "contentSnippet": "Architecture and benchmark notes for North Mini Code, Cohere's 30B-A3B MoE trained for repository, terminal, and code-generation tasks.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "pubDate": "Sat, 06 Jun 2026 06:16:22 -0500",
+      "isoDate": "2026-06-06T11:16:22.000Z",
+      "content": "A curated roundup of notable LLM research papers that came out this year",
+      "contentSnippet": "A curated roundup of notable LLM research papers that came out this year",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Nemotron 3 Ultra and Latent MoE Scaling",
+      "link": "https://sebastianraschka.com/blog/2026/nemotron-3-ultra-latent-moe.html",
+      "pubDate": "Thu, 04 Jun 2026 06:56:41 -0500",
+      "isoDate": "2026-06-04T11:56:41.000Z",
+      "content": "Architecture notes on Nemotron 3 Ultra, including its 108-layer hybrid stack, Latent MoE scaling, NVFP4 recipe, MTP, and inference results.",
+      "contentSnippet": "Architecture notes on Nemotron 3 Ultra, including its 108-layer hybrid stack, Latent MoE scaling, NVFP4 recipe, MTP, and inference results.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "MiniMax M2 Technical Report Notes",
+      "link": "https://sebastianraschka.com/blog/2026/minimax-m2-technical-report.html",
+      "pubDate": "Wed, 27 May 2026 05:09:03 -0500",
+      "isoDate": "2026-05-27T10:09:03.000Z",
+      "content": "Technical notes on MiniMax M2, including full attention, fine-grained MoE routing, agent training data, speed rewards, and self-evolution.",
+      "contentSnippet": "Technical notes on MiniMax M2, including full attention, fine-grained MoE routing, agent training data, speed rewards, and self-evolution.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DeepSeek Sparse Attention From Scratch",
+      "link": "https://sebastianraschka.com/blog/2026/deepseek-sparse-attention-from-scratch.html",
+      "pubDate": "Sat, 23 May 2026 14:00:34 -0500",
+      "isoDate": "2026-05-23T19:00:34.000Z",
+      "content": "Short note on a DeepSeek Sparse Attention from-scratch implementation added to the LLMs-from-scratch repository.",
+      "contentSnippet": "Short note on a DeepSeek Sparse Attention from-scratch implementation added to the LLMs-from-scratch repository.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "pubDate": "Sat, 16 May 2026 06:33:51 -0500",
+      "isoDate": "2026-05-16T11:33:51.000Z",
+      "content": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
+      "contentSnippet": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Implementing LLM Architectures From Scratch",
+      "link": "https://sebastianraschka.com/blog/2026/llm-architectures-from-scratch-talk.html",
+      "pubDate": "Thu, 14 May 2026 08:45:46 -0500",
+      "isoDate": "2026-05-14T13:45:46.000Z",
+      "content": "Short note linking a talk on implementing LLM architectures from scratch and comparing new open-weight model implementations against references.",
+      "contentSnippet": "Short note linking a talk on implementing LLM architectures from scratch and comparing new open-weight model implementations against references.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T22:58:23.913Z"
+}

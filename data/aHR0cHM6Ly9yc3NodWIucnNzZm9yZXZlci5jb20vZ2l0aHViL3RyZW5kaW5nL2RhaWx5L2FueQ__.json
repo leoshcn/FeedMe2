@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/93ff897fabc6026b5ccfb5906ba4dec0dd6669b24c9bef3877495d9bf28800d5/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 30407<br>Forks: 6110",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 30407\nForks: 6110",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325\" referrerpolicy=\"no-referrer\"><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.<br><br>Language: TypeScript<br>Stars: 1899<br>Forks: 561",
+      "contentSnippet": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\nLanguage: TypeScript\nStars: 1899\nForks: 561",
+      "creator": "melgarafael",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.<br><br>Language: JavaScript<br>Stars: 65564<br>Forks: 10758",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.\nLanguage: JavaScript\nStars: 65564\nForks: 10758",
+      "creator": "asgeirtj",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "nab138/iloader",
+      "link": "https://github.com/nab138/iloader",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fda2ad8264dc25e27e30d5304955c0bf9352e7089b14ce26c190cbc6ce53e6e8/nab138/iloader\" referrerpolicy=\"no-referrer\"><br>User friendly sideloader<br><br>Language: TypeScript<br>Stars: 3140<br>Forks: 215",
+      "contentSnippet": "User friendly sideloader\nLanguage: TypeScript\nStars: 3140\nForks: 215",
+      "creator": "nab138",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Flowseal/zapret-discord-youtube",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e9ee9f6f5ddc28792925fa29c262fa39ddf48f303307e80ff7dfb783f49e0741/Flowseal/zapret-discord-youtube\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Batchfile<br>Stars: 33221<br>Forks: 2540",
+      "contentSnippet": "Language: Batchfile\nStars: 33221\nForks: 2540",
+      "creator": "Flowseal",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jihe520/MathModelAgent",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cd57a7bc9d993531ad68937e87d1bf5830fada0b3880daad16df725a43088b56/jihe520/MathModelAgent\" referrerpolicy=\"no-referrer\"><br>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.<br><br>Language: Python<br>Stars: 5191<br>Forks: 404",
+      "contentSnippet": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.\nLanguage: Python\nStars: 5191\nForks: 404",
+      "creator": "jihe520",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sonarr/Sonarr",
+      "link": "https://github.com/Sonarr/Sonarr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5541b4a8e230b72d09301fe45d6c22eced78db72093a09888e6e1b1f2a92db3c/Sonarr/Sonarr\" referrerpolicy=\"no-referrer\"><br>Smart PVR for newsgroup and bittorrent users.<br><br>Language: C#<br>Stars: 15967<br>Forks: 1954",
+      "contentSnippet": "Smart PVR for newsgroup and bittorrent users.\nLanguage: C#\nStars: 15967\nForks: 1954",
+      "creator": "Sonarr",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alsk1992/CloddsBot",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/09717ac04d25a3637d27d432229d2f73ddcf460ea4d98906f9228318d9fc0d42/alsk1992/CloddsBot\" referrerpolicy=\"no-referrer\"><br>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.<br><br>Language: TypeScript<br>Stars: 2571<br>Forks: 317",
+      "contentSnippet": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.\nLanguage: TypeScript\nStars: 2571\nForks: 317",
+      "creator": "alsk1992",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "yuliskov/SmartTube",
+      "link": "https://github.com/yuliskov/SmartTube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/39d027730b79d83192fc00ec3b67f9e95fd3f1edc8653c3e69d9c32f927b9042/yuliskov/SmartTube\" referrerpolicy=\"no-referrer\"><br>Browse media content with your own rules on Android TV<br><br>Language: Java<br>Stars: 33256<br>Forks: 2017",
+      "contentSnippet": "Browse media content with your own rules on Android TV\nLanguage: Java\nStars: 33256\nForks: 2017",
+      "creator": "yuliskov",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bc2bb6fd31e755941d7d1608f0a77d876022762e865254b8276af1d5eeece2e4/Shubhamsaboo/awesome-llm-apps\" referrerpolicy=\"no-referrer\"><br>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.<br><br>Language: Python<br>Stars: 137722<br>Forks: 20240",
+      "contentSnippet": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.\nLanguage: Python\nStars: 137722\nForks: 20240",
+      "creator": "Shubhamsaboo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "p1neappleXpress/OpenFlux",
+      "link": "https://github.com/p1neappleXpress/OpenFlux",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6a48706181c665db7025be55d79b3ceb5cd1f044dc172861521aa5b121c300d1/p1neappleXpress/OpenFlux\" referrerpolicy=\"no-referrer\"><br>Network stack research tool. TCP tunnel with pluggable transports.<br><br>Language: Go<br>Stars: 1431<br>Forks: 105",
+      "contentSnippet": "Network stack research tool. TCP tunnel with pluggable transports.\nLanguage: Go\nStars: 1431\nForks: 105",
+      "creator": "p1neappleXpress",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "armory3d/armorpaint",
+      "link": "https://github.com/armory3d/armorpaint",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e81c7ac9b6e8c5448cafcc12cdc3cb8030cf87897821c26a27396309ef626374/armory3d/armorpaint\" referrerpolicy=\"no-referrer\"><br>Graphics Creation Tools<br><br>Language: C<br>Stars: 4941<br>Forks: 548",
+      "contentSnippet": "Graphics Creation Tools\nLanguage: C\nStars: 4941\nForks: 548",
+      "creator": "armory3d",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6906d8b0343deeff3f7a4b2b30cf5a6e4dbabb410cf20f4e5b8248ae96745d84/SnailSploit/Claude-Red\" referrerpolicy=\"no-referrer\"><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br><br>Language: Python<br>Stars: 3717<br>Forks: 563",
+      "contentSnippet": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\nLanguage: Python\nStars: 3717\nForks: 563",
+      "creator": "SnailSploit",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "multimodal-art-projection/YuE",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/77e88866bba33c00822ed741f71813382153b00f799bc9c49c861bdbda33655b/multimodal-art-projection/YuE\" referrerpolicy=\"no-referrer\"><br>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.<br><br>Language: Python<br>Stars: 7397<br>Forks: 833",
+      "contentSnippet": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.\nLanguage: Python\nStars: 7397\nForks: 833",
+      "creator": "multimodal-art-projection",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 7317<br>Forks: 258",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 7317\nForks: 258",
+      "creator": "max-sixty",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/913030762/c8502908-380f-4897-aaba-87cfa16d67b4\" referrerpolicy=\"no-referrer\"><br>Fully autonomous AI Agents system capable of performing complex penetration testing tasks<br><br>Language: Go<br>Stars: 23562<br>Forks: 3072",
+      "contentSnippet": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks\nLanguage: Go\nStars: 23562\nForks: 3072",
+      "creator": "vxcontrol",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T06:13:06.009Z"
+}

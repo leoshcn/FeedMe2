@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Deel Dealt New Setbacks in Rippling Case Over Alleged Spying",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
+      "pubDate": "Sat, 26 Sep 2026 02:07:32 GMT",
+      "isoDate": "2026-09-26T02:07:32.000Z",
+      "content": "Deel Inc. was hit with new setbacks in Rippling Inc.’s corporate espionage litigation against the HR startup.",
+      "contentSnippet": "Deel Inc. was hit with new setbacks in Rippling Inc.’s corporate espionage litigation against the HR startup.",
+      "creator": "Peter Blumberg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alabama Says TikTok to Pay Up to $300 Million for Kid Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/alabama-says-tiktok-to-pay-up-to-300-million-over-child-safety",
+      "pubDate": "Fri, 25 Sep 2026 22:47:43 GMT",
+      "isoDate": "2026-09-25T22:47:43.000Z",
+      "content": "Alabama’s attorney general said TikTok has agreed to pay up to $300 million and adopt new user protection measures to settle the state’s child-safety lawsuit that was set for a jury trial to begin Monday.",
+      "contentSnippet": "Alabama’s attorney general said TikTok has agreed to pay up to $300 million and adopt new user protection measures to settle the state’s child-safety lawsuit that was set for a jury trial to begin Monday.",
+      "creator": "Georgia Fearn",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Exxon Signs Shale Deal With Azerbaijan for Middle Kura Basin",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/exxon-signs-shale-deal-with-azerbaijan-for-middle-kura-basin",
+      "pubDate": "Sat, 26 Sep 2026 15:21:55 GMT",
+      "isoDate": "2026-09-26T15:21:55.000Z",
+      "content": "ExxonMobil Holdings Corp. agreed to pump oil and natural gas from Azerbaijan’s shale fields as the Texas energy giant takes its fracking expertise overseas.",
+      "contentSnippet": "ExxonMobil Holdings Corp. agreed to pump oil and natural gas from Azerbaijan’s shale fields as the Texas energy giant takes its fracking expertise overseas.",
+      "creator": "Kevin Crowley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI Gives Tech Firms New National Security Power",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video",
+      "pubDate": "Sat, 26 Sep 2026 13:19:22 GMT",
+      "isoDate": "2026-09-26T13:19:22.000Z",
+      "content": "Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingly embrace national security work. Speaking with host Christina Ruffini, Weinberger says the growing power of AI and defense technology companies is testing the government’s ability to provide effective regulation and oversight. (Source: Bloomberg)",
+      "contentSnippet": "Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingly embrace national security work. Speaking with host Christina Ruffini, Weinberger says the growing power of AI and defense technology companies is testing the government’s ability to provide effective regulation and oversight. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What Is an AI Kill Switch? Why Shutting Down AI Isn’t So Simple",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-26T12:00:00.000Z",
+      "content": "If artificial intelligence becomes too powerful for its creators to control, is it possible to just flip a switch and turn it off?",
+      "contentSnippet": "If artificial intelligence becomes too powerful for its creators to control, is it possible to just flip a switch and turn it off?",
+      "creator": "Micah Barkley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI Sandbox Failure Allows AI Agent to Gain Internet Access",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
+      "pubDate": "Sat, 26 Sep 2026 04:29:43 GMT",
+      "isoDate": "2026-09-26T04:29:43.000Z",
+      "content": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot.",
+      "contentSnippet": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot.",
+      "creator": "Lynn Doan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
+      "pubDate": "Fri, 25 Sep 2026 20:34:28 GMT",
+      "isoDate": "2026-09-25T20:34:28.000Z",
+      "content": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission.",
+      "contentSnippet": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission.",
+      "creator": "Rachel Metz, Jeff Stone and Jake Bleiberg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "CORRECT: India’s Quick-Commerce Architect Eyes Long Bets",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-17/india-s-quick-commerce-architect-takes-on-slow-wagers-video",
+      "pubDate": "Thu, 17 Sep 2026 23:06:26 GMT",
+      "isoDate": "2026-09-17T23:06:26.000Z",
+      "content": "The man who transformed how urban India eats, dines, and shops, Deepinder Goyal built his food delivery startup Zomato into one of the country’s biggest consumer technology companies, Eternal. At the height of its success, Goyal stepped away from the day-to-day running of the company he built, to turn his attention to a very different set of challenges with a much longer horizon. \n\nIn an exclusive interview on his sprawling residence in Delhi, Bloomberg’s Haslinda Amin speaks with Goyal about the never-ending journeys of founders, his current pursuits, and his quest for a different kind of eternity. \n\nCorrect: Video updated to correct currency in stock price charts at 04:12 and 07:50 of the program. (Source: Bloomberg)",
+      "contentSnippet": "The man who transformed how urban India eats, dines, and shops, Deepinder Goyal built his food delivery startup Zomato into one of the country’s biggest consumer technology companies, Eternal. At the height of its success, Goyal stepped away from the day-to-day running of the company he built, to turn his attention to a very different set of challenges with a much longer horizon. \n\nIn an exclusive interview on his sprawling residence in Delhi, Bloomberg’s Haslinda Amin speaks with Goyal about the never-ending journeys of founders, his current pursuits, and his quest for a different kind of eternity. \n\nCorrect: Video updated to correct currency in stock price charts at 04:12 and 07:50 of the program. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/the-close-9-25-2026-video",
+      "pubDate": "Fri, 25 Sep 2026 21:52:44 GMT",
+      "isoDate": "2026-09-25T21:52:44.000Z",
+      "content": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Morgan Stanley Private Wealth Management Executive Director Katerina Simonetti, BMO Chief FX Strategist Mark McCormick, Jefferies Managing Director & Equity Research Analyst David Katz, Yale University Jackson Institute for Global Affairs Senior Fellow Stephen Roach, Citi Wealth Head of Portfolio Construction & Analytics Olaolu Aganga, Council on Foreign Relations Senior Fellow Rebecca Patterson, Georgetown Institute of International Economic Law Visiting Scholar Peter Harrell, & Keeneland President & CEO Shannon Arvin. (Source: Bloomberg)",
+      "contentSnippet": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Morgan Stanley Private Wealth Management Executive Director Katerina Simonetti, BMO Chief FX Strategist Mark McCormick, Jefferies Managing Director & Equity Research Analyst David Katz, Yale University Jackson Institute for Global Affairs Senior Fellow Stephen Roach, Citi Wealth Head of Portfolio Construction & Analytics Olaolu Aganga, Council on Foreign Relations Senior Fellow Rebecca Patterson, Georgetown Institute of International Economic Law Visiting Scholar Peter Harrell, & Keeneland President & CEO Shannon Arvin. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Harrell: US-China Lack of Deliverables Was as Expected",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/harrell-us-china-lack-of-deliverables-was-as-expected-video",
+      "pubDate": "Fri, 25 Sep 2026 21:47:45 GMT",
+      "isoDate": "2026-09-25T21:47:45.000Z",
+      "content": "Peter Harrell says that the key dynamic is not which country has the upper hand, but that both China and the United States have meaningful leverage: the U.S. through tariffs, export controls, semiconductors, the dollar and AI technology, and China through rare earths, specialty chemicals, and manufacturing scale. Harrell says this mutual leverage helps explain the recent emphasis on “strategic stability” and why both countries may want to ease tensions for now while they work to reduce their dependence on each other. He speaks to Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Peter Harrell says that the key dynamic is not which country has the upper hand, but that both China and the United States have meaningful leverage: the U.S. through tariffs, export controls, semiconductors, the dollar and AI technology, and China through rare earths, specialty chemicals, and manufacturing scale. Harrell says this mutual leverage helps explain the recent emphasis on “strategic stability” and why both countries may want to ease tensions for now while they work to reduce their dependence on each other. He speaks to Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Patterson: AI Is Crowding Out Demand for US Treasuries",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/patterson-ai-is-crowding-out-demand-for-us-treasuries-video",
+      "pubDate": "Fri, 25 Sep 2026 21:24:31 GMT",
+      "isoDate": "2026-09-25T21:24:31.000Z",
+      "content": "Rebecca Patterson, Former Chief Investment Strategist at Bridgewater and Senior Fellow at the Council on Foreign Relations, discusses her broad read on market action. The discussion is framed around whether recent moves in bonds, equities, commodities, and energy are telling the same economic story or whether one market is more predictive than the others. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Rebecca Patterson, Former Chief Investment Strategist at Bridgewater and Senior Fellow at the Council on Foreign Relations, discusses her broad read on market action. The discussion is framed around whether recent moves in bonds, equities, commodities, and energy are telling the same economic story or whether one market is more predictive than the others. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Katerina Simonetti Discusses Risk-Off Positioning as Volatility Spikes",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/katerina-simonetti-discusses-risk-off-positioning-video",
+      "pubDate": "Fri, 25 Sep 2026 21:15:54 GMT",
+      "isoDate": "2026-09-25T21:15:54.000Z",
+      "content": "Katerina Simonetti, Executive Director at Morgan Stanley Private Wealth Investments, discusses how to think about markets amid this year’s crosscurrents and whether a risk-off approach is still appropriate. Simonetti highlights a sharp jump in Treasury volatility, the biggest in a year, alongside a note that stocks are rising as oil retreats on hopes of a U.S.-Iran deal. She speaks with Romaine Bostick & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Katerina Simonetti, Executive Director at Morgan Stanley Private Wealth Investments, discusses how to think about markets amid this year’s crosscurrents and whether a risk-off approach is still appropriate. Simonetti highlights a sharp jump in Treasury volatility, the biggest in a year, alongside a note that stocks are rising as oil retreats on hopes of a U.S.-Iran deal. She speaks with Romaine Bostick & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "China's Economy Unbalanced, AI Deal Hard to Envision, Stephen Roach Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/china-s-economy-unbalanced-ai-deal-hard-to-see-roach-video",
+      "pubDate": "Fri, 25 Sep 2026 21:00:09 GMT",
+      "isoDate": "2026-09-25T21:00:09.000Z",
+      "content": "Stephen Roach, Yale University Jackson Institute for Global Affairs senior fellow and former chairman of Morgan Stanley Asia, says President Donald Trump's meeting with Chinese President Xi Jinping left many unresolved questions about tariffs, technology restrictions, rare earth leverage and Taiwan, even as both sides appeared to project some stability. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Stephen Roach, Yale University Jackson Institute for Global Affairs senior fellow and former chairman of Morgan Stanley Asia, says President Donald Trump's meeting with Chinese President Xi Jinping left many unresolved questions about tariffs, technology restrictions, rare earth leverage and Taiwan, even as both sides appeared to project some stability. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Microsoft Rises as It Unifies Copilot AI | Closing Bell",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/microsoft-rises-as-it-unifies-copilot-ai-closing-bell-video",
+      "pubDate": "Fri, 25 Sep 2026 20:26:30 GMT",
+      "isoDate": "2026-09-25T20:26:30.000Z",
+      "content": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "contentSnippet": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Accel Sees AI Opportunity Shifting to Applications",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
+      "pubDate": "Fri, 25 Sep 2026 18:05:19 GMT",
+      "isoDate": "2026-09-25T18:05:19.000Z",
+      "content": "The AI spending boom is showing no signs of slowing down, but as billions pour into models, chips and data centers, investors are asking where the biggest returns will actually be. Accel Partner Matt Weigand, who focuses on late-stage technology investments including AI infrastructure, says the AI boom is the biggest technology cycle Silicon Valley has seen. He also discusses why open-source AI can grow alongside frontier labs such as Anthropic and OpenAI and why trust and safety are becoming key considerations when Accel decides which AI founders to back. He joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "The AI spending boom is showing no signs of slowing down, but as billions pour into models, chips and data centers, investors are asking where the biggest returns will actually be. Accel Partner Matt Weigand, who focuses on late-stage technology investments including AI infrastructure, says the AI boom is the biggest technology cycle Silicon Valley has seen. He also discusses why open-source AI can grow alongside frontier labs such as Anthropic and OpenAI and why trust and safety are becoming key considerations when Accel decides which AI founders to back. He joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
+      "pubDate": "Fri, 25 Sep 2026 18:04:06 GMT",
+      "isoDate": "2026-09-25T18:04:06.000Z",
+      "content": "Bloomberg’s Tim Stenovec breaks down Anthropic's $11.6 billion contract with Akamai for AI computing power, the largest deal in Akamai's history. Plus, President Donald Trump calls his meeting with his Chinese counterpart Xi Jinping \"very productive\" with little to show for it. And, Microsoft steps back from the race to build a personal chatbot by instead merging the consumer and workplace versions of its Copilot AI assistant into one. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg’s Tim Stenovec breaks down Anthropic's $11.6 billion contract with Akamai for AI computing power, the largest deal in Akamai's history. Plus, President Donald Trump calls his meeting with his Chinese counterpart Xi Jinping \"very productive\" with little to show for it. And, Microsoft steps back from the race to build a personal chatbot by instead merging the consumer and workplace versions of its Copilot AI assistant into one. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Trump-Xi Optics Overshadow Substance, Gewirtz Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-optics-overshadow-substance-gewirtz-says-video",
+      "pubDate": "Fri, 25 Sep 2026 18:02:09 GMT",
+      "isoDate": "2026-09-25T18:02:09.000Z",
+      "content": "Julian Gewirtz, Harvard Belfer Center fellow and former senior director for China and Taiwan Affairs at the White House National Security Council during the Biden administration, says President Donald Trump’s meeting with Xi Jinping delivered the positive optics Trump was seeking, but little visible progress on the major challenges dividing the US and China. He discusses unresolved tensions around trade, Iran, Russia, and Taiwan, as well as the intensifying AI race. He joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Julian Gewirtz, Harvard Belfer Center fellow and former senior director for China and Taiwan Affairs at the White House National Security Council during the Biden administration, says President Donald Trump’s meeting with Xi Jinping delivered the positive optics Trump was seeking, but little visible progress on the major challenges dividing the US and China. He discusses unresolved tensions around trade, Iran, Russia, and Taiwan, as well as the intensifying AI race. He joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ex-Tinder Exec Debuts Rivet, a Dating App That Lets Strangers Play Matchmaker",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-24/ex-tinder-exec-debuts-rivet-a-dating-app-that-lets-strangers-play-matchmaker",
+      "pubDate": "Thu, 24 Sep 2026 12:30:00 GMT",
+      "isoDate": "2026-09-24T12:30:00.000Z",
+      "content": "A former Tinder executive launched a new dating app that invites the community to vote on strangers’ compatibility, putting a twist on courtship at a time when singles have grown exhausted with swiping.Rivet, which opens to US users on Thursday, relies on a pool of volunteer “matchers” who rate whether two given people might be compatible. The idea is to prioritize quality connections over quantity, giving daters just a few pre-vetted options at a time, founder and Chief Executive Officer Taru K",
+      "contentSnippet": "A former Tinder executive launched a new dating app that invites the community to vote on strangers’ compatibility, putting a twist on courtship at a time when singles have grown exhausted with swiping.Rivet, which opens to US users on Thursday, relies on a pool of volunteer “matchers” who rate whether two given people might be compatible. The idea is to prioritize quality connections over quantity, giving daters just a few pre-vetted options at a time, founder and Chief Executive Officer Taru K",
+      "creator": "Samantha Kelly",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Love-Hate Relationship With AI Unfolding on Social Media",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-25/the-love-hate-relationship-with-ai-unfolding-on-social-media",
+      "pubDate": "Fri, 25 Sep 2026 17:23:13 GMT",
+      "isoDate": "2026-09-25T17:23:13.000Z",
+      "content": "It has been a head-spinning time of change for social media content creators as AI slop proliferates all over the Internet.\n\nOn this episode of the Odd Lots podcast recorded live at the Vermont Hollywood theater, Rachel Karten, author of the Link in Bio newsletter, and Taylor Lorenz, founder of User Mag, tell Joe Weisenthal and Tracy Alloway why people love some genres of slop and what type of content audiences still prefer to be created by humans. (Source: Bloomberg)",
+      "contentSnippet": "It has been a head-spinning time of change for social media content creators as AI slop proliferates all over the Internet.\n\nOn this episode of the Odd Lots podcast recorded live at the Vermont Hollywood theater, Rachel Karten, author of the Link in Bio newsletter, and Taylor Lorenz, founder of User Mag, tell Joe Weisenthal and Tracy Alloway why people love some genres of slop and what type of content audiences still prefer to be created by humans. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US Justice Department Closes Investigation of CrowdStrike Deals",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/us-justice-department-closes-investigation-of-crowdstrike-deals",
+      "pubDate": "Fri, 25 Sep 2026 17:15:12 GMT",
+      "isoDate": "2026-09-25T17:15:12.000Z",
+      "content": "US prosecutors have closed an investigation into deals CrowdStrike Holdings Inc. made with a distributor without taking further action, according to people familiar with the matter.",
+      "contentSnippet": "US prosecutors have closed an investigation into deals CrowdStrike Holdings Inc. made with a distributor without taking further action, according to people familiar with the matter.",
+      "creator": "Jake Bleiberg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T17:11:50.264Z"
+}

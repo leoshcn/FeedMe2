@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Solar surpasses nuclear power globally for first time",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "pubDate": "Sat, 17 Oct 2026 14:01:01 +0000",
+      "isoDate": "2026-10-17T14:01:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131256\">https://news.ycombinator.com/item?id=50131256</a></p>\n<p>Points: 348</p>\n<p># Comments: 195</p>\n",
+      "contentSnippet": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\nComments URL: https://news.ycombinator.com/item?id=50131256\nPoints: 348\n# Comments: 195",
+      "creator": "xbmcuser",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "pubDate": "Sat, 17 Oct 2026 10:59:31 +0000",
+      "isoDate": "2026-10-17T10:59:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/\">https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129947\">https://news.ycombinator.com/item?id=50129947</a></p>\n<p>Points: 218</p>\n<p># Comments: 31</p>\n",
+      "contentSnippet": "Article URL: https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/\nComments URL: https://news.ycombinator.com/item?id=50129947\nPoints: 218\n# Comments: 31",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "pubDate": "Sat, 17 Oct 2026 08:37:46 +0000",
+      "isoDate": "2026-10-17T08:37:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129121\">https://news.ycombinator.com/item?id=50129121</a></p>\n<p>Points: 511</p>\n<p># Comments: 5</p>\n",
+      "contentSnippet": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 511\n# Comments: 5",
+      "creator": "theanonymousone",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
+      "isoDate": "2026-10-17T08:21:25.000Z",
+      "content": "\n<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 518</p>\n<p># Comments: 484</p>\n",
+      "contentSnippet": "https://api-docs.deepseek.com/news/news261017/\nhttps://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 518\n# Comments: 484",
+      "creator": "theykk",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "pubDate": "Sat, 17 Oct 2026 04:36:53 +0000",
+      "isoDate": "2026-10-17T04:36:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 211</p>\n<p># Comments: 67</p>\n",
+      "contentSnippet": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 211\n# Comments: 67",
+      "creator": "albinstman",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Butlerian Jihad",
+      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
+      "isoDate": "2026-10-17T02:21:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 349</p>\n<p># Comments: 227</p>\n",
+      "contentSnippet": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 349\n# Comments: 227",
+      "creator": "wetwater",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
+      "isoDate": "2026-10-16T20:33:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/home-assistant/home-assistant.io/issues/49314\">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124251\">https://news.ycombinator.com/item?id=50124251</a></p>\n<p>Points: 236</p>\n<p># Comments: 218</p>\n",
+      "contentSnippet": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314\nComments URL: https://news.ycombinator.com/item?id=50124251\nPoints: 236\n# Comments: 218",
+      "creator": "trvrprkr",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
+      "isoDate": "2026-10-16T19:04:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 445</p>\n<p># Comments: 438</p>\n",
+      "contentSnippet": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 445\n# Comments: 438",
+      "creator": "pretext",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
+      "isoDate": "2026-10-16T19:01:17.000Z",
+      "content": "\n<p><a href=\"https://twitter.com/heyyalexwang/status/2111158818730397932\" rel=\"nofollow\">https://twitter.com/heyyalexwang/status/2111158818730397932</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 438</p>\n<p># Comments: 103</p>\n",
+      "contentSnippet": "https://twitter.com/heyyalexwang/status/2111158818730397932\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 438\n# Comments: 103",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "isoDate": "2026-10-16T18:55:59.000Z",
+      "content": "\n<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 1000</p>\n<p># Comments: 371</p>\n",
+      "contentSnippet": "https://words.filippo.io/seeds-solved/\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 1000\n# Comments: 371",
+      "creator": "ahlCVA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "link": "https://github.com/cobanov/PS5LM",
+      "pubDate": "Fri, 16 Oct 2026 18:32:35 +0000",
+      "isoDate": "2026-10-16T18:32:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/cobanov/PS5LM\">https://github.com/cobanov/PS5LM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122431\">https://news.ycombinator.com/item?id=50122431</a></p>\n<p>Points: 358</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://github.com/cobanov/PS5LM\nComments URL: https://news.ycombinator.com/item?id=50122431\nPoints: 358\n# Comments: 83",
+      "creator": "Anon84",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "pubDate": "Fri, 16 Oct 2026 18:11:42 +0000",
+      "isoDate": "2026-10-16T18:11:42.000Z",
+      "content": "\n<p><a href=\"https://finance.yahoo.com/technology/ai/articles/anthropic-secured-highest-junk-credit-040018773.html\" rel=\"nofollow\">https://finance.yahoo.com/technology/ai/articles/anthropic-s...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122112\">https://news.ycombinator.com/item?id=50122112</a></p>\n<p>Points: 278</p>\n<p># Comments: 85</p>\n",
+      "contentSnippet": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...\nComments URL: https://news.ycombinator.com/item?id=50122112\nPoints: 278\n# Comments: 85",
+      "creator": "JumpCrisscross",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "pubDate": "Fri, 16 Oct 2026 18:06:17 +0000",
+      "isoDate": "2026-10-16T18:06:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\">https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122034\">https://news.ycombinator.com/item?id=50122034</a></p>\n<p>Points: 264</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\nComments URL: https://news.ycombinator.com/item?id=50122034\nPoints: 264\n# Comments: 237",
+      "creator": "7402",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "pubDate": "Fri, 16 Oct 2026 17:08:38 +0000",
+      "isoDate": "2026-10-16T17:08:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 581</p>\n<p># Comments: 525</p>\n",
+      "contentSnippet": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/\nComments URL: https://news.ycombinator.com/item?id=50121179\nPoints: 581\n# Comments: 525",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "pubDate": "Fri, 16 Oct 2026 16:12:02 +0000",
+      "isoDate": "2026-10-16T16:12:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jakearchibald.com/2026/jpeg-xl-vs-avif/\">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120224\">https://news.ycombinator.com/item?id=50120224</a></p>\n<p>Points: 310</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/\nComments URL: https://news.ycombinator.com/item?id=50120224\nPoints: 310\n# Comments: 202",
+      "creator": "farlight",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+      "pubDate": "Fri, 16 Oct 2026 16:03:02 +0000",
+      "isoDate": "2026-10-16T16:03:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games\">https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120101\">https://news.ycombinator.com/item?id=50120101</a></p>\n<p>Points: 216</p>\n<p># Comments: 123</p>\n",
+      "contentSnippet": "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games\nComments URL: https://news.ycombinator.com/item?id=50120101\nPoints: 216\n# Comments: 123",
+      "creator": "DeepLogin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "pubDate": "Fri, 16 Oct 2026 15:55:40 +0000",
+      "isoDate": "2026-10-16T15:55:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471\">https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119991\">https://news.ycombinator.com/item?id=50119991</a></p>\n<p>Points: 205</p>\n<p># Comments: 84</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471\nComments URL: https://news.ycombinator.com/item?id=50119991\nPoints: 205\n# Comments: 84",
+      "creator": "magoghm",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "pubDate": "Fri, 16 Oct 2026 14:44:17 +0000",
+      "isoDate": "2026-10-16T14:44:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://waymo.com/blog/2026/10/waymo-in-toronto/\">https://waymo.com/blog/2026/10/waymo-in-toronto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118981\">https://news.ycombinator.com/item?id=50118981</a></p>\n<p>Points: 324</p>\n<p># Comments: 433</p>\n",
+      "contentSnippet": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/\nComments URL: https://news.ycombinator.com/item?id=50118981\nPoints: 324\n# Comments: 433",
+      "creator": "ChrisArchitect",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "link": "https://starskirmish.com/bench/v0-2/",
+      "pubDate": "Fri, 16 Oct 2026 14:18:44 +0000",
+      "isoDate": "2026-10-16T14:18:44.000Z",
+      "content": "\n<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118688\">https://news.ycombinator.com/item?id=50118688</a></p>\n<p>Points: 240</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse\nComments URL: https://news.ycombinator.com/item?id=50118688\nPoints: 240\n# Comments: 105",
+      "creator": "__cayenne__",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "pubDate": "Fri, 16 Oct 2026 13:43:48 +0000",
+      "isoDate": "2026-10-16T13:43:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://machinelearning.apple.com/research/mlx-distributed-inference\">https://machinelearning.apple.com/research/mlx-distributed-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118320\">https://news.ycombinator.com/item?id=50118320</a></p>\n<p>Points: 356</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference\nComments URL: https://news.ycombinator.com/item?id=50118320\nPoints: 356\n# Comments: 191",
+      "creator": "antipaul",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I love software rendering",
+      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "pubDate": "Fri, 16 Oct 2026 12:52:08 +0000",
+      "isoDate": "2026-10-16T12:52:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 363</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\nComments URL: https://news.ycombinator.com/item?id=50117746\nPoints: 363\n# Comments: 225",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Folders Programming Language",
+      "link": "https://danieltemkin.com/esolangs/folders",
+      "pubDate": "Fri, 16 Oct 2026 05:11:28 +0000",
+      "isoDate": "2026-10-16T05:11:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://danieltemkin.com/esolangs/folders\">https://danieltemkin.com/esolangs/folders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50114342\">https://news.ycombinator.com/item?id=50114342</a></p>\n<p>Points: 215</p>\n<p># Comments: 38</p>\n",
+      "contentSnippet": "Article URL: https://danieltemkin.com/esolangs/folders\nComments URL: https://news.ycombinator.com/item?id=50114342\nPoints: 215\n# Comments: 38",
+      "creator": "gurst",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "pubDate": "Fri, 16 Oct 2026 01:43:17 +0000",
+      "isoDate": "2026-10-16T01:43:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 259</p>\n<p># Comments: 76</p>\n",
+      "contentSnippet": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 259\n# Comments: 76",
+      "creator": "chanana",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tesla Roadster",
+      "link": "https://www.tesla.com/roadster",
+      "pubDate": "Fri, 16 Oct 2026 01:32:45 +0000",
+      "isoDate": "2026-10-16T01:32:45.000Z",
+      "content": "\n<p><a href=\"https://www.youtube.com/watch?v=7p5LxFdc-Qg\" rel=\"nofollow\">https://www.youtube.com/watch?v=7p5LxFdc-Qg</a><p><a href=\"https://twitter.com/Tesla/status/2110788059008819215\" rel=\"nofollow\">https://twitter.com/Tesla/status/2110788059008819215</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112657\">https://news.ycombinator.com/item?id=50112657</a></p>\n<p>Points: 1589</p>\n<p># Comments: 2891</p>\n",
+      "contentSnippet": "https://www.youtube.com/watch?v=7p5LxFdc-Qg\nhttps://twitter.com/Tesla/status/2110788059008819215\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 1589\n# Comments: 2891",
+      "creator": "shekhar101",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "pubDate": "Fri, 16 Oct 2026 00:52:35 +0000",
+      "isoDate": "2026-10-16T00:52:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ipinfo.io/blog/rpki-protects-70-internet-routes\">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112330\">https://news.ycombinator.com/item?id=50112330</a></p>\n<p>Points: 226</p>\n<p># Comments: 111</p>\n",
+      "contentSnippet": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes\nComments URL: https://news.ycombinator.com/item?id=50112330\nPoints: 226\n# Comments: 111",
+      "creator": "emot",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "pubDate": "Thu, 15 Oct 2026 23:37:42 +0000",
+      "isoDate": "2026-10-15T23:37:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 460</p>\n<p># Comments: 169</p>\n",
+      "contentSnippet": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\nComments URL: https://news.ycombinator.com/item?id=50111852\nPoints: 460\n# Comments: 169",
+      "creator": "0in",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What I self-host",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
+      "isoDate": "2026-10-15T20:23:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 651</p>\n<p># Comments: 424</p>\n",
+      "contentSnippet": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 651\n# Comments: 424",
+      "creator": "BrunoBernardino",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
+      "isoDate": "2026-10-15T19:55:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 399</p>\n<p># Comments: 282</p>\n",
+      "contentSnippet": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\nComments URL: https://news.ycombinator.com/item?id=50109375\nPoints: 399\n# Comments: 282",
+      "creator": "johnbehnke",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
+      "isoDate": "2026-10-15T19:21:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 420</p>\n<p># Comments: 208</p>\n",
+      "contentSnippet": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\nComments URL: https://news.ycombinator.com/item?id=50108872\nPoints: 420\n# Comments: 208",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Why We're Banning AI",
+      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "pubDate": "Thu, 15 Oct 2026 18:32:29 +0000",
+      "isoDate": "2026-10-15T18:32:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.currentaffairs.org/news/why-were-banning-ai\">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108131\">https://news.ycombinator.com/item?id=50108131</a></p>\n<p>Points: 257</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai\nComments URL: https://news.ycombinator.com/item?id=50108131\nPoints: 257\n# Comments: 202",
+      "creator": "vinyl7",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T19:24:42.245Z"
+}

@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "See what 5 builders are making with Gemini 4 Argon",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+      "pubDate": "Fri, 23 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp\">See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build.",
+      "contentSnippet": "See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kimberly Fusaro"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
+      "link": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+      "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-22T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_.max-600x600.format-webp_5aUmqwN.webp\">Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
+      "contentSnippet": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Glenn Thrope"
+        ],
+        "title": [
+          "Product Director"
+        ],
+        "department": [
+          "Display & Video 360"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
+      "pubDate": "Thu, 22 Oct 2026 11:30:00 +0000",
+      "isoDate": "2026-10-22T11:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp\">Google and Voltus are building a 1-gigawatt virtual power plant to boost grid reliability for 67 million people. See how this expansion works.",
+      "contentSnippet": "Google and Voltus are building a 1-gigawatt virtual power plant to boost grid reliability for 67 million people. See how this expansion works.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Recreating the lost studios of women sculptors with Prune Nourry",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-21T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp\">Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus.",
+      "contentSnippet": "Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prune Nourry"
+        ],
+        "title": [
+          "Artist"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+      "link": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+      "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-21T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp\">Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "contentSnippet": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Drive with “The Cat in the Hat” on Waze.",
+      "link": "https://blog.google/waze/waze-the-cat-in-the-hat/",
+      "pubDate": "Wed, 21 Oct 2026 11:39:00 +0000",
+      "isoDate": "2026-10-21T11:39:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp\">Ready to turn your daily commute into a high-octane joyride? Waze is bringing the connoisseur of happy chaos to your passenger seat for the arrival of The Cat in the Hat…",
+      "contentSnippet": "Ready to turn your daily commute into a high-octane joyride? Waze is bringing the connoisseur of happy chaos to your passenger seat for the arrival of The Cat in the Hat…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Waze"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "pubDate": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "isoDate": "2026-10-21T04:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "contentSnippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nitin Gajria"
+        ],
+        "title": [
+          "Managing Director"
+        ],
+        "department": [
+          "Southeast Asia and South Asia Frontier Markets"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Get hands-free personalized help on the road with Gemini",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+      "pubDate": "Tue, 20 Oct 2026 20:00:00 +0000",
+      "isoDate": "2026-10-20T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp\">Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road.",
+      "contentSnippet": "Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karan Daryanani"
+        ],
+        "title": [
+          "Sr. Product Manager"
+        ],
+        "department": [
+          "Gemini"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp\">AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
+      "contentSnippet": "AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lindsey Lanquist"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New Gemini tools for small business owners",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp\">We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
+      "contentSnippet": "We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vishnu Sivaji"
+        ],
+        "title": [
+          "Senior Director, Gemini App"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Expanding our defenses against financial scam ads",
+      "link": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+      "pubDate": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-20T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/financial_protection_US__Canada.max-600x600.format-webp.webp\">We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
+      "contentSnippet": "We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keerat Sharma"
+        ],
+        "title": [
+          "VP & General Manager"
+        ],
+        "department": [
+          "Ads Privacy and Safety"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
+      "pubDate": "Mon, 19 Oct 2026 20:15:00 +0000",
+      "isoDate": "2026-10-19T20:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp\">Since we first announced plans to build in West Memphis, Arkansas, we’ve continued to work with community members.",
+      "contentSnippet": "Since we first announced plans to build in West Memphis, Arkansas, we’ve continued to work with community members.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "pubDate": "Mon, 19 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp\">Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+      "contentSnippet": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Viraj Doshi"
+        ],
+        "title": [
+          "Senior Product Manager, Gemini Notebook"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "4 tips for styling outfits with Gemini",
+      "link": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp\">Here’s how athlete stylist Sydney Bordonaro uses Gemini to build looks for clients — and how you can build your own, too.",
+      "contentSnippet": "Here’s how athlete stylist Sydney Bordonaro uses Gemini to build looks for clients — and how you can build your own, too.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah Armstrong"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "See the top style searches from people in big fashion capitals.",
+      "link": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp\">We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
+      "contentSnippet": "We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+      "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-19T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp\">Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
+      "contentSnippet": "Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Randy Spock"
+        ],
+        "title": [
+          "Head of Carbon Removal"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+      "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp\">Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "contentSnippet": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Oguike"
+        ],
+        "title": [
+          "Education team"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-15T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp\">In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
+      "contentSnippet": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Emma Rosenfeld"
+        ],
+        "title": [
+          "Research Scientist, Google Quantum AI"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Check if a text message is a scam using Circle to Search.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+      "pubDate": "Thu, 15 Oct 2026 17:30:00 +0000",
+      "isoDate": "2026-10-15T17:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp\">Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "contentSnippet": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "400 publications are now partnering with us on our News AI pilot program.",
+      "link": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp\">People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "contentSnippet": "People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T14:34:02.444Z"
+}

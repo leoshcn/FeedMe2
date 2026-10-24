@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/222ec6c2c4be425cac6cba3db3847d0a7d6c15fde7efdf164995e569e5d81243/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 43291<br>Forks: 2701",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 43291\nForks: 2701",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NVIDIA/OpenShell",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5dcfb082be5ffcb363424bab44e5b2b22080088e7032a82e5946b5ecc28c5fb6/NVIDIA/OpenShell\" referrerpolicy=\"no-referrer\"><br>OpenShell is the safe, private runtime for autonomous AI agents.<br><br>Language: Rust<br>Stars: 19196<br>Forks: 1913",
+      "contentSnippet": "OpenShell is the safe, private runtime for autonomous AI agents.\nLanguage: Rust\nStars: 19196\nForks: 1913",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "link": "https://github.com/aws/agent-toolkit-for-aws",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ce57c27dfd9665cb780bd797bb1a77b7e90d47bb21378abd564a207ba258caca/aws/agent-toolkit-for-aws\" referrerpolicy=\"no-referrer\"><br>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS<br><br>Language: Python<br>Stars: 3001<br>Forks: 393",
+      "contentSnippet": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\nLanguage: Python\nStars: 3001\nForks: 393",
+      "creator": "aws",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e75d8596bbb2ca6abed6afa5210bcef840618654eced3ecce8cb55bf13add3de/Nutlope/hallmark\" referrerpolicy=\"no-referrer\"><br>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.<br><br>Language: CSS<br>Stars: 31635<br>Forks: 1631",
+      "contentSnippet": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\nLanguage: CSS\nStars: 31635\nForks: 1631",
+      "creator": "Nutlope",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "luongnv89/claude-howto",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/df025e365856a4beef665ddd39bd0c47df6dae3ff60f827f853c85a950385f39/luongnv89/claude-howto\" referrerpolicy=\"no-referrer\"><br>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.<br><br>Language: Python<br>Stars: 44238<br>Forks: 5473",
+      "contentSnippet": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\nLanguage: Python\nStars: 44238\nForks: 5473",
+      "creator": "luongnv89",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0f430f0b0fe19a7f136ac0806d595e9c1c9214fda3a55eae3f00d5a22d4bf5f1/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: Rust<br>Stars: 85964<br>Forks: 5139",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: Rust\nStars: 85964\nForks: 5139",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pollen-robotics/microduck",
+      "link": "https://github.com/pollen-robotics/microduck",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1c70a3212e4f4d64859c678c99ddf4eba423c849a1b0970596b3beb292edf205/pollen-robotics/microduck\" referrerpolicy=\"no-referrer\"><br>A Tiny biped duck robot 🦆<br><br>Language: Rust<br>Stars: 10709<br>Forks: 1385",
+      "contentSnippet": "A Tiny biped duck robot 🦆\nLanguage: Rust\nStars: 10709\nForks: 1385",
+      "creator": "pollen-robotics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "link": "https://github.com/google-gemini/gemini-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/968197216/8522a757-5632-4fa4-8d01-fcc121390cb1\" referrerpolicy=\"no-referrer\"><br>An open-source AI agent that brings the power of Gemini directly into your terminal.<br><br>Language: TypeScript<br>Stars: 107693<br>Forks: 14787",
+      "contentSnippet": "An open-source AI agent that brings the power of Gemini directly into your terminal.\nLanguage: TypeScript\nStars: 107693\nForks: 14787",
+      "creator": "google-gemini",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jbiaojerry/ebook-treasure-chest",
+      "link": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e1ddda60fbf69ccb6fe5f412486ab45615573056b87b7d270033bf1db14c3c65/jbiaojerry/ebook-treasure-chest\" referrerpolicy=\"no-referrer\"><br>欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。<br><br>Language: Python<br>Stars: 22388<br>Forks: 3176",
+      "contentSnippet": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。\nLanguage: Python\nStars: 22388\nForks: 3176",
+      "creator": "jbiaojerry",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "makecindy/cindy",
+      "link": "https://github.com/makecindy/cindy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ce57c27dfd9665cb780bd797bb1a77b7e90d47bb21378abd564a207ba258caca/makecindy/cindy\" referrerpolicy=\"no-referrer\"><br>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。<br><br>Language: TypeScript<br>Stars: 3821<br>Forks: 567",
+      "contentSnippet": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\nLanguage: TypeScript\nStars: 3821\nForks: 567",
+      "creator": "makecindy",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T14:34:18.949Z"
+}

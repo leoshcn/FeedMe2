@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/222ec6c2c4be425cac6cba3db3847d0a7d6c15fde7efdf164995e569e5d81243/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 43291<br>Forks: 2701",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 43291\nForks: 2701",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 376412<br>Forks: 94078",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 376412\nForks: 94078",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e99ac699bc5542129b88cf93dbe6f8231e028dfe7c56fc4ae62ad40bec5407b1/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 44277<br>Forks: 4649",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 44277\nForks: 4649",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated<br><br>Language: TypeScript<br>Stars: 78922<br>Forks: 9269",
+      "contentSnippet": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\nLanguage: TypeScript\nStars: 78922\nForks: 9269",
+      "creator": "ruvnet",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/09795d52f8fe98c66a0bbd35ad5bd6ac290551d3d0aeabee7c37a5a0faebb612/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 104553<br>Forks: 6603",
+      "contentSnippet": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 104553\nForks: 6603",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent.<br><br>Language: TypeScript<br>Stars: 220940<br>Forks: 29538",
+      "contentSnippet": "The open source coding agent.\nLanguage: TypeScript\nStars: 220940\nForks: 29538",
+      "creator": "anomalyco",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ababde516a841a3fc70d4bdddd94d3f66d7d4735920ce2b3defcbd9304eecaf1/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 13867<br>Forks: 1373",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 13867\nForks: 1373",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "android/skills",
+      "link": "https://github.com/android/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7f3bf19c0828d977f0add433b4e003c69a1c49739deb051ac1c5baa78304ef60/android/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Kotlin<br>Stars: 9544<br>Forks: 616",
+      "contentSnippet": "Language: Kotlin\nStars: 9544\nForks: 616",
+      "creator": "android",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/37a6b2ca7836507ad4732eed5749f0f043d7322ae8d06ca489b0d1c12b684d74/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 32525<br>Forks: 3592",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 32525\nForks: 3592",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fa6f6220a667a4addf58f443f491ec836b458337ecab1f6593b70cbca1cbbdf8/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 71203<br>Forks: 6428",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 71203\nForks: 6428",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b\" referrerpolicy=\"no-referrer\"><br>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.<br><br>Language: Python<br>Stars: 142526<br>Forks: 16803",
+      "contentSnippet": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\nLanguage: Python\nStars: 142526\nForks: 16803",
+      "creator": "Comfy-Org",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/65206e4f28b289cab1a5aaf315fbfd20d6ca9db2f2b68b0afde1b9469975db39/akitaonrails/ai-memory\" referrerpolicy=\"no-referrer\"><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors<br><br>Language: Rust<br>Stars: 13176<br>Forks: 919",
+      "contentSnippet": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\nLanguage: Rust\nStars: 13176\nForks: 919",
+      "creator": "akitaonrails",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/749e0b4620ad45f1de47a75c02a8d9292fe9cf594a46e735ffd8b80bee82b913/Graphify-Labs/graphify\" referrerpolicy=\"no-referrer\"><br>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.<br><br>Language: Python<br>Stars: 134210<br>Forks: 12817",
+      "contentSnippet": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\nLanguage: Python\nStars: 134210\nForks: 12817",
+      "creator": "Graphify-Labs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1b670f1aef138795b31b8663c6125b3f2178329337af71d06c095da09889aa5c/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 56760<br>Forks: 5086",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 56760\nForks: 5086",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "vllm-project/vllm",
+      "link": "https://github.com/vllm-project/vllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ad4bfb6821b098e06a3bb3de7c6e3b29be69f3b581f8d0ae5d7d4cf6279bc12a/vllm-project/vllm\" referrerpolicy=\"no-referrer\"><br>A high-throughput and memory-efficient inference and serving engine for LLMs<br><br>Language: Python<br>Stars: 95297<br>Forks: 23883",
+      "contentSnippet": "A high-throughput and memory-efficient inference and serving engine for LLMs\nLanguage: Python\nStars: 95297\nForks: 23883",
+      "creator": "vllm-project",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T14:34:23.101Z"
+}

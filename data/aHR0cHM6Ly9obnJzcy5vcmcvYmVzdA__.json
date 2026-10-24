@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "isoDate": "2026-10-24T05:49:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218633\">https://news.ycombinator.com/item?id=50218633</a></p>\n<p>Points: 329</p>\n<p># Comments: 100</p>\n",
+      "contentSnippet": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 329\n# Comments: 100",
+      "creator": "testing22321",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
+      "isoDate": "2026-10-24T04:49:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/obsproject/obs-studio/releases/tag/33.0.0\">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218430\">https://news.ycombinator.com/item?id=50218430</a></p>\n<p>Points: 281</p>\n<p># Comments: 81</p>\n",
+      "contentSnippet": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0\nComments URL: https://news.ycombinator.com/item?id=50218430\nPoints: 281\n# Comments: 81",
+      "creator": "pentagrama",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "isoDate": "2026-10-24T01:16:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 276</p>\n<p># Comments: 42</p>\n",
+      "contentSnippet": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 276\n# Comments: 42",
+      "creator": "otoolep",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "pubDate": "Sat, 24 Oct 2026 01:15:14 +0000",
+      "isoDate": "2026-10-24T01:15:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117492375462459244\">https://grapheneos.social/@GrapheneOS/117492375462459244</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217495\">https://news.ycombinator.com/item?id=50217495</a></p>\n<p>Points: 329</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244\nComments URL: https://news.ycombinator.com/item?id=50217495\nPoints: 329\n# Comments: 80",
+      "creator": "privacyishuman",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "pubDate": "Fri, 23 Oct 2026 19:34:15 +0000",
+      "isoDate": "2026-10-23T19:34:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214218\">https://news.ycombinator.com/item?id=50214218</a></p>\n<p>Points: 362</p>\n<p># Comments: 180</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 362\n# Comments: 180",
+      "creator": "JustSkyfall",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
+      "pubDate": "Fri, 23 Oct 2026 19:09:54 +0000",
+      "isoDate": "2026-10-23T19:09:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://block.xyz/dessa\">https://block.xyz/dessa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50213925\">https://news.ycombinator.com/item?id=50213925</a></p>\n<p>Points: 424</p>\n<p># Comments: 161</p>\n",
+      "contentSnippet": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 424\n# Comments: 161",
+      "creator": "dsr12",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "pubDate": "Fri, 23 Oct 2026 16:59:08 +0000",
+      "isoDate": "2026-10-23T16:59:08.000Z",
+      "content": "\n<p><a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\" rel=\"nofollow\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a><p><a href=\"https://artificialanalysis.ai/models/kimi-k3-1-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/kimi-k3-1-pro</a><p><a href=\"https://www.modelcompare.ai/blog/china-open-source-ai\" rel=\"nofollow\">https://www.modelcompare.ai/blog/china-open-source-ai</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212065\">https://news.ycombinator.com/item?id=50212065</a></p>\n<p>Points: 986</p>\n<p># Comments: 585</p>\n",
+      "contentSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html\nhttps://artificialanalysis.ai/models/kimi-k3-1-pro\nhttps://www.modelcompare.ai/blog/china-open-source-ai\nComments URL: https://news.ycombinator.com/item?id=50212065\nPoints: 986\n# Comments: 585",
+      "creator": "Jowsey",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "pubDate": "Fri, 23 Oct 2026 16:21:50 +0000",
+      "isoDate": "2026-10-23T16:21:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.calif.io/p/iphone\">https://blog.calif.io/p/iphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211474\">https://news.ycombinator.com/item?id=50211474</a></p>\n<p>Points: 972</p>\n<p># Comments: 622</p>\n",
+      "contentSnippet": "Article URL: https://blog.calif.io/p/iphone\nComments URL: https://news.ycombinator.com/item?id=50211474\nPoints: 972\n# Comments: 622",
+      "creator": "pavel_lishin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "pubDate": "Fri, 23 Oct 2026 13:41:10 +0000",
+      "isoDate": "2026-10-23T13:41:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\">https://www.kadoa.com/energy-prices/insights/investor-owned-utilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208837\">https://news.ycombinator.com/item?id=50208837</a></p>\n<p>Points: 545</p>\n<p># Comments: 392</p>\n",
+      "contentSnippet": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 545\n# Comments: 392",
+      "creator": "hubraumhugo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "link": "https://keepandroidopen.org/?",
+      "pubDate": "Fri, 23 Oct 2026 13:19:42 +0000",
+      "isoDate": "2026-10-23T13:19:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://keepandroidopen.org/?\">https://keepandroidopen.org/?</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208558\">https://news.ycombinator.com/item?id=50208558</a></p>\n<p>Points: 510</p>\n<p># Comments: 359</p>\n",
+      "contentSnippet": "Article URL: https://keepandroidopen.org/?\nComments URL: https://news.ycombinator.com/item?id=50208558\nPoints: 510\n# Comments: 359",
+      "creator": "NackerHughes",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "pubDate": "Fri, 23 Oct 2026 12:28:47 +0000",
+      "isoDate": "2026-10-23T12:28:47.000Z",
+      "content": "\n<p><a href=\"https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/\" rel=\"nofollow\">https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207910\">https://news.ycombinator.com/item?id=50207910</a></p>\n<p>Points: 827</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...\nComments URL: https://news.ycombinator.com/item?id=50207910\nPoints: 827\n# Comments: 246",
+      "creator": "frizlab",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "pubDate": "Fri, 23 Oct 2026 11:39:54 +0000",
+      "isoDate": "2026-10-23T11:39:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207405\">https://news.ycombinator.com/item?id=50207405</a></p>\n<p>Points: 321</p>\n<p># Comments: 119</p>\n",
+      "contentSnippet": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\nComments URL: https://news.ycombinator.com/item?id=50207405\nPoints: 321\n# Comments: 119",
+      "creator": "armcat",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
+      "isoDate": "2026-10-23T10:41:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/jaredkushner/status/2113376217415958767\">https://twitter.com/jaredkushner/status/2113376217415958767</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50206914\">https://news.ycombinator.com/item?id=50206914</a></p>\n<p>Points: 303</p>\n<p># Comments: 196</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767\nComments URL: https://news.ycombinator.com/item?id=50206914\nPoints: 303\n# Comments: 196",
+      "creator": "teekert",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "pubDate": "Fri, 23 Oct 2026 08:21:29 +0000",
+      "isoDate": "2026-10-23T08:21:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/\">https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50205934\">https://news.ycombinator.com/item?id=50205934</a></p>\n<p>Points: 436</p>\n<p># Comments: 449</p>\n",
+      "contentSnippet": "Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/\nComments URL: https://news.ycombinator.com/item?id=50205934\nPoints: 436\n# Comments: 449",
+      "creator": "robtherobber",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "pubDate": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "isoDate": "2026-10-23T00:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 373</p>\n<p># Comments: 259</p>\n",
+      "contentSnippet": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 373\n# Comments: 259",
+      "creator": "xiaoyu2006",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "pubDate": "Thu, 22 Oct 2026 23:45:56 +0000",
+      "isoDate": "2026-10-22T23:45:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codeandcake.dev/posts/2026-10-22-docker-is-weird\">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202681\">https://news.ycombinator.com/item?id=50202681</a></p>\n<p>Points: 851</p>\n<p># Comments: 364</p>\n",
+      "contentSnippet": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 851\n# Comments: 364",
+      "creator": "psxuaw",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "pubDate": "Thu, 22 Oct 2026 23:01:18 +0000",
+      "isoDate": "2026-10-22T23:01:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://edjefferson.com/localwiki/\">https://edjefferson.com/localwiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202285\">https://news.ycombinator.com/item?id=50202285</a></p>\n<p>Points: 1442</p>\n<p># Comments: 238</p>\n",
+      "contentSnippet": "Article URL: https://edjefferson.com/localwiki/\nComments URL: https://news.ycombinator.com/item?id=50202285\nPoints: 1442\n# Comments: 238",
+      "creator": "sohkamyung",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "pubDate": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "isoDate": "2026-10-22T22:54:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.anthropic.com/research/formal-verification\">https://www.anthropic.com/research/formal-verification</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202217\">https://news.ycombinator.com/item?id=50202217</a></p>\n<p>Points: 453</p>\n<p># Comments: 295</p>\n",
+      "contentSnippet": "Article URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 453\n# Comments: 295",
+      "creator": "johnbender",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "pubDate": "Thu, 22 Oct 2026 22:43:19 +0000",
+      "isoDate": "2026-10-22T22:43:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\">https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202114\">https://news.ycombinator.com/item?id=50202114</a></p>\n<p>Points: 458</p>\n<p># Comments: 242</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\nComments URL: https://news.ycombinator.com/item?id=50202114\nPoints: 458\n# Comments: 242",
+      "creator": "hn_acker",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "pubDate": "Thu, 22 Oct 2026 21:24:41 +0000",
+      "isoDate": "2026-10-22T21:24:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201259\">https://news.ycombinator.com/item?id=50201259</a></p>\n<p>Points: 545</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\nComments URL: https://news.ycombinator.com/item?id=50201259\nPoints: 545\n# Comments: 225",
+      "creator": "ck2",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "pubDate": "Thu, 22 Oct 2026 21:03:55 +0000",
+      "isoDate": "2026-10-22T21:03:55.000Z",
+      "content": "\n<p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?<p>Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?<p>Is selling tokens really the best strategy?<p>Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50200997\">https://news.ycombinator.com/item?id=50200997</a></p>\n<p>Points: 629</p>\n<p># Comments: 702</p>\n",
+      "contentSnippet": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\nCouldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\nIs selling tokens really the best strategy?\nEspecially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side\nComments URL: https://news.ycombinator.com/item?id=50200997\nPoints: 629\n# Comments: 702",
+      "creator": "ex-aws-dude",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "pubDate": "Thu, 22 Oct 2026 17:44:06 +0000",
+      "isoDate": "2026-10-22T17:44:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/NVIDIA/OpenShell\">https://github.com/NVIDIA/OpenShell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50198675\">https://news.ycombinator.com/item?id=50198675</a></p>\n<p>Points: 495</p>\n<p># Comments: 217</p>\n",
+      "contentSnippet": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 495\n# Comments: 217",
+      "creator": "niemandhier",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "pubDate": "Thu, 22 Oct 2026 16:27:47 +0000",
+      "isoDate": "2026-10-22T16:27:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arc.net/\">https://arc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197601\">https://news.ycombinator.com/item?id=50197601</a></p>\n<p>Points: 281</p>\n<p># Comments: 251</p>\n",
+      "contentSnippet": "Article URL: https://arc.net/\nComments URL: https://news.ycombinator.com/item?id=50197601\nPoints: 281\n# Comments: 251",
+      "creator": "suhdonghwi",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "pubDate": "Thu, 22 Oct 2026 16:14:31 +0000",
+      "isoDate": "2026-10-22T16:14:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.taler.net/en/news/2026-13.html\">https://www.taler.net/en/news/2026-13.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197404\">https://news.ycombinator.com/item?id=50197404</a></p>\n<p>Points: 358</p>\n<p># Comments: 173</p>\n",
+      "contentSnippet": "Article URL: https://www.taler.net/en/news/2026-13.html\nComments URL: https://news.ycombinator.com/item?id=50197404\nPoints: 358\n# Comments: 173",
+      "creator": "dewey",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "pubDate": "Thu, 22 Oct 2026 16:08:00 +0000",
+      "isoDate": "2026-10-22T16:08:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans\">https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197313\">https://news.ycombinator.com/item?id=50197313</a></p>\n<p>Points: 638</p>\n<p># Comments: 615</p>\n",
+      "contentSnippet": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans\nComments URL: https://news.ycombinator.com/item?id=50197313\nPoints: 638\n# Comments: 615",
+      "creator": "rakannimer",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "link": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "pubDate": "Thu, 22 Oct 2026 15:32:46 +0000",
+      "isoDate": "2026-10-22T15:32:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html\">https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196837\">https://news.ycombinator.com/item?id=50196837</a></p>\n<p>Points: 326</p>\n<p># Comments: 245</p>\n",
+      "contentSnippet": "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html\nComments URL: https://news.ycombinator.com/item?id=50196837\nPoints: 326\n# Comments: 245",
+      "creator": "wetwater",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "pubDate": "Thu, 22 Oct 2026 15:26:22 +0000",
+      "isoDate": "2026-10-22T15:26:22.000Z",
+      "content": "\n<p><a href=\"https://hackios-web.vercel.app/en\" rel=\"nofollow\">https://hackios-web.vercel.app/en</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196718\">https://news.ycombinator.com/item?id=50196718</a></p>\n<p>Points: 524</p>\n<p># Comments: 194</p>\n",
+      "contentSnippet": "https://hackios-web.vercel.app/en\nComments URL: https://news.ycombinator.com/item?id=50196718\nPoints: 524\n# Comments: 194",
+      "creator": "aghuang",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Quad9 to exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "pubDate": "Thu, 22 Oct 2026 14:32:38 +0000",
+      "isoDate": "2026-10-22T14:32:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://quad9.net/news/blog/au-revoir-france/\">https://quad9.net/news/blog/au-revoir-france/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195959\">https://news.ycombinator.com/item?id=50195959</a></p>\n<p>Points: 1360</p>\n<p># Comments: 474</p>\n",
+      "contentSnippet": "Article URL: https://quad9.net/news/blog/au-revoir-france/\nComments URL: https://news.ycombinator.com/item?id=50195959\nPoints: 1360\n# Comments: 474",
+      "creator": "farrokhi",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "pubDate": "Thu, 22 Oct 2026 14:08:12 +0000",
+      "isoDate": "2026-10-22T14:08:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pwn.watch/\">https://pwn.watch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195543\">https://news.ycombinator.com/item?id=50195543</a></p>\n<p>Points: 376</p>\n<p># Comments: 171</p>\n",
+      "contentSnippet": "Article URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 376\n# Comments: 171",
+      "creator": "mrkd",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "pubDate": "Thu, 22 Oct 2026 13:33:39 +0000",
+      "isoDate": "2026-10-22T13:33:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195110\">https://news.ycombinator.com/item?id=50195110</a></p>\n<p>Points: 1148</p>\n<p># Comments: 739</p>\n",
+      "contentSnippet": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 1148\n# Comments: 739",
+      "creator": "bo0tzz",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T14:33:48.621Z"
+}

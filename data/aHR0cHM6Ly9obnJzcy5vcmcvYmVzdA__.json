@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "pubDate": "Fri, 30 Oct 2026 20:23:30 +0000",
+      "isoDate": "2026-10-30T20:23:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309647\">https://news.ycombinator.com/item?id=50309647</a></p>\n<p>Points: 326</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\nComments URL: https://news.ycombinator.com/item?id=50309647\nPoints: 326\n# Comments: 188",
+      "creator": "apress",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "pubDate": "Fri, 30 Oct 2026 17:27:25 +0000",
+      "isoDate": "2026-10-30T17:27:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307219\">https://news.ycombinator.com/item?id=50307219</a></p>\n<p>Points: 310</p>\n<p># Comments: 260</p>\n",
+      "contentSnippet": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\nComments URL: https://news.ycombinator.com/item?id=50307219\nPoints: 310\n# Comments: 260",
+      "creator": "petethomas",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "pubDate": "Fri, 30 Oct 2026 17:25:15 +0000",
+      "isoDate": "2026-10-30T17:25:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/\">https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307190\">https://news.ycombinator.com/item?id=50307190</a></p>\n<p>Points: 315</p>\n<p># Comments: 92</p>\n",
+      "contentSnippet": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/\nComments URL: https://news.ycombinator.com/item?id=50307190\nPoints: 315\n# Comments: 92",
+      "creator": "DHowett",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "pubDate": "Fri, 30 Oct 2026 17:24:45 +0000",
+      "isoDate": "2026-10-30T17:24:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.404media.co/protons-ceo-cancels-ai-re-interviews/\">https://www.404media.co/protons-ceo-cancels-ai-re-interviews/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307183\">https://news.ycombinator.com/item?id=50307183</a></p>\n<p>Points: 276</p>\n<p># Comments: 232</p>\n",
+      "contentSnippet": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/\nComments URL: https://news.ycombinator.com/item?id=50307183\nPoints: 276\n# Comments: 232",
+      "creator": "cdrnsf",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "pubDate": "Fri, 30 Oct 2026 15:52:18 +0000",
+      "isoDate": "2026-10-30T15:52:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305693\">https://news.ycombinator.com/item?id=50305693</a></p>\n<p>Points: 604</p>\n<p># Comments: 454</p>\n",
+      "contentSnippet": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 604\n# Comments: 454",
+      "creator": "dorianniemiec",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "link": "https://github.com/kevinraymond/florilegium",
+      "pubDate": "Fri, 30 Oct 2026 15:48:12 +0000",
+      "isoDate": "2026-10-30T15:48:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/kevinraymond/florilegium\">https://github.com/kevinraymond/florilegium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305637\">https://news.ycombinator.com/item?id=50305637</a></p>\n<p>Points: 297</p>\n<p># Comments: 48</p>\n",
+      "contentSnippet": "Article URL: https://github.com/kevinraymond/florilegium\nComments URL: https://news.ycombinator.com/item?id=50305637\nPoints: 297\n# Comments: 48",
+      "creator": "nanna",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The federated code forge",
+      "link": "https://tangled.org/blog/forge/",
+      "pubDate": "Fri, 30 Oct 2026 15:44:29 +0000",
+      "isoDate": "2026-10-30T15:44:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tangled.org/blog/forge/\">https://tangled.org/blog/forge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305573\">https://news.ycombinator.com/item?id=50305573</a></p>\n<p>Points: 297</p>\n<p># Comments: 85</p>\n",
+      "contentSnippet": "Article URL: https://tangled.org/blog/forge/\nComments URL: https://news.ycombinator.com/item?id=50305573\nPoints: 297\n# Comments: 85",
+      "creator": "zlliang",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Northflank Breached",
+      "link": "https://status.northflank.com",
+      "pubDate": "Fri, 30 Oct 2026 15:10:31 +0000",
+      "isoDate": "2026-10-30T15:10:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.northflank.com\">https://status.northflank.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305025\">https://news.ycombinator.com/item?id=50305025</a></p>\n<p>Points: 445</p>\n<p># Comments: 318</p>\n",
+      "contentSnippet": "Article URL: https://status.northflank.com\nComments URL: https://news.ycombinator.com/item?id=50305025\nPoints: 445\n# Comments: 318",
+      "creator": "js4ever",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "pubDate": "Fri, 30 Oct 2026 14:27:44 +0000",
+      "isoDate": "2026-10-30T14:27:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no\">https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304419\">https://news.ycombinator.com/item?id=50304419</a></p>\n<p>Points: 296</p>\n<p># Comments: 273</p>\n",
+      "contentSnippet": "Article URL: https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no\nComments URL: https://news.ycombinator.com/item?id=50304419\nPoints: 296\n# Comments: 273",
+      "creator": "brandonb",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "pubDate": "Fri, 30 Oct 2026 12:50:01 +0000",
+      "isoDate": "2026-10-30T12:50:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\">https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50303172\">https://news.ycombinator.com/item?id=50303172</a></p>\n<p>Points: 474</p>\n<p># Comments: 327</p>\n",
+      "contentSnippet": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\nComments URL: https://news.ycombinator.com/item?id=50303172\nPoints: 474\n# Comments: 327",
+      "creator": "domhudson",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "pubDate": "Fri, 30 Oct 2026 12:08:00 +0000",
+      "isoDate": "2026-10-30T12:08:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead\">https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302814\">https://news.ycombinator.com/item?id=50302814</a></p>\n<p>Points: 643</p>\n<p># Comments: 503</p>\n",
+      "contentSnippet": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead\nComments URL: https://news.ycombinator.com/item?id=50302814\nPoints: 643\n# Comments: 503",
+      "creator": "DeepLogin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "pubDate": "Fri, 30 Oct 2026 11:05:53 +0000",
+      "isoDate": "2026-10-30T11:05:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302334\">https://news.ycombinator.com/item?id=50302334</a></p>\n<p>Points: 655</p>\n<p># Comments: 17</p>\n",
+      "contentSnippet": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563\nComments URL: https://news.ycombinator.com/item?id=50302334\nPoints: 655\n# Comments: 17",
+      "creator": "dsr_",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "pubDate": "Fri, 30 Oct 2026 10:22:51 +0000",
+      "isoDate": "2026-10-30T10:22:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301983\">https://news.ycombinator.com/item?id=50301983</a></p>\n<p>Points: 399</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\nComments URL: https://news.ycombinator.com/item?id=50301983\nPoints: 399\n# Comments: 1",
+      "creator": "bashtoni",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "pubDate": "Fri, 30 Oct 2026 10:06:15 +0000",
+      "isoDate": "2026-10-30T10:06:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.binarysecurity.no/posts/2026/10/one-root-case\">https://www.binarysecurity.no/posts/2026/10/one-root-case</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301854\">https://news.ycombinator.com/item?id=50301854</a></p>\n<p>Points: 313</p>\n<p># Comments: 58</p>\n",
+      "contentSnippet": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case\nComments URL: https://news.ycombinator.com/item?id=50301854\nPoints: 313\n# Comments: 58",
+      "creator": "swq115",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "elect.horse",
+      "link": "https://elect.horse/",
+      "pubDate": "Fri, 30 Oct 2026 09:14:34 +0000",
+      "isoDate": "2026-10-30T09:14:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://elect.horse/\">https://elect.horse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301462\">https://news.ycombinator.com/item?id=50301462</a></p>\n<p>Points: 547</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Article URL: https://elect.horse/\nComments URL: https://news.ycombinator.com/item?id=50301462\nPoints: 547\n# Comments: 153",
+      "creator": "solarist",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "pubDate": "Fri, 30 Oct 2026 07:09:12 +0000",
+      "isoDate": "2026-10-30T07:09:12.000Z",
+      "content": "\n<p><a href=\"https://cursor.com/blog/claude-code-extension-security-notice\" rel=\"nofollow\">https://cursor.com/blog/claude-code-extension-security-notic...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300683\">https://news.ycombinator.com/item?id=50300683</a></p>\n<p>Points: 908</p>\n<p># Comments: 533</p>\n",
+      "contentSnippet": "https://cursor.com/blog/claude-code-extension-security-notic...\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 908\n# Comments: 533",
+      "creator": "_chall",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Herdr has released native app",
+      "link": "https://github.com/herdrdev/herdr-app",
+      "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
+      "isoDate": "2026-10-30T00:42:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 354</p>\n<p># Comments: 248</p>\n",
+      "contentSnippet": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 354\n# Comments: 248",
+      "creator": "cherioo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "pubDate": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "isoDate": "2026-10-29T21:40:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 402</p>\n<p># Comments: 166</p>\n",
+      "contentSnippet": "Article URL: https://labs.ycombinator.com/projects/games/index.html\nComments URL: https://news.ycombinator.com/item?id=50296486\nPoints: 402\n# Comments: 166",
+      "creator": "sandslash",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "pubDate": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "isoDate": "2026-10-29T21:38:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 1741</p>\n<p># Comments: 1233</p>\n",
+      "contentSnippet": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\nComments URL: https://news.ycombinator.com/item?id=50296470\nPoints: 1741\n# Comments: 1233",
+      "creator": "Tiberium",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "pubDate": "Thu, 29 Oct 2026 19:41:39 +0000",
+      "isoDate": "2026-10-29T19:41:39.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/y4Egm\" rel=\"nofollow\">https://archive.ph/y4Egm</a><p><a href=\"https://en.wikipedia.org/wiki/Patrick_Stewart\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Patrick_Stewart</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294702\">https://news.ycombinator.com/item?id=50294702</a></p>\n<p>Points: 3268</p>\n<p># Comments: 747</p>\n",
+      "contentSnippet": "https://archive.ph/y4Egm\nhttps://en.wikipedia.org/wiki/Patrick_Stewart\nComments URL: https://news.ycombinator.com/item?id=50294702\nPoints: 3268\n# Comments: 747",
+      "creator": "j4mie",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "pubDate": "Thu, 29 Oct 2026 17:43:48 +0000",
+      "isoDate": "2026-10-29T17:43:48.000Z",
+      "content": "\n<p><a href=\"https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html\" rel=\"nofollow\">https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-...</a>, <a href=\"https://archive.ph/K7bih\" rel=\"nofollow\">https://archive.ph/K7bih</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50293047\">https://news.ycombinator.com/item?id=50293047</a></p>\n<p>Points: 355</p>\n<p># Comments: 235</p>\n",
+      "contentSnippet": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-..., https://archive.ph/K7bih\nComments URL: https://news.ycombinator.com/item?id=50293047\nPoints: 355\n# Comments: 235",
+      "creator": "mgh2",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "pubDate": "Thu, 29 Oct 2026 16:42:17 +0000",
+      "isoDate": "2026-10-29T16:42:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.kadoa.com/companies/insights/google-search-below-half\">https://www.kadoa.com/companies/insights/google-search-below-half</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291945\">https://news.ycombinator.com/item?id=50291945</a></p>\n<p>Points: 428</p>\n<p># Comments: 355</p>\n",
+      "contentSnippet": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half\nComments URL: https://news.ycombinator.com/item?id=50291945\nPoints: 428\n# Comments: 355",
+      "creator": "hubraumhugo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "link": "https://sidbala.com/h-264-is-magic/",
+      "pubDate": "Thu, 29 Oct 2026 15:53:03 +0000",
+      "isoDate": "2026-10-29T15:53:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sidbala.com/h-264-is-magic/\">https://sidbala.com/h-264-is-magic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291054\">https://news.ycombinator.com/item?id=50291054</a></p>\n<p>Points: 510</p>\n<p># Comments: 166</p>\n",
+      "contentSnippet": "Article URL: https://sidbala.com/h-264-is-magic/\nComments URL: https://news.ycombinator.com/item?id=50291054\nPoints: 510\n# Comments: 166",
+      "creator": "ea016",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "pubDate": "Thu, 29 Oct 2026 15:30:22 +0000",
+      "isoDate": "2026-10-29T15:30:22.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/sGqBh\" rel=\"nofollow\">https://archive.ph/sGqBh</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290668\">https://news.ycombinator.com/item?id=50290668</a></p>\n<p>Points: 323</p>\n<p># Comments: 387</p>\n",
+      "contentSnippet": "https://archive.ph/sGqBh\nComments URL: https://news.ycombinator.com/item?id=50290668\nPoints: 323\n# Comments: 387",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "pubDate": "Thu, 29 Oct 2026 14:57:55 +0000",
+      "isoDate": "2026-10-29T14:57:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 597</p>\n<p># Comments: 329</p>\n",
+      "contentSnippet": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html\nComments URL: https://news.ycombinator.com/item?id=50290177\nPoints: 597\n# Comments: 329",
+      "creator": "ibobev",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "pubDate": "Thu, 29 Oct 2026 14:13:21 +0000",
+      "isoDate": "2026-10-29T14:13:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 1695</p>\n<p># Comments: 436</p>\n",
+      "contentSnippet": "Article URL: https://mistral.ai/news/mistral-large-4-oss/\nComments URL: https://news.ycombinator.com/item?id=50289418\nPoints: 1695\n# Comments: 436",
+      "creator": "kuberwastaken",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+      "link": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+      "pubDate": "Thu, 29 Oct 2026 13:40:04 +0000",
+      "isoDate": "2026-10-29T13:40:04.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/Ykfga\" rel=\"nofollow\">https://archive.ph/Ykfga</a><p><a href=\"https://en.wikipedia.org/wiki/FBI%E2%80%93King_letter\" rel=\"nofollow\">https://en.wikipedia.org/wiki/FBI%E2%80%93King_letter</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288867\">https://news.ycombinator.com/item?id=50288867</a></p>\n<p>Points: 435</p>\n<p># Comments: 438</p>\n",
+      "contentSnippet": "https://archive.ph/Ykfga\nhttps://en.wikipedia.org/wiki/FBI%E2%80%93King_letter\nComments URL: https://news.ycombinator.com/item?id=50288867\nPoints: 435\n# Comments: 438",
+      "creator": "surprisetalk",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "pubDate": "Thu, 29 Oct 2026 12:41:56 +0000",
+      "isoDate": "2026-10-29T12:41:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288019\">https://news.ycombinator.com/item?id=50288019</a></p>\n<p>Points: 336</p>\n<p># Comments: 245</p>\n",
+      "contentSnippet": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\nComments URL: https://news.ycombinator.com/item?id=50288019\nPoints: 336\n# Comments: 245",
+      "creator": "theHocineSaad",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DoorDash to acquire Instacart",
+      "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "pubDate": "Thu, 29 Oct 2026 12:33:05 +0000",
+      "isoDate": "2026-10-29T12:33:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://about.doordash.com/en-us/news/doordash-to-acquire-instacart\">https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287919\">https://news.ycombinator.com/item?id=50287919</a></p>\n<p>Points: 484</p>\n<p># Comments: 649</p>\n",
+      "contentSnippet": "Article URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart\nComments URL: https://news.ycombinator.com/item?id=50287919\nPoints: 484\n# Comments: 649",
+      "creator": "WalterSobchak",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "If IPv4 were land",
+      "link": "https://iptrust.co/blog/if-ipv4-were-land",
+      "pubDate": "Thu, 29 Oct 2026 12:19:00 +0000",
+      "isoDate": "2026-10-29T12:19:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://iptrust.co/blog/if-ipv4-were-land\">https://iptrust.co/blog/if-ipv4-were-land</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287775\">https://news.ycombinator.com/item?id=50287775</a></p>\n<p>Points: 322</p>\n<p># Comments: 493</p>\n",
+      "contentSnippet": "Article URL: https://iptrust.co/blog/if-ipv4-were-land\nComments URL: https://news.ycombinator.com/item?id=50287775\nPoints: 322\n# Comments: 493",
+      "creator": "rokostik",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T12:31:25.460Z"
+}

@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 105941<br>Forks: 9335",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 105941\nForks: 9335",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/664f06dd8800fef81ad8bdf63f2320b840f2d7c8cc2f03b4f5e036271e3a4f38/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 8383<br>Forks: 1185",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 8383\nForks: 1185",
+      "creator": "milind-soni",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/62dc226ce2b4bec50c07dd6cbd39dcedaf52dc62fedb15efea62718095742a73/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.<br><br>Language: Rust<br>Stars: 96826<br>Forks: 5705",
+      "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nLanguage: Rust\nStars: 96826\nForks: 5705",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "CopilotKit/OpenBot",
+      "link": "https://github.com/CopilotKit/OpenBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/adaff8e5f66d77b19c4e5b95f3289620aad90d14851d6d14af183e389bd3d51c/CopilotKit/OpenBot\" referrerpolicy=\"no-referrer\"><br>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.<br><br>Language: TypeScript<br>Stars: 8654<br>Forks: 1097",
+      "contentSnippet": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\nLanguage: TypeScript\nStars: 8654\nForks: 1097",
+      "creator": "CopilotKit",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Renhuai123/ziwei-doushu",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cdfd261f49eef6114d5025a00354a3155110e603b94908ca3f0936a88b9c03d8/Renhuai123/ziwei-doushu\" referrerpolicy=\"no-referrer\"><br>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据<br><br>Language: TypeScript<br>Stars: 11123<br>Forks: 2225",
+      "contentSnippet": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\nLanguage: TypeScript\nStars: 11123\nForks: 2225",
+      "creator": "Renhuai123",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "expo/skills",
+      "link": "https://github.com/expo/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8b2d99bb32806083de2ec2b414dd2482a0ae7156e5cfa8682e606b5ae621cfde/expo/skills\" referrerpolicy=\"no-referrer\"><br>A collection of AI agent skills for working with Expo projects and Expo Application Services<br><br>Language: Shell<br>Stars: 3846<br>Forks: 244",
+      "contentSnippet": "A collection of AI agent skills for working with Expo projects and Expo Application Services\nLanguage: Shell\nStars: 3846\nForks: 244",
+      "creator": "expo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "macro-inc/macro",
+      "link": "https://github.com/macro-inc/macro",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/997f409747b8e28bb76b83b62a1763e5c4d6d947d7d5e21f7d4fe0f9fe0cffe1/macro-inc/macro\" referrerpolicy=\"no-referrer\"><br>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.<br><br>Language: Rust<br>Stars: 5806<br>Forks: 538",
+      "contentSnippet": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\nLanguage: Rust\nStars: 5806\nForks: 538",
+      "creator": "macro-inc",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/be4ed35911eb6a465c965ba0c6d18ee50642dbeea561abdc3c5aea95db92b8a8/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 307332<br>Forks: 25863",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 307332\nForks: 25863",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/647dcc9ad527f3d8410654959355a54e84c1dddba078cbda64f9b1626aab37d7/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 32573<br>Forks: 8625",
+      "contentSnippet": "Language: TypeScript\nStars: 32573\nForks: 8625",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HKUDS/DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a43bdefaf09b6daf48ec2ad1296e5e38b69a7c35d5bf62ee27481271b57cb0d1/HKUDS/DeepTutor\" referrerpolicy=\"no-referrer\"><br>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.<br><br>Language: Python<br>Stars: 51623<br>Forks: 6320",
+      "contentSnippet": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.\nLanguage: Python\nStars: 51623\nForks: 6320",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/19fb209a10473c94b2f3846fd686b7db7cd40991db79dba74a191f0aafdc2ebf/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 185166<br>Forks: 21886",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 185166\nForks: 21886",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JetBrains/thinkrail",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7bca2fb1c9f5d56b82d816483bb8efc0f1ec590d204625a0e2309b98a1f3b802/JetBrains/thinkrail\" referrerpolicy=\"no-referrer\"><br>Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need<br><br>Language: TypeScript<br>Stars: 6481<br>Forks: 353",
+      "contentSnippet": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\nLanguage: TypeScript\nStars: 6481\nForks: 353",
+      "creator": "JetBrains",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "togg53192-cmd/jailbreaks",
+      "link": "https://github.com/togg53192-cmd/jailbreaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/119ffa4243fc90246481950267e6a0bc4d772af3c75adccb405c50a3dd5e06b0/togg53192-cmd/jailbreaks\" referrerpolicy=\"no-referrer\"><br>LIST OF ALL MY JAILBREAKS<br><br>Language: Unknown<br>Stars: 10640<br>Forks: 1554",
+      "contentSnippet": "LIST OF ALL MY JAILBREAKS\nLanguage: Unknown\nStars: 10640\nForks: 1554",
+      "creator": "togg53192-cmd",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/54650fad1f4104cdb99a7c23dfa503cf93e87a85210bccc592fe1bac3f784895/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 309304<br>Forks: 27517",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 309304\nForks: 27517",
+      "creator": "obra",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "lightpanda-io/browser",
+      "link": "https://github.com/lightpanda-io/browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/04109b2f9119d2680afef2e8fc4a2effb52f2511bf0d4232f0c30ab05bc3c2f1/lightpanda-io/browser\" referrerpolicy=\"no-referrer\"><br>Lightpanda: the headless browser designed for AI and automation<br><br>Language: Zig<br>Stars: 38190<br>Forks: 1861",
+      "contentSnippet": "Lightpanda: the headless browser designed for AI and automation\nLanguage: Zig\nStars: 38190\nForks: 1861",
+      "creator": "lightpanda-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-30T19:23:45.386Z"
+}

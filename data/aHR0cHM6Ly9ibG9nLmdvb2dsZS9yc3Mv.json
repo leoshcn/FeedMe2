@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Google Fitbit Edge: On shelves now",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "pubDate": "Fri, 30 Oct 2026 20:15:00 +0000",
+      "isoDate": "2026-10-30T20:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp\">Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "contentSnippet": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-30T17:00:00.000Z",
+      "content": "<img src=\"https://i.ytimg.com/vi_webp/epqzfAi16us/maxresdefault.webp\">This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "contentSnippet": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "See who has access to your Gmail inbox in 2 minutes.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "pubDate": "Fri, 30 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp\">Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "contentSnippet": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+      "pubDate": "Thu, 29 Oct 2026 16:15:00 +0000",
+      "isoDate": "2026-10-29T16:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp\">Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+      "contentSnippet": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp\">Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
+      "contentSnippet": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "John Tribbia"
+        ],
+        "title": [
+          "Senior Staff Data Scientist"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp\">Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
+      "contentSnippet": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Priya Venkatraman"
+        ],
+        "title": [
+          "Software Engineer"
+        ],
+        "department": [
+          "Gemini Notebook"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Celebrate Halloween with these tricks in Google Photos.",
+      "link": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp\">Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos. Try these festive tricks to perfect your Halloween snaps today.",
+      "contentSnippet": "Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos. Try these festive tricks to perfect your Halloween snaps today.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Equipping healthcare professionals with practical AI skills",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-29T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_Gn2Gz2.max-600x600.format-webp.webp\">Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.",
+      "contentSnippet": "Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Dr. Michael Howell"
+        ],
+        "title": [
+          "Chief Health Officer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How to use Gemini to update your resume",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+      "pubDate": "Thu, 29 Oct 2026 11:33:00 +0000",
+      "isoDate": "2026-10-29T11:33:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp\">Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
+      "contentSnippet": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kimberly Fusaro"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Gemini is helping students and teachers in the classroom",
+      "link": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "pubDate": "Thu, 29 Oct 2026 09:00:00 +0000",
+      "isoDate": "2026-10-29T09:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp\">New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.",
+      "contentSnippet": "New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kevin McKee"
+        ],
+        "title": [
+          "Evaluations Lead, AI for Edu, Google DeepMind"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Partnering with Singapore to bring frontier AI to public health",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+      "pubDate": "Thu, 29 Oct 2026 03:30:00 +0000",
+      "isoDate": "2026-10-29T03:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp\">Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.",
+      "contentSnippet": "Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben King"
+        ],
+        "title": [
+          "Country Managing Director"
+        ],
+        "department": [
+          "Google Singapore"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ads in AI Mode expand to new markets.",
+      "link": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "pubDate": "Wed, 28 Oct 2026 21:30:00 +0000",
+      "isoDate": "2026-10-28T21:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-600x600.format-webp.webp\">Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+      "contentSnippet": "Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shashi Thakur"
+        ],
+        "title": [
+          "VP and GM, Google Search Ads and Ads on Google Experiences"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Q3 2026 earnings call: Remarks from our CEO",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+      "pubDate": "Wed, 28 Oct 2026 21:05:00 +0000",
+      "isoDate": "2026-10-28T21:05:00.000Z",
+      "content": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
+      "contentSnippet": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sundar Pichai"
+        ],
+        "title": [
+          "CEO of Google and Alphabet"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Adapt your ad strategy to meet the way people search today.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
+      "pubDate": "Wed, 28 Oct 2026 19:00:00 +0000",
+      "isoDate": "2026-10-28T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp\">Google's Ads Decoded podcast tells you how to make smarter marketing decisions using the latest data on how consumers search.",
+      "contentSnippet": "Google's Ads Decoded podcast tells you how to make smarter marketing decisions using the latest data on how consumers search.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dive into new topics with immersive explorations in the Gemini app.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+      "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-28T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp\">Today, we are rolling out immersive explorations in the new Gemini student hub.",
+      "contentSnippet": "Today, we are rolling out immersive explorations in the new Gemini student hub.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build and manage Connected Apps in one place",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp\">We’re announcing new connected apps partners and a new platform for developers to build and track their apps in one place.",
+      "contentSnippet": "We’re announcing new connected apps partners and a new platform for developers to build and track their apps in one place.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chips Mistry"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
+      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp\">XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.",
+      "contentSnippet": "XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shahram Izadi"
+        ],
+        "title": [
+          "VP & GM"
+        ],
+        "department": [
+          "XR"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp\">Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "contentSnippet": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+      "link": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp\">Chrome now pulls flight bookings and order numbers from Gmail to autofill forms. See how Gemini in Chrome simplifies your data entry today.",
+      "contentSnippet": "Chrome now pulls flight bookings and order numbers from Gmail to autofill forms. See how Gemini in Chrome simplifies your data entry today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amanda Lim"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Chrome"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Indie Games Fund in Africa: Meet the selected studios",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
+      "pubDate": "Wed, 28 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-28T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IGFund_Blogger-Header-Africa-27.max-600x600.format-webp.webp\">Google Play selects 10 African indie studios for the 2026 Indie Games Fund, awarding $1M and mentorship to scale local talent globally.",
+      "contentSnippet": "Google Play selects 10 African indie studios for the 2026 Indie Games Fund, awarding $1M and mentorship to scale local talent globally.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nicola Julius"
+        ],
+        "title": [
+          "Head of Ecosystem and Core Partnerships EMEA"
+        ],
+        "department": [
+          "Google Play"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T12:32:30.164Z"
+}

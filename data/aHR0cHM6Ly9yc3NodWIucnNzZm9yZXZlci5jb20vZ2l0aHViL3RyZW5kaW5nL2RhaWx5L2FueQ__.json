@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/867fa9329b84c756762d3efc7b36abca89fcd795700254750ba58298e814cb9c/vercel-labs/agent-browser\" referrerpolicy=\"no-referrer\"><br>Browser automation CLI for AI agents<br><br>Language: Rust<br>Stars: 46580<br>Forks: 3192",
+      "contentSnippet": "Browser automation CLI for AI agents\nLanguage: Rust\nStars: 46580\nForks: 3192",
+      "creator": "vercel-labs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b65ec54342088241bea916e8ac0977fac14ed9e4f18a509a6f55d26c3e5de278/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 65172<br>Forks: 4229",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 65172\nForks: 4229",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fc52ad0f80ff6e047541090ab6b339344bea4e0bb66aad1456f50188c3197cea/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 23182<br>Forks: 1943",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 23182\nForks: 1943",
+      "creator": "google",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/530183d21002055f71dabb98627bf4d5faaa70bc9dc441b1375c3698f38b5a8e/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 317386<br>Forks: 26559",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 317386\nForks: 26559",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/00f609f083140ca33697ef1d988730bd9ed56af1543bd96061bf5a89793fa07f/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 188504<br>Forks: 22227",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 188504\nForks: 22227",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ad406adb1e9f313da760917dfc8a2a6f3eabcabcf83e412ccf3b1ef752186acb/meta/astryx\" referrerpolicy=\"no-referrer\"><br>An open source design system that's fully customizable and agent ready<br><br>Language: TypeScript<br>Stars: 14242<br>Forks: 1173",
+      "contentSnippet": "An open source design system that's fully customizable and agent ready\nLanguage: TypeScript\nStars: 14242\nForks: 1173",
+      "creator": "meta",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "prometheus/prometheus",
+      "link": "https://github.com/prometheus/prometheus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/96a3c2c4a56f5694605ce4c9b0259221fe4550c0544ee40ef15a84c5e6e7c1e0/prometheus/prometheus\" referrerpolicy=\"no-referrer\"><br>The Prometheus monitoring system and time series database.<br><br>Language: Go<br>Stars: 67348<br>Forks: 10998",
+      "contentSnippet": "The Prometheus monitoring system and time series database.\nLanguage: Go\nStars: 67348\nForks: 10998",
+      "creator": "prometheus",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/162998479/643206d7-076a-4b92-bb6c-89d9c4161d95\" referrerpolicy=\"no-referrer\"><br>Hunt down social media accounts by username across social networks<br><br>Language: Python<br>Stars: 99889<br>Forks: 11819",
+      "contentSnippet": "Hunt down social media accounts by username across social networks\nLanguage: Python\nStars: 99889\nForks: 11819",
+      "creator": "sherlock-project",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e0af7402429814a8abcf9c2103f6766000190c71f496f5f2f22f26cc9678b250/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 16578<br>Forks: 2352",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 16578\nForks: 2352",
+      "creator": "milind-soni",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "astral-sh/ruff",
+      "link": "https://github.com/astral-sh/ruff",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e728cc59b3a1cd9c3dd08a558888ffa7d45aba840c667fead9eda45ca694bd99/astral-sh/ruff\" referrerpolicy=\"no-referrer\"><br>An extremely fast Python linter and code formatter, written in Rust.<br><br>Language: Rust<br>Stars: 50877<br>Forks: 2626",
+      "contentSnippet": "An extremely fast Python linter and code formatter, written in Rust.\nLanguage: Rust\nStars: 50877\nForks: 2626",
+      "creator": "astral-sh",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tailwindlabs/tailwindcss",
+      "link": "https://github.com/tailwindlabs/tailwindcss",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/106017343/ff793d39-1c40-45cd-b73e-5a1ba288d97d\" referrerpolicy=\"no-referrer\"><br>A utility-first CSS framework for rapid UI development.<br><br>Language: TypeScript<br>Stars: 98293<br>Forks: 7099",
+      "contentSnippet": "A utility-first CSS framework for rapid UI development.\nLanguage: TypeScript\nStars: 98293\nForks: 7099",
+      "creator": "tailwindlabs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mbillow/localthings",
+      "link": "https://github.com/mbillow/localthings",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f5e1ca63a1d8326dbee8eed4161798a9aa6a343c1311c672c91e0b40be573ba/mbillow/localthings\" referrerpolicy=\"no-referrer\"><br>Control your Samsung appliances from Home Assistant over your home network, with no cloud account.<br><br>Language: Python<br>Stars: 982<br>Forks: 103",
+      "contentSnippet": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.\nLanguage: Python\nStars: 982\nForks: 103",
+      "creator": "mbillow",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/00f609f083140ca33697ef1d988730bd9ed56af1543bd96061bf5a89793fa07f/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 94136<br>Forks: 11544",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 94136\nForks: 11544",
+      "creator": "zed-industries",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ranxianglei/billion-context",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/56816c99346870207dc4b41e7891057d356fb902558682a746f372b56a3af260/ranxianglei/billion-context\" referrerpolicy=\"no-referrer\"><br>A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need<br><br>Language: TypeScript<br>Stars: 4493<br>Forks: 361",
+      "contentSnippet": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need\nLanguage: TypeScript\nStars: 4493\nForks: 361",
+      "creator": "ranxianglei",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "dsx-ai-factory/nvke",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8d04f2fcedebccb3746571c749a732cde67c8c0aa677cfb753a99089c6bb936d/dsx-ai-factory/nvke\" referrerpolicy=\"no-referrer\"><br>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.<br><br>Language: Go<br>Stars: 428<br>Forks: 81",
+      "contentSnippet": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.\nLanguage: Go\nStars: 428\nForks: 81",
+      "creator": "dsx-ai-factory",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T16:30:20.360Z"
+}

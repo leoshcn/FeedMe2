@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/27ff9da184e0984af37464e1652d1c52a47a13a2a4b7a0d5ab07312e4502d2cd/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 15484<br>Forks: 1479",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 15484\nForks: 1479",
+      "creator": "backnotprop",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4cdaf05f49ade7f871c818290eb75746b91561f17912ba688de89abdde31da48/google-labs-code/stitch-skills\" referrerpolicy=\"no-referrer\"><br>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.<br><br>Language: TypeScript<br>Stars: 13727<br>Forks: 1653",
+      "contentSnippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\nLanguage: TypeScript\nStars: 13727\nForks: 1653",
+      "creator": "google-labs-code",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2104ddb630be0a3d6708502b12ada2fe62e0c3fd65c753d36b887cf1d1c3e28f/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 11541<br>Forks: 850",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 11541\nForks: 850",
+      "creator": "GoogleChrome",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "n8n-io/nod",
+      "link": "https://github.com/n8n-io/nod",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1387586059/fd23eec7-45b4-49b7-90f8-9987697d5716\" referrerpolicy=\"no-referrer\"><br>Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.<br><br>Language: TypeScript<br>Stars: 4564<br>Forks: 687",
+      "contentSnippet": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.\nLanguage: TypeScript\nStars: 4564\nForks: 687",
+      "creator": "n8n-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 56997<br>Forks: 4712",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 56997\nForks: 4712",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c548e92868e8e177c0ef5cfe5d18ae1904866f66e87ddc3d69eb36d3fbc0c959/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 76581<br>Forks: 6830",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 76581\nForks: 6830",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/032d167f51fce1ffa13c44209ae79f0f93614bcc80415fd2b6e3003027647762/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 59669<br>Forks: 4850",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 59669\nForks: 4850",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9336fd09bed7233af5d19799a78000e0247d48f164b4dd54e3ec3f4b494127df/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 8785<br>Forks: 1578",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 8785\nForks: 1578",
+      "creator": "tradermonty",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ag-ui-protocol/ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/711697056467f63a4e9182dd783de53377b4d00a03c786d5d71aa80d087efe85/ag-ui-protocol/ag-ui\" referrerpolicy=\"no-referrer\"><br>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.<br><br>Language: TypeScript<br>Stars: 22001<br>Forks: 2194",
+      "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nLanguage: TypeScript\nStars: 22001\nForks: 2194",
+      "creator": "ag-ui-protocol",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aedd156af8b39b90e0607a8a7d3425d86b1b89a8aeaf5292d9a33e78166aab18/meta/astryx\" referrerpolicy=\"no-referrer\"><br>An open source design system that's fully customizable and agent ready<br><br>Language: TypeScript<br>Stars: 33589<br>Forks: 2624",
+      "contentSnippet": "An open source design system that's fully customizable and agent ready\nLanguage: TypeScript\nStars: 33589\nForks: 2624",
+      "creator": "meta",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pookjw/HermesEnabler",
+      "link": "https://github.com/pookjw/HermesEnabler",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7b4a960c1e58220f4099ea557b982f8a16f890c87062b17ae130d08e0064a565/pookjw/HermesEnabler\" referrerpolicy=\"no-referrer\"><br>Enable Hermès Watch Faces on any Apple Watch devices<br><br>Language: Objective-C<br>Stars: 2596<br>Forks: 207",
+      "contentSnippet": "Enable Hermès Watch Faces on any Apple Watch devices\nLanguage: Objective-C\nStars: 2596\nForks: 207",
+      "creator": "pookjw",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/711697056467f63a4e9182dd783de53377b4d00a03c786d5d71aa80d087efe85/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 18269<br>Forks: 1593",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 18269\nForks: 1593",
+      "creator": "we-promise",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "obsidianmd/obsidian-skills",
+      "link": "https://github.com/obsidianmd/obsidian-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1126947080/074349e0-1fc4-47ce-a412-9b9eef6a81ab\" referrerpolicy=\"no-referrer\"><br>Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.<br><br>Language: Shell<br>Stars: 54470<br>Forks: 3876",
+      "contentSnippet": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.\nLanguage: Shell\nStars: 54470\nForks: 3876",
+      "creator": "obsidianmd",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326\" referrerpolicy=\"no-referrer\"><br>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.<br><br>Language: TypeScript<br>Stars: 32045<br>Forks: 2889",
+      "contentSnippet": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\nLanguage: TypeScript\nStars: 32045\nForks: 2889",
+      "creator": "dream-num",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill",
+      "link": "https://github.com/kajisho5/ffmpeg-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1356077516/f66b5343-33ba-4d7f-b3cc-72c5eab733f0\" referrerpolicy=\"no-referrer\"><br>Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.<br><br>Language: Python<br>Stars: 12114<br>Forks: 1000",
+      "contentSnippet": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.\nLanguage: Python\nStars: 12114\nForks: 1000",
+      "creator": "kajisho5",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T11:48:29.154Z"
+}

@@ -1,0 +1,481 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "15 years of investing in Colombia’s talent and future",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+      "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-26T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_Doodle.max-600x600.format-webp.webp\">Google marks 15 years in Colombia with over $1M in Google.org funding for AI education, small businesses, rural youth, and disaster relief.",
+      "contentSnippet": "Google marks 15 years in Colombia with over $1M in Google.org funding for AI education, small businesses, rural youth, and disaster relief.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Edgardo Frias"
+        ],
+        "title": [
+          "Country Director, Andean Region"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "pubDate": "Tue, 24 Nov 2026 19:30:00 +0000",
+      "isoDate": "2026-11-24T19:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp\">Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+      "contentSnippet": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Oran Kelly"
+        ],
+        "title": [
+          "Research Scientist"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp\">Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "contentSnippet": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.max-600x600.format-webp.webp\">See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+      "contentSnippet": "See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+      "pubDate": "Tue, 24 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-24T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp\">Indian filmmakers use Google Flow to create original short films. Watch five winning stories from the WIF India Filmathon. See the films now.",
+      "contentSnippet": "Indian filmmakers use Google Flow to create original short films. Watch five winning stories from the WIF India Filmathon. See the films now.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prashant Paulose"
+        ],
+        "title": [
+          "Global Lead"
+        ],
+        "department": [
+          "Envisioning Studio"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re expanding our London home in King's Cross.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+      "pubDate": "Tue, 24 Nov 2026 08:00:00 +0000",
+      "isoDate": "2026-11-24T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_23_November_2026_at_.max-600x600.format-webp_kp5WWPC.webp\">In 2016, we arrived in King’s Cross as founding residents of the Knowledge Quarter. Today, we’re announcing our plan to purchase 6 Pancras Square.Alongside Central Saint…",
+      "contentSnippet": "In 2016, we arrived in King’s Cross as founding residents of the Knowledge Quarter. Today, we’re announcing our plan to purchase 6 Pancras Square.Alongside Central Saint…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kate Alessi"
+        ],
+        "title": [
+          "Vice President and Managing Director"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google UK & Ireland"
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+      "pubDate": "Mon, 23 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp\">See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+      "contentSnippet": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Molly McHugh-Johnson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "pubDate": "Mon, 23 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-600x600.format-webp.webp\">Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+      "contentSnippet": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "pubDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-23T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp\">Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "contentSnippet": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Robby Stein"
+        ],
+        "title": [
+          "VP of Product, Google Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+      "link": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+      "pubDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-23T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/video_6262_wagtailvideo-cdfg3q0i_thumb.jpg\">Organize holiday memories with five new Google Photos updates. Use Gemini for video tasks and filter shared albums by people. Try these features today.",
+      "contentSnippet": "Organize holiday memories with five new Google Photos updates. Use Gemini for video tasks and filter shared albums by people. Try these features today.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing file slicing controls in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "pubDate": "Mon, 23 Nov 2026 16:12:00 +0000",
+      "isoDate": "2026-11-23T16:12:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Introducing-File-Slicing-Contro.max-600x600.format-webp.webp\">New file slicing controls and native Office file support in the Gemini API let agents inspect targeted slices across Google AI Studio and Vertex AI while paying only for…",
+      "contentSnippet": "New file slicing controls and native Office file support in the Gemini API let agents inspect targeted slices across Google AI Studio and Vertex AI while paying only for…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rohan Doshi"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-20T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Connected_apps_-_Social_share_a.max-600x600.format-webp.webp\">Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "contentSnippet": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "pubDate": "Fri, 20 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-20T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp\">Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "contentSnippet": "Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Eve Andersson"
+        ],
+        "title": [
+          "Senior Director for Social Impact"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "pubDate": "Thu, 19 Nov 2026 20:30:00 +0000",
+      "isoDate": "2026-11-19T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp\">Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "contentSnippet": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "pubDate": "Thu, 19 Nov 2026 19:00:00 +0000",
+      "isoDate": "2026-11-19T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Quantum_Contextuality_Social_Sh.max-600x600.format-webp.webp\">Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "contentSnippet": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "pubDate": "Thu, 19 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-19T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\">Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "contentSnippet": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lucia Loher"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Gemini API"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\">Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "contentSnippet": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Small businesses, big results: How teams scale with AI",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp\">See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "contentSnippet": "See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yulie Kwon Kim"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Product"
+        ],
+        "company": [
+          "Google Workspace"
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Let Gemini tackle repetitive chores on your Mac",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp\">The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "contentSnippet": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Friedman"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp\">Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "contentSnippet": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T11:46:56.243Z"
+}

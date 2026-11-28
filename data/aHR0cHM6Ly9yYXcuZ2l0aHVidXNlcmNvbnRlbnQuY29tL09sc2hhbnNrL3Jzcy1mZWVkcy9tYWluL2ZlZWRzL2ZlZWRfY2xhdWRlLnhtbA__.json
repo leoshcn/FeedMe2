@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Practical guidance, product updates, and best practices for building with Claude.",
+  "link": "https://claude.com/resources/articles",
+  "items": [
+    {
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-24T00:00:00.000Z",
+      "content": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "contentSnippet": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turn artifacts into Mac and Windows apps",
+      "link": "https://claude.com/resources/articles/install-as-app",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-24T00:00:00.000Z",
+      "content": "Open the artifacts you use every day like any other app, and let them do more on your computer",
+      "contentSnippet": "Open the artifacts you use every day like any other app, and let them do more on your computer",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+      "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+      "pubDate": "Mon, 23 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-23T00:00:00.000Z",
+      "content": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+      "contentSnippet": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "KPMG's Todd Lohr on AI when your data is also your clients' data",
+      "link": "https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data",
+      "pubDate": "Mon, 23 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-23T00:00:00.000Z",
+      "content": "Todd Lohr, KPMG US Vice Chair and Head of Client Technology & Innovation, on adopting frontier AI and building safeguards at the same time, and what that means for a firm that holds its clients' most sensitive data.",
+      "contentSnippet": "Todd Lohr, KPMG US Vice Chair and Head of Client Technology & Innovation, on adopting frontier AI and building safeguards at the same time, and what that means for a firm that holds its clients' most sensitive data.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude Ship",
+      "link": "https://claude.com/resources/articles/introducing-claude-ship",
+      "pubDate": "Mon, 23 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-23T00:00:00.000Z",
+      "content": "Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows.",
+      "contentSnippet": "Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The enterprise guide to securing coding agents",
+      "link": "https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents",
+      "pubDate": "Mon, 23 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-23T00:00:00.000Z",
+      "content": "How security and technical leaders can understand and bound risk as they scale Claude Code",
+      "contentSnippet": "How security and technical leaders can understand and bound risk as they scale Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
+      "link": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "How Claude spent two weeks load testing a staging cluster, breaking the Claude Docs service on purpose and fixing what fell over before launch, and what made the service legible enough for Claude to close the loop.",
+      "contentSnippet": "How Claude spent two weeks load testing a staging cluster, breaking the Claude Docs service on purpose and fixing what fell over before launch, and what made the service legible enough for Claude to close the loop.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Linked billing on the Claude Platform",
+      "link": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "Linked billing on the Claude Platform",
+      "contentSnippet": "Linked billing on the Claude Platform",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "pubDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-16T00:00:00.000Z",
+      "content": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.",
+      "contentSnippet": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building strong safety evaluations",
+      "link": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "pubDate": "Fri, 13 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-13T00:00:00.000Z",
+      "content": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "contentSnippet": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Claude Tag guide for startups",
+      "link": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+      "pubDate": "Fri, 13 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-13T00:00:00.000Z",
+      "content": "How leading startups use Claude Tag to ship faster and scale operations",
+      "contentSnippet": "How leading startups use Claude Tag to ship faster and scale operations",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building always-on agents",
+      "link": "https://claude.com/resources/articles/building-always-on-agents",
+      "pubDate": "Fri, 13 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-13T00:00:00.000Z",
+      "content": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "contentSnippet": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "link": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "contentSnippet": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "contentSnippet": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "J. Crew brings its signature approach to styling to life with Claude",
+      "link": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "contentSnippet": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude Meetings",
+      "link": "https://claude.com/resources/articles/claude-meetings",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "Add Claude to your video call and get the work started while you talk",
+      "contentSnippet": "Add Claude to your video call and get the work started while you talk",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude for Manufacturing",
+      "link": "https://claude.com/resources/articles/claude-for-manufacturing",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "contentSnippet": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+      "contentSnippet": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+      "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Work at the speed of thought",
+      "contentSnippet": "Work at the speed of thought",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Your apps can now open in Claude, and Claude can work in them",
+      "link": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+      "contentSnippet": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Curative is building a national provider network with agents on Claude",
+      "link": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Curative’s deal-making agent negotiates 2,000+ provider contracts a week.",
+      "contentSnippet": "Curative’s deal-making agent negotiates 2,000+ provider contracts a week.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude can design electronic prototypes from start to finish",
+      "link": "https://www.anthropic.com/research/claude-electronics-design",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+      "contentSnippet": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.",
+      "contentSnippet": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Which Claude model should you build with?",
+      "link": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+      "contentSnippet": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "link": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+      "contentSnippet": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JPMorganChase expands Claude Code to more employees across the firm",
+      "link": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "JPMorganChase expands Claude Code to more employees across the firm",
+      "contentSnippet": "JPMorganChase expands Claude Code to more employees across the firm",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The components of agent memory",
+      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-06T00:00:00.000Z",
+      "content": "For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how \"dreaming\" helps it organize memory and correct mistakes.",
+      "contentSnippet": "For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how \"dreaming\" helps it organize memory and correct mistakes.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Personal Finance in Claude",
+      "link": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "pubDate": "Thu, 05 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-05T00:00:00.000Z",
+      "content": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "contentSnippet": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "link": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+      "pubDate": "Thu, 05 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-05T00:00:00.000Z",
+      "content": "More visibility and control over Claude Enterprise for security teams",
+      "contentSnippet": "More visibility and control over Claude Enterprise for security teams",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "link": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-04T00:00:00.000Z",
+      "content": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "contentSnippet": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T11:46:55.971Z"
+}
